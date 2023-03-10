@@ -2,12 +2,12 @@
   <h-layout-single mode="middle" :width="1280">
     <h-multiline-input
           v-model="input"
-          :title="$t('idnEncoding.input')"
+          :title="$t('input')"
           @change="encode"
         />
         <h-multiline-result
           :result="output"
-          :result-desc="$t('idnEncoding.output')"
+          :result-desc="$t('output')"
         />
   </h-layout-single>
 </template>
