@@ -26,7 +26,6 @@
 import utf8 from 'utf8'
 import {ref} from 'vue'
 
-
 const format = ref('hex')
 const formatOptions = [
   { label: 'HEX', value: 'hex' },
