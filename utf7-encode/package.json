@@ -7,10 +7,10 @@
   },
   "mode": "production",
   "he3": {
-    "name": "UTF7 Decode",
-    "id": "utf7-decode",
+    "name": "UTF7 Encode",
+    "id": "utf7-encode",
     "version": "0.0.1",
-    "description": "UTF7 Decode",
+    "description": "UTF7 Encode",
     "isPublic": true,
     "category": [
       "encode"
@@ -18,7 +18,7 @@
     "keywords": [
       "utf7",
       "utf-7",
-      "decode"
+      "encode"
     ]
   },
   "dependencies": {
