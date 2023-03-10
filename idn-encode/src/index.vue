@@ -1,32 +1,31 @@
 <template>
   <h-layout-single mode="middle" :width="1280">
-    <h-multiline-input
-          v-model="input"
-          :title="$t('idnEncoding.input')"
-          @change="encode"
-        />
-        <h-multiline-result
-          :result="output"
-          :result-desc="$t('idnEncoding.output')"
-        />
+    <div>
+      <h-multiline-input
+        v-model="input"
+        :title="$t('idnEncoding.input')"
+        @change="encode" />
+    </div>
+    <h-multiline-result
+      :result="output"
+      :result-desc="$t('idnEncoding.output')" />
   </h-layout-single>
 </template>
 
-
 <script setup lang="ts">
-import {ref,onMounted} from "vue"
-import {toASCII } from "punycode"
+import { ref, onMounted } from 'vue';
+import { toASCII } from 'punycode';
 
-const EXAMPLE_DOMAIN = '氦三.com'
-const input = ref(EXAMPLE_DOMAIN)
-const output = ref('')
+const EXAMPLE_DOMAIN = '氦三.com';
+const input = ref(EXAMPLE_DOMAIN);
+const output = ref('');
 
 onMounted(() => {
-  encode()
-})
+  encode();
+});
 
 function encode() {
-  output.value = toASCII(input.value)
+  output.value = toASCII(input.value);
 }
 </script>
 

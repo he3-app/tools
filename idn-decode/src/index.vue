@@ -1,41 +1,42 @@
 <template>
   <h-layout-single mode="middle" :width="1280">
-    <h-multiline-input
-          v-model="input"
-          :title="$t('idnEncoding.input')"
-          @change="decode"
-        />
-        <h-multiline-result  :result="output"
-          :result-desc="$t('idnEncoding.output')"
-        />
+    <div>
+      <h-multiline-input
+        v-model="input"
+        :title="$t('idnEncoding.input')"
+        @change="decode" />
+    </div>
+    <h-multiline-result
+      :result="output"
+      :result-desc="$t('idnEncoding.output')" />
   </h-layout-single>
 </template>
 
 <script setup lang="ts">
-import {ref,onMounted} from "vue"
-import {likeIDN} from './util.ts'
+import { ref, onMounted } from 'vue';
+import { likeIDN } from './util.ts';
 
-import {toUnicode } from "punycode"
+import { toUnicode } from 'punycode';
 
-const EXAMPLE_IDN_DOMAIN = 'xn--ehqy74e.com'
-const input = ref(EXAMPLE_IDN_DOMAIN)
-const output = ref('')
+const EXAMPLE_IDN_DOMAIN = 'xn--ehqy74e.com';
+const input = ref(EXAMPLE_IDN_DOMAIN);
+const output = ref('');
 const props = defineProps<{
-  clipboardValue?: any
-}>()
+  clipboardValue?: any;
+}>();
 
-const emit = defineEmits(['acceptClipboardCb'])
+const emit = defineEmits(['acceptClipboardCb']);
 onMounted(async () => {
-  $he3.getLastClipboard().then(res => {
+  $he3.getLastClipboard().then((res) => {
     if (likeIDN(res)) {
-      input.value = res
-      decode()
-      $he3.useClipboardCallBack()
+      input.value = res;
+      decode();
+      $he3.useClipboardCallBack();
     }
-  })
-})
+  });
+});
 function decode() {
-  output.value = toUnicode(input.value)
+  output.value = toUnicode(input.value);
 }
 </script>
 
