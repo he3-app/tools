@@ -21,12 +21,8 @@ import { toUnicode } from 'punycode';
 const EXAMPLE_IDN_DOMAIN = 'xn--ehqy74e.com';
 const input = ref(EXAMPLE_IDN_DOMAIN);
 const output = ref('');
-const props = defineProps<{
-  clipboardValue?: any;
-}>();
 
-const emit = defineEmits(['acceptClipboardCb']);
-onMounted(async () => {
+onMounted(() => {
   $he3.getLastClipboard().then((res) => {
     if (likeIDN(res)) {
       input.value = res;

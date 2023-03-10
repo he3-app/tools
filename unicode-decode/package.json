@@ -7,22 +7,20 @@
   },
   "mode": "production",
   "he3": {
-    "name": "UTF7 Decode",
-    "id": "utf7-decode",
+    "name": "Unicode Decode",
+    "id": "unicode-decode",
     "version": "0.0.1",
-    "description": "UTF7 Decode",
+    "description": "Decodes unicode into text",
     "isPublic": true,
     "category": [
       "encode"
     ],
     "keywords": [
-      "utf7",
-      "utf-7",
+      "unicode",
       "decode"
     ]
   },
   "dependencies": {
-    "buffer": "^6.0.3",
     "vue": "^3.2.45",
     "vue-i18n": "^9.2.2"
   },
