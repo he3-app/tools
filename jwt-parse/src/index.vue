@@ -51,7 +51,7 @@ onMounted(() => {
     if (isJWT(res)) {
       inputValue.value = res
       parse()
-      $he3.useClipboardCallBack()
+      $he3.onUseClipboardValue()
     }
   })
 })

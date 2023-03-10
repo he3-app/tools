@@ -69,7 +69,7 @@ onMounted(() => {
     if (isUrl(res)) {
       inputValue.value = res;
       encode();
-      $he3.useClipboardCallBack();
+      $he3.onUseClipboardValue();
     }
   });
   encode();

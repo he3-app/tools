@@ -21,7 +21,7 @@ onMounted(() => {
   $he3.getLastClipboard().then((res) => {
     if (isUtf32Encoded(res)) {
       input.value = res;
-      $he3.useClipboardCallBack();
+      $he3.onUseClipboardValue();
     }
   });
 })

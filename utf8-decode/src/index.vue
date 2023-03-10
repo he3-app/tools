@@ -31,7 +31,7 @@ onMounted(() => {
     if (isUtf8Encoded(res)) {
       inputValue.value = res;
       decode();
-      $he3.useClipboardCallBack();
+      $he3.onUseClipboardValue();
     }
   });
 })

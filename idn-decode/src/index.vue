@@ -27,7 +27,7 @@ onMounted(() => {
     if (likeIDN(res)) {
       input.value = res;
       decode();
-      $he3.useClipboardCallBack();
+      $he3.onUseClipboardValue();
     }
   });
 });

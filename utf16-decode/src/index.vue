@@ -28,7 +28,7 @@ onMounted(() => {
     if (isUtf16Encoded(res)) {
       input.value = res;
       handleChange();
-      $he3.useClipboardCallBack();
+      $he3.onUseClipboardValue();
     }
   });
   handleChange()
