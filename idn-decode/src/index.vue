@@ -3,12 +3,12 @@
     <div>
       <h-multiline-input
         v-model="input"
-        :title="$t('idnEncoding.input')"
+        :title="$t('input')"
         @change="decode" />
     </div>
     <h-multiline-result
       :result="output"
-      :result-desc="$t('idnEncoding.output')" />
+      :result-desc="$t('output')" />
   </h-layout-single>
 </template>
 
