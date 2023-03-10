@@ -1,0 +1,21 @@
+name: "Publish tools"
+
+on:
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - name: setup node
+        uses: actions/setup-node@v3
+        with:
+          node-version: 16
+      - name: publish
+        env:
+          GITHUB_TOKEN: ${{ secrets.HE3_TOKEN }}
+        run: ./scripts/publish.sh
