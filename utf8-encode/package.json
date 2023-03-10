@@ -19,7 +19,7 @@
       "UTF",
       "UTF8",
       "UTF-8",
-      "Decode"
+      "Encode"
     ]
   },
   "dependencies": {
