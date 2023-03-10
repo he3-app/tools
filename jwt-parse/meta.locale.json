@@ -1,0 +1,167 @@
+{
+  "en": {
+    "$name": "JWT Parser",
+    "$description": "Parse JWT Token",
+    "$keywords": [
+      "jwt",
+      "parse",
+      "token",
+      "javascript",
+      "web",
+      "token",
+      "hs256",
+      "hs384",
+      "hs512"
+    ]
+  },
+  "fr": {
+    "$name": "Analyseur JWT",
+    "$description": "Analyser le jeton JWT",
+    "$keywords": [
+      "jwt",
+      "analyser",
+      "jeton",
+      "javascript",
+      "la toile",
+      "jeton",
+      "hs256",
+      "hs384",
+      "hs512"
+    ]
+  },
+  "pt": {
+    "$name": "Analisador JWT",
+    "$description": "Analisar token JWT",
+    "$keywords": [
+      "jwt",
+      "analisar",
+      "símbolo",
+      "javascript",
+      "rede",
+      "símbolo",
+      "hs256",
+      "hs384",
+      "hs512"
+    ]
+  },
+  "ja": {
+    "$name": "JWT パーサー",
+    "$description": "JWT トークンの解析",
+    "$keywords": [
+      "jwt",
+      "解析する",
+      "トークン",
+      "JavaScript",
+      "ウェブ",
+      "トークン",
+      "hs256",
+      "hs384",
+      "hs512"
+    ]
+  },
+  "es": {
+    "$name": "Analizador JWT",
+    "$description": "Analizar token JWT",
+    "$keywords": [
+      "jwt",
+      "analizar gramaticalmente",
+      "simbólico",
+      "javascript",
+      "web",
+      "simbólico",
+      "hs256",
+      "hs384",
+      "hs512"
+    ]
+  },
+  "de": {
+    "$name": "JWT-Parser",
+    "$description": "Analysieren Sie das JWT-Token",
+    "$keywords": [
+      "jwt",
+      "parsen",
+      "Zeichen",
+      "Javascript",
+      "Netz",
+      "Zeichen",
+      "hs256",
+      "hs384",
+      "hs512"
+    ]
+  },
+  "it": {
+    "$name": "Parser JWT",
+    "$description": "Analizza token JWT",
+    "$keywords": [
+      "jwt",
+      "analizzare",
+      "gettone",
+      "javascript",
+      "ragnatela",
+      "gettone",
+      "hs256",
+      "hs384",
+      "hs512"
+    ]
+  },
+  "zh-cn": {
+    "$name": "JWT 解析器",
+    "$description": "解析 JWT 令牌",
+    "$keywords": [
+      "jwt",
+      "解析",
+      "令牌",
+      "javascript",
+      "网络",
+      "令牌",
+      "HS256",
+      "HS384",
+      "HS512"
+    ]
+  },
+  "zh-tw": {
+    "$name": "JWT 解析器",
+    "$description": "解析 JWT 令牌",
+    "$keywords": [
+      "jwt",
+      "解析",
+      "令牌",
+      "javascript",
+      "網絡",
+      "令牌",
+      "HS256",
+      "HS384",
+      "HS512"
+    ]
+  },
+  "ru": {
+    "$name": "JWT-парсер",
+    "$description": "Разобрать токен JWT",
+    "$keywords": [
+      "jwt",
+      "разобрать",
+      "жетон",
+      "JavaScript",
+      "сеть",
+      "жетон",
+      "hs256",
+      "hs384",
+      "hs512"
+    ]
+  },
+  "ko": {
+    "$name": "JWT 파서",
+    "$description": "JWT 토큰 구문 분석",
+    "$keywords": [
+      "jwt",
+      "구문 분석",
+      "토큰",
+      "자바스크립트",
+      "편물",
+      "토큰",
+      "hs256",
+      "hs384",
+      "hs512"
+    ]
+  }
+}

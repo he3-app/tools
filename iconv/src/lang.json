@@ -1,0 +1,79 @@
+{
+  "zh": {
+    "select": "选择一个文本文件",
+    "convert": "转换",
+    "save": "保存为文件",
+    "sourceEncode": "指定源文件编码",
+    "targetEncode": "指定目标文件编码"
+  },
+  "en": {
+    "select": "Select a text file",
+    "convert": "Convert",
+    "save": "Save as File",
+    "sourceEncode": "Please specify source encode",
+    "targetEncode": "Please specify target encode"
+  },
+  "de": {
+    "select": "Wählen Sie eine Textdatei aus",
+    "convert": "Konvertieren",
+    "save": "Speichern Sie als Datei",
+    "sourceEncode": "Geben Sie die Quelldateikodierung an",
+    "targetEncode": "Geben Sie die Zieldateikodierung an"
+  },
+  "es": {
+    "select": "Seleccione un archivo de texto",
+    "convert": "Convertir",
+    "save": "Guardar como un archivo",
+    "sourceEncode": "Especificar la codificación del archivo de origen",
+    "targetEncode": "Especificar la codificación del archivo de destino"
+  },
+  "fr": {
+    "select": "Sélectionnez un fichier texte",
+    "convert": "Convertir",
+    "save": "Enregistrer en tant que fichier",
+    "sourceEncode": "Spécifiez le codage du fichier source",
+    "targetEncode": "Spécifiez le codage du fichier cible"
+  },
+  "it": {
+    "select": "Seleziona un file di testo",
+    "convert": "Convertire",
+    "save": "Salva come file",
+    "sourceEncode": "Specificare la codifica del file di origine",
+    "targetEncode": "Specificare la codifica del file di destinazione"
+  },
+  "ja": {
+    "select": "テキストファイルを選択します",
+    "convert": "変換",
+    "save": "ファイルとして保存します",
+    "sourceEncode": "ソースファイルエンコーディングを指定します",
+    "targetEncode": "ターゲットファイルエンコーディングを指定します"
+  },
+  "ko": {
+    "select": "텍스트 파일을 선택하십시오",
+    "convert": "전환하다",
+    "save": "파일로 저장하십시오",
+    "sourceEncode": "소스 파일 인코딩을 지정합니다",
+    "targetEncode": "대상 파일 인코딩을 지정합니다"
+  },
+  "pt": {
+    "select": "Selecione um arquivo de texto",
+    "convert": "Converter",
+    "save": "Salvar como um arquivo",
+    "sourceEncode": "Especifique a codificação do arquivo de origem",
+    "targetEncode": "Especifique a codificação do arquivo de destino"
+  },
+  "ru": {
+    "select": "Выберите текстовый файл",
+    "convert": "Конвертировать",
+    "save": "Сохранить как файл",
+    "sourceEncode": "Укажите кодирование исходного файла",
+    "targetEncode": "Укажите кодирование целевого файла"
+  },
+  "zh-tw": {
+    "select": "選擇一個文本文件",
+    "convert": "轉換",
+    "save": "保存為文件",
+    "sourceEncode": "指定源文件編碼",
+    "targetEncode": "指定目標文件編碼"
+  }
+}

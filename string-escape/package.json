@@ -1,0 +1,32 @@
+{
+  "type": "module",
+  "scripts": {
+    "dev": "he3 dev",
+    "publish": "he3 publish"
+  },
+  "he3": {
+    "name": "String Escape",
+    "id": "zfi7",
+    "version": "0.0.2",
+    "description": "String escaping and unescaping tools",
+    "category": [
+      "text"
+    ],
+    "keywords": [
+      "Escape",
+      "unescap",
+      "String"
+    ]
+  },
+  "dependencies": {
+    "dodollar": "^1.1.1",
+    "less": "^4.1.3",
+    "unescape-js": "^1.1.4",
+    "vue": "^3.2.45"
+  },
+  "devDependencies": {
+    "@he3-kit/cli": "latest",
+    "@vitejs/plugin-vue": "^4.0.0",
+    "vite": "^4.0.0"
+  }
+}

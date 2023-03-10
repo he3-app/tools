@@ -1,0 +1,90 @@
+{
+  "en": {
+    "$name": "Get Lang",
+    "$description": "get lang",
+    "$keywords": [
+      "get",
+      "lang"
+    ]
+  },
+  "zh-tw": {
+    "$name": "獲取語言包",
+    "$description": "獲取語言包",
+    "$keywords": [
+      "得到",
+      "郎"
+    ]
+  },
+  "zh-cn": {
+    "$name": "获取语言包",
+    "$description": "获取语言包",
+    "$keywords": [
+      "得到",
+      "郎"
+    ]
+  },
+  "ja": {
+    "$name": "ラングを取得",
+    "$description": "言語を取得",
+    "$keywords": [
+      "得る",
+      "言語"
+    ]
+  },
+  "ko": {
+    "$name": "랭을 얻으십시오",
+    "$description": "언어를 얻을",
+    "$keywords": [
+      "얻다",
+      "랭"
+    ]
+  },
+  "ru": {
+    "$name": "Получить Ланг",
+    "$description": "получить язык",
+    "$keywords": [
+      "получать",
+      "язык"
+    ]
+  },
+  "de": {
+    "$name": "Lang bekommen",
+    "$description": "lang werden",
+    "$keywords": [
+      "erhalten",
+      "lang"
+    ]
+  },
+  "pt": {
+    "$name": "Obter Lang",
+    "$description": "obter lang",
+    "$keywords": [
+      "pegar",
+      "idioma"
+    ]
+  },
+  "es": {
+    "$name": "Obtener idioma",
+    "$description": "conseguir lang",
+    "$keywords": [
+      "conseguir",
+      "idioma"
+    ]
+  },
+  "fr": {
+    "$name": "Obtenir la langue",
+    "$description": "devenir lang",
+    "$keywords": [
+      "obtenir",
+      "langue"
+    ]
+  },
+  "it": {
+    "$name": "Prendi Lang",
+    "$description": "ottenere lang",
+    "$keywords": [
+      "Ottenere",
+      "lang"
+    ]
+  }
+}
