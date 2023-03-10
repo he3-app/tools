@@ -1,35 +1,79 @@
 {
-  "en": {
-    "test": "test1"
-  },
   "zh": {
-    "test": "测试1"
+    "input": "请在此处输入你的JSON对象:",
+    "output": "输出:",
+    "path": "输入你的 JSONPath:",
+    "inputJson": "请输入JSON对象",
+    "inputJsonPath": "请输入JSONPath"
   },
-  "zh-tw": {
-    "test": "測試1"
-  },
-  "es": {
-    "test": "prueba1"
-  },
-  "ja": {
-    "test": "テスト1"
-  },
-  "ko": {
-    "test": "테스트1"
-  },
-  "ru": {
-    "test": "тест1"
+  "en": {
+    "input": "Please input your JSON object here:",
+    "output": "result:",
+    "path": "Please input your JSONPath:",
+    "inputJson": "Please input JSON object",
+    "inputJsonPath": "Please input JSONPath"
   },
   "de": {
-    "test": "Test1"
+    "input": "Bitte geben Sie hier Ihr JSON -Objekt ein:",
+    "output": "Ausgang:",
+    "path": "Geben Sie Ihren JsonPath ein:",
+    "inputJson": "Bitte geben Sie JSON-Objekt ein",
+    "inputJsonPath": "Bitte geben Sie JSONPath ein"
+  },
+  "es": {
+    "input": "Por favor ingrese su objeto JSON aquí:",
+    "output": "Producción:",
+    "path": "Ingrese su jsonpath:",
+    "inputJson": "Por favor ingrese objeto JSON",
+    "inputJsonPath": "Por favor ingrese JSONPath"
   },
   "fr": {
-    "test": "test1"
+    "input": "Veuillez saisir votre objet JSON ici:",
+    "output": "Sortir:",
+    "path": "Entrez votre jsonpath:",
+    "inputJson": "Veuillez saisir l'objet JSON",
+    "inputJsonPath": "Veuillez saisir JSONPath"
   },
   "it": {
-    "test": "test1"
+    "input": "Inserisci qui il tuo oggetto JSON:",
+    "output": "Produzione:",
+    "path": "Inserisci il tuo jsonpath:",
+    "inputJson": "Inserisci oggetto JSON",
+    "inputJsonPath": "Inserisci JSONPath"
+  },
+  "ja": {
+    "input": "ここにJSONオブジェクトを入力してください：",
+    "output": "出力：",
+    "path": "JsonPathを入力してください：",
+    "inputJson": "JSONオブジェクトを入力してください",
+    "inputJsonPath": "JSONPathを入力してください"
+  },
+  "ko": {
+    "input": "여기에 JSON 객체를 입력하십시오.",
+    "output": "산출:",
+    "path": "JSONPATH를 입력하십시오.",
+    "inputJson": "JSON 객체를 입력하십시오.",
+    "inputJsonPath": "JSONPATH를 입력하십시오."
   },
   "pt": {
-    "test": "teste1"
+    "input": "Por favor, insira seu objeto JSON aqui:",
+    "output": "Saída:",
+    "path": "Digite seu jsonpath:",
+    "inputJson": "Por favor, insira o objeto JSON",
+    "inputJsonPath": "Por favor, insira o JSONPath"
+  },
+  "ru": {
+    "input": "Пожалуйста, введите свой объект JSON здесь:",
+    "output": "Выход:",
+    "path": "Введите свой jsonpath:",
+    "inputJson": "Пожалуйста, введите объект JSON",
+    "inputJsonPath": "Пожалуйста, введите JSONPath"
+  },
+  "zh-tw": {
+    "input": "請在此處輸入你的JSON對象:",
+    "output": "輸出:",
+    "path": "輸入你的 JSONPath:",
+    "inputJson": "請輸入JSON對象",
+    "inputJsonPath": "請輸入JSONPath"
   }
 }

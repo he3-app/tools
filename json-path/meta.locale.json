@@ -1,0 +1,100 @@
+{
+  "en": {
+    "$name": "JSON Path",
+    "$description": "JSON Path evalution",
+    "$keywords": [
+      "path",
+      "json",
+      "evalution"
+    ]
+  },
+  "ja": {
+    "$name": "JSON パス",
+    "$description": "JSON パス評価",
+    "$keywords": [
+      "道",
+      "json",
+      "評価"
+    ]
+  },
+  "pt": {
+    "$name": "Caminho JSON",
+    "$description": "Avaliação de caminho JSON",
+    "$keywords": [
+      "caminho",
+      "json",
+      "avaliação"
+    ]
+  },
+  "zh-tw": {
+    "$name": "JSON 路徑",
+    "$description": "根據JSON路徑尋值",
+    "$keywords": [
+      "小路",
+      "JSON",
+      "評價"
+    ]
+  },
+  "zh-cn": {
+    "$name": "JSON 路径",
+    "$description": "根据JSON路径寻值",
+    "$keywords": [
+      "路径",
+      "寻值"
+    ]
+  },
+  "ko": {
+    "$name": "JSON 경로",
+    "$description": "JSON 경로 평가",
+    "$keywords": [
+      "길",
+      "json",
+      "평가"
+    ]
+  },
+  "fr": {
+    "$name": "Chemin JSON",
+    "$description": "Évaluation du chemin JSON",
+    "$keywords": [
+      "chemin",
+      "json",
+      "évaluation"
+    ]
+  },
+  "it": {
+    "$name": "Percorso JSON",
+    "$description": "Valutazione del percorso JSON",
+    "$keywords": [
+      "sentiero",
+      "json",
+      "valutazione"
+    ]
+  },
+  "de": {
+    "$name": "JSON-Pfad",
+    "$description": "JSON-Pfadauswertung",
+    "$keywords": [
+      "Weg",
+      "json",
+      "Auswertung"
+    ]
+  },
+  "ru": {
+    "$name": "Путь JSON",
+    "$description": "Оценка пути JSON",
+    "$keywords": [
+      "путь",
+      "json",
+      "оценка"
+    ]
+  },
+  "es": {
+    "$name": "Ruta JSON",
+    "$description": "Evaluación de ruta JSON",
+    "$keywords": [
+      "camino",
+      "json",
+      "evaluación"
+    ]
+  }
+}
