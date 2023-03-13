@@ -1,0 +1,145 @@
+{
+  "en": {
+    "$name": "CodeToImage",
+    "$description": "Create beautiful images of your code",
+    "$keywords": [
+      "code",
+      "image",
+      "pic",
+      "picture",
+      "photo",
+      "codeToImage",
+      "png"
+    ]
+  },
+  "it": {
+    "$name": "CodeToImage",
+    "$description": "Crea bellissime immagini del tuo codice",
+    "$keywords": [
+      "codice",
+      "Immagine",
+      "foto",
+      "immagine",
+      "foto",
+      "codeToImage",
+      "png"
+    ]
+  },
+  "ko": {
+    "$name": "CodeToImage",
+    "$description": "코드의 아름다운 이미지 만들기",
+    "$keywords": [
+      "암호",
+      "영상",
+      "사진",
+      "그림",
+      "사진",
+      "codeToImage",
+      "png"
+    ]
+  },
+  "zh-cn": {
+    "$name": "代码转图像",
+    "$description": "为您的代码创建漂亮的图像",
+    "$keywords": [
+      "代码",
+      "图像",
+      "图片",
+      "图片",
+      "照片",
+      "代码到图像",
+      "PNG"
+    ]
+  },
+  "ja": {
+    "$name": "CodeToImage",
+    "$description": "コードの美しい画像を作成する",
+    "$keywords": [
+      "コード",
+      "画像",
+      "写真",
+      "写真",
+      "写真",
+      "codeToImage",
+      "png"
+    ]
+  },
+  "zh-tw": {
+    "$name": "代碼轉圖像",
+    "$description": "為您的代碼創建漂亮的圖像",
+    "$keywords": [
+      "代碼",
+      "圖像",
+      "圖片",
+      "圖片",
+      "照片",
+      "代碼到圖像",
+      "PNG"
+    ]
+  },
+  "de": {
+    "$name": "CodeToImage",
+    "$description": "Erstellen Sie schöne Bilder Ihres Codes",
+    "$keywords": [
+      "Code",
+      "Bild",
+      "Bild",
+      "Bild",
+      "Foto",
+      "codeToImage",
+      "png"
+    ]
+  },
+  "ru": {
+    "$name": "Кодтоизображение",
+    "$description": "Создавайте красивые изображения вашего кода",
+    "$keywords": [
+      "код",
+      "изображение",
+      "рис",
+      "картина",
+      "Фото",
+      "кодтоизображение",
+      "png"
+    ]
+  },
+  "es": {
+    "$name": "Código a la imagen",
+    "$description": "Crea bellas imágenes de tu código",
+    "$keywords": [
+      "código",
+      "imagen",
+      "Foto",
+      "imagen",
+      "foto",
+      "codeToImage",
+      "png"
+    ]
+  },
+  "fr": {
+    "$name": "CodeVersImage",
+    "$description": "Créez de belles images de votre code",
+    "$keywords": [
+      "code",
+      "image",
+      "photo",
+      "image",
+      "photo",
+      "codeVersImage",
+      "png"
+    ]
+  },
+  "pt": {
+    "$name": "CodeToImage",
+    "$description": "Crie lindas imagens do seu código",
+    "$keywords": [
+      "código",
+      "imagem",
+      "foto",
+      "foto",
+      "foto",
+      "codeToImage",
+      "png"
+    ]
+  }
+}
