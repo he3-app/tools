@@ -1,0 +1,35 @@
+{
+  "en": {
+    "inputTitle": "Please Input"
+  },
+  "zh": {
+    "inputTitle": "输入内容"
+  },
+  "zh-tw": {
+    "inputTitle": "輸入內容"
+  },
+  "es": {
+    "inputTitle": "Por favor, introduzca"
+  },
+  "ja": {
+    "inputTitle": "入力してください"
+  },
+  "ko": {
+    "inputTitle": "입력하십시오"
+  },
+  "ru": {
+    "inputTitle": "Пожалуйста, введите"
+  },
+  "de": {
+    "inputTitle": "Bitte geben Sie"
+  },
+  "fr": {
+    "inputTitle": "S'il vous plaît entrer"
+  },
+  "it": {
+    "inputTitle": "Si prega di inserire"
+  },
+  "pt": {
+    "inputTitle": "Por favor, insira"
+  }
+}

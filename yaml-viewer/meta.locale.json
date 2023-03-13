@@ -1,0 +1,123 @@
+{
+  "zh-tw": {
+    "$name": "YAML 查看",
+    "$description": "以更結構化的方式查看 YAML",
+    "$keywords": [
+      "yaml",
+      "yml",
+      "查看",
+      "特性",
+      "看法"
+    ]
+  },
+  "ru": {
+    "$name": "YAML-представление",
+    "$description": "Просмотр YAML в более структурированном виде",
+    "$keywords": [
+      "батат",
+      "yml",
+      "проверять",
+      "характеристики",
+      "вид"
+    ]
+  },
+  "pt": {
+    "$name": "Visualização YAML",
+    "$description": "Veja o YAML de uma forma mais estruturada",
+    "$keywords": [
+      "yaml",
+      "yml",
+      "verificar",
+      "propriedades",
+      "visualizar"
+    ]
+  },
+  "ko": {
+    "$name": "YAML 보기",
+    "$description": "보다 구조화된 방식으로 YAML 보기",
+    "$keywords": [
+      "얌",
+      "yml",
+      "확인하다",
+      "속성",
+      "보다"
+    ]
+  },
+  "fr": {
+    "$name": "Vue YAML",
+    "$description": "Afficher YAML de manière plus structurée",
+    "$keywords": [
+      "yaml",
+      "yml",
+      "vérifier",
+      "propriétés",
+      "voir"
+    ]
+  },
+  "en": {
+    "$name": "YAML view",
+    "$description": "View YAML in a more structured way",
+    "$keywords": [
+      "yaml",
+      "yml",
+      "check",
+      "properties",
+      "view"
+    ]
+  },
+  "it": {
+    "$name": "visualizzazione YAML",
+    "$description": "Visualizza YAML in un modo più strutturato",
+    "$keywords": [
+      "yaml",
+      "yml",
+      "controllo",
+      "proprietà",
+      "visualizzazione"
+    ]
+  },
+  "zh-cn": {
+    "$name": "YAML 查看",
+    "$description": "以更结构化的方式查看 YAML",
+    "$keywords": [
+      "yaml",
+      "yml",
+      "查看",
+      "检查",
+      "属性"
+    ]
+  },
+  "ja": {
+    "$name": "YAML ビュー",
+    "$description": "より構造化された方法で YAML を表示する",
+    "$keywords": [
+      "yaml",
+      "yml",
+      "チェック",
+      "プロパティ",
+      "意見"
+    ]
+  },
+  "de": {
+    "$name": "YAML-Ansicht",
+    "$description": "Zeigen Sie YAML strukturierter an",
+    "$keywords": [
+      "Jaml",
+      "yml",
+      "überprüfen",
+      "Eigenschaften",
+      "Sicht"
+    ]
+  },
+  "es": {
+    "$name": "Vista YAML",
+    "$description": "Ver YAML de una manera más estructurada",
+    "$keywords": [
+      "Yaml",
+      "yml",
+      "controlar",
+      "propiedades",
+      "vista"
+    ]
+  }
+}

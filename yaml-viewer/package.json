@@ -6,21 +6,28 @@
     "publish": "he3 publish"
   },
   "he3": {
-    "name": "Get Lang",
-    "id": "get-lang",
-    "version": "0.0.8",
-    "description": "get lang",
+    "name": "YAML 查看",
+    "id": "yaml-viewer",
+    "version": "0.0.1",
+    "description": "View YAML in a more structured way",
+    "isPublic": true,
     "category": [
-      "text"
+      "yaml"
     ],
     "keywords": [
-      "get", "lang"
-    ],
-    "isPublic": true
+      "yaml",
+      "yml",
+      "check",
+      "properties",
+      "view"
+    ]
   },
   "dependencies": {
+    "jsoneditor": "^9.10.0",
     "vue": "^3.2.45",
-    "vue-i18n": "^9.2.2"
+    "vue-i18n": "^9.2.2",
+    "vue-json-viewer": "^3.0.4",
+    "yaml": "^2.2.1"
   },
   "devDependencies": {
     "@he3-kit/cli": "latest",

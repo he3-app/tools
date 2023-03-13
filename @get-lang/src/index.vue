@@ -4,7 +4,7 @@
       <a-input v-model:value="input"/>
       <a-button tpye="primary" @click="handleClick" class="button">get</a-button>
     </div>
-    <h-multiline-result :result="text" result-desc="输出" />
+    <h-multiline :value="text" result-desc="输出" />
   </h-layout-single>
 </template>
 
