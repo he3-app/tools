@@ -7,9 +7,9 @@
         :title="$t('input')"
         @change="handleChange"
       />
-      <h-multiline-result
-        :result="output"
-        :result-desc="$t('output')"
+      <h-multiline
+        :value="output"
+        :title="$t('output')"
       />
     </div>
   </h-layout-single>

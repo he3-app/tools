@@ -8,9 +8,9 @@
         select-all-on-mount
         />
       </div>
-      <h-multiline-result
-      :result="output"
-        :result-desc="$t('output')"
+      <h-multiline
+        :value="output"
+        :title="$t('output')"
       />
   </h-layout-single>
 </template>

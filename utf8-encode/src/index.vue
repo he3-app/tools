@@ -15,9 +15,9 @@
         :options="formatOptions"
         @change="encode"
       />
-      <h-multiline-result
-        v-model:result="outputValue"
-        :result-desc="$t('result_tip')"
+      <h-multiline
+        :value="outputValue"
+        :title="$t('result_tip')"
       />
   </h-layout-single>
 </template>

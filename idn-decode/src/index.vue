@@ -6,9 +6,9 @@
         :title="$t('input')"
         @change="decode" />
     </div>
-    <h-multiline-result
-      :result="output"
-      :result-desc="$t('output')" />
+    <h-multiline
+      :value="output"
+      :title="$t('output')" />
   </h-layout-single>
 </template>
 
@@ -30,6 +30,7 @@ onMounted(() => {
       $he3.onUseClipboardValue();
     }
   });
+  decode();
 });
 function decode() {
   output.value = toUnicode(input.value);

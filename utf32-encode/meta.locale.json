@@ -1,0 +1,101 @@
+{
+  "en": {
+    "$name": "UTF32 Encode",
+    "$description": "UTF32 Encode",
+    "$keywords": [
+      "UTF32",
+      "UTF-32",
+      "Encode"
+    ]
+  },
+  "ru": {
+    "$name": "Кодировка UTF32",
+    "$description": "Кодировка UTF32",
+    "$keywords": [
+      "UTF32",
+      "UTF-32",
+      "Кодировать"
+    ]
+  },
+  "zh-tw": {
+    "$name": "UTF32編碼",
+    "$description": "UTF32編碼",
+    "$keywords": [
+      "UTF32",
+      "UTF-32",
+      "編碼"
+    ]
+  },
+  "pt": {
+    "$name": "Codificação UTF32",
+    "$description": "Codificação UTF32",
+    "$keywords": [
+      "UTF32",
+      "UTF-32",
+      "Codificar"
+    ]
+  },
+  "zh-cn": {
+    "$name": "UTF32编码",
+    "$description": "UTF32编码",
+    "$keywords": [
+      "UTF32",
+      "UTF-32",
+      "编码"
+    ]
+  },
+  "fr": {
+    "$name": "Encodage UTF32",
+    "$description": "Encodage UTF32",
+    "$keywords": [
+      "UTF32",
+      "UTF-32",
+      "Encoder"
+    ]
+  },
+  "it": {
+    "$name": "Codifica UTF32",
+    "$description": "Codifica UTF32",
+    "$keywords": [
+      "UTF32",
+      "UTF-32",
+      "Codificare"
+    ]
+  },
+  "ja": {
+    "$name": "UTF32 エンコード",
+    "$description": "UTF32 エンコード",
+    "$keywords": [
+      "UTF32",
+      "UTF-32",
+      "エンコード"
+    ]
+  },
+  "ko": {
+    "$name": "UTF32 인코딩",
+    "$description": "UTF32 인코딩",
+    "$keywords": [
+      "UTF32",
+      "UTF-32",
+      "인코딩"
+    ]
+  },
+  "de": {
+    "$name": "UTF32-Codierung",
+    "$description": "UTF32-Codierung",
+    "$keywords": [
+      "UTF32",
+      "UTF-32",
+      "Kodieren"
+    ]
+  },
+  "es": {
+    "$name": "Codificación UTF32",
+    "$description": "Codificación UTF32",
+    "$keywords": [
+      "UTF32",
+      "UTF-32",
+      "Codificar"
+    ]
+  }
+}

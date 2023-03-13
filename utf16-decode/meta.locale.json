@@ -1,0 +1,101 @@
+{
+  "en": {
+    "$name": "UTF16 Decode",
+    "$description": "UTF16 Decode",
+    "$keywords": [
+      "UTF16",
+      "UTF-16",
+      "Decode"
+    ]
+  },
+  "zh-cn": {
+    "$name": "UTF16解码",
+    "$description": "UTF16解码",
+    "$keywords": [
+      "UTF16",
+      "UTF-16",
+      "解码"
+    ]
+  },
+  "zh-tw": {
+    "$name": "UTF16解碼",
+    "$description": "UTF16解碼",
+    "$keywords": [
+      "UTF16",
+      "UTF-16",
+      "解碼"
+    ]
+  },
+  "fr": {
+    "$name": "Décodage UTF16",
+    "$description": "Décodage UTF16",
+    "$keywords": [
+      "UTF16",
+      "UTF-16",
+      "Décoder"
+    ]
+  },
+  "ko": {
+    "$name": "UTF16 디코드",
+    "$description": "UTF16 디코드",
+    "$keywords": [
+      "UTF16",
+      "UTF-16",
+      "풀다"
+    ]
+  },
+  "ru": {
+    "$name": "Декодирование UTF16",
+    "$description": "Декодирование UTF16",
+    "$keywords": [
+      "UTF16",
+      "UTF-16",
+      "Расшифровать"
+    ]
+  },
+  "it": {
+    "$name": "Decodifica UTF16",
+    "$description": "Decodifica UTF16",
+    "$keywords": [
+      "UTF16",
+      "UTF-16",
+      "Decodificare"
+    ]
+  },
+  "es": {
+    "$name": "Decodificación UTF16",
+    "$description": "Decodificación UTF16",
+    "$keywords": [
+      "UTF16",
+      "UTF-16",
+      "Descodificar"
+    ]
+  },
+  "ja": {
+    "$name": "UTF16 デコード",
+    "$description": "UTF16 デコード",
+    "$keywords": [
+      "UTF16",
+      "UTF-16",
+      "デコード"
+    ]
+  },
+  "pt": {
+    "$name": "Decodificação UTF16",
+    "$description": "Decodificação UTF16",
+    "$keywords": [
+      "UTF16",
+      "UTF-16",
+      "Decodificar"
+    ]
+  },
+  "de": {
+    "$name": "UTF16-Decodierung",
+    "$description": "UTF16-Decodierung",
+    "$keywords": [
+      "UTF16",
+      "UTF-16",
+      "Dekodieren"
+    ]
+  }
+}

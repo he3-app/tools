@@ -1,0 +1,101 @@
+{
+  "en": {
+    "$name": "UTF32 Decode",
+    "$description": "UTF32 Decode",
+    "$keywords": [
+      "UTF32",
+      "UTF-32",
+      "Decode"
+    ]
+  },
+  "ko": {
+    "$name": "UTF32 디코드",
+    "$description": "UTF32 디코드",
+    "$keywords": [
+      "UTF32",
+      "UTF-32",
+      "풀다"
+    ]
+  },
+  "it": {
+    "$name": "Decodifica UTF32",
+    "$description": "Decodifica UTF32",
+    "$keywords": [
+      "UTF32",
+      "UTF-32",
+      "Decodificare"
+    ]
+  },
+  "ja": {
+    "$name": "UTF32 デコード",
+    "$description": "UTF32 デコード",
+    "$keywords": [
+      "UTF32",
+      "UTF-32",
+      "デコード"
+    ]
+  },
+  "zh-cn": {
+    "$name": "UTF32解码",
+    "$description": "UTF32解码",
+    "$keywords": [
+      "UTF32",
+      "UTF-32",
+      "解码"
+    ]
+  },
+  "zh-tw": {
+    "$name": "UTF32解碼",
+    "$description": "UTF32解碼",
+    "$keywords": [
+      "UTF32",
+      "UTF-32",
+      "解碼"
+    ]
+  },
+  "de": {
+    "$name": "UTF32-Decodierung",
+    "$description": "UTF32-Decodierung",
+    "$keywords": [
+      "UTF32",
+      "UTF-32",
+      "Dekodieren"
+    ]
+  },
+  "fr": {
+    "$name": "Décodage UTF32",
+    "$description": "Décodage UTF32",
+    "$keywords": [
+      "UTF32",
+      "UTF-32",
+      "Décoder"
+    ]
+  },
+  "pt": {
+    "$name": "Decodificação UTF32",
+    "$description": "Decodificação UTF32",
+    "$keywords": [
+      "UTF32",
+      "UTF-32",
+      "Decodificar"
+    ]
+  },
+  "ru": {
+    "$name": "Декодирование UTF32",
+    "$description": "Декодирование UTF32",
+    "$keywords": [
+      "UTF32",
+      "UTF-32",
+      "Расшифровать"
+    ]
+  },
+  "es": {
+    "$name": "Decodificación UTF32",
+    "$description": "Decodificación UTF32",
+    "$keywords": [
+      "UTF32",
+      "UTF-32",
+      "Descodificar"
+    ]
+  }
+}

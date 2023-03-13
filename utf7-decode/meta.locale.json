@@ -1,0 +1,101 @@
+{
+  "en": {
+    "$name": "UTF7 Decode",
+    "$description": "UTF7 Decode",
+    "$keywords": [
+      "utf7",
+      "utf-7",
+      "decode"
+    ]
+  },
+  "de": {
+    "$name": "UTF7-Decodierung",
+    "$description": "UTF7-Decodierung",
+    "$keywords": [
+      "utf7",
+      "utf-7",
+      "dekodieren"
+    ]
+  },
+  "zh-cn": {
+    "$name": "UTF7解码",
+    "$description": "UTF7解码",
+    "$keywords": [
+      "utf7",
+      "utf-7",
+      "解码"
+    ]
+  },
+  "ru": {
+    "$name": "Декодирование UTF7",
+    "$description": "Декодирование UTF7",
+    "$keywords": [
+      "utf7",
+      "утф-7",
+      "декодировать"
+    ]
+  },
+  "ko": {
+    "$name": "UTF7 디코드",
+    "$description": "UTF7 디코드",
+    "$keywords": [
+      "utf7",
+      "UTF-7",
+      "풀다"
+    ]
+  },
+  "fr": {
+    "$name": "Décodage UTF7",
+    "$description": "Décodage UTF7",
+    "$keywords": [
+      "utf7",
+      "utf-7",
+      "décoder"
+    ]
+  },
+  "pt": {
+    "$name": "Decodificação UTF7",
+    "$description": "Decodificação UTF7",
+    "$keywords": [
+      "utf7",
+      "utf-7",
+      "decodificar"
+    ]
+  },
+  "zh-tw": {
+    "$name": "UTF7解碼",
+    "$description": "UTF7解碼",
+    "$keywords": [
+      "utf7",
+      "utf-7",
+      "解碼"
+    ]
+  },
+  "it": {
+    "$name": "Decodifica UTF7",
+    "$description": "Decodifica UTF7",
+    "$keywords": [
+      "utf7",
+      "utf-7",
+      "decodificare"
+    ]
+  },
+  "es": {
+    "$name": "Decodificación UTF7",
+    "$description": "Decodificación UTF7",
+    "$keywords": [
+      "utf7",
+      "utf-7",
+      "descodificar"
+    ]
+  },
+  "ja": {
+    "$name": "UTF7 デコード",
+    "$description": "UTF7 デコード",
+    "$keywords": [
+      "utf7",
+      "utf-7",
+      "デコード"
+    ]
+  }
+}

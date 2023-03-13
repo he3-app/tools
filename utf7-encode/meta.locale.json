@@ -1,0 +1,101 @@
+{
+  "en": {
+    "$name": "UTF7 Encode",
+    "$description": "UTF7 Encode",
+    "$keywords": [
+      "utf7",
+      "utf-7",
+      "encode"
+    ]
+  },
+  "it": {
+    "$name": "Codifica UTF7",
+    "$description": "Codifica UTF7",
+    "$keywords": [
+      "utf7",
+      "utf-7",
+      "codificare"
+    ]
+  },
+  "es": {
+    "$name": "Codificación UTF7",
+    "$description": "Codificación UTF7",
+    "$keywords": [
+      "utf7",
+      "utf-7",
+      "codificar"
+    ]
+  },
+  "ru": {
+    "$name": "Кодировка UTF7",
+    "$description": "Кодировка UTF7",
+    "$keywords": [
+      "utf7",
+      "утф-7",
+      "кодировать"
+    ]
+  },
+  "ko": {
+    "$name": "UTF7 인코딩",
+    "$description": "UTF7 인코딩",
+    "$keywords": [
+      "utf7",
+      "UTF-7",
+      "인코딩"
+    ]
+  },
+  "ja": {
+    "$name": "UTF7 エンコード",
+    "$description": "UTF7 エンコード",
+    "$keywords": [
+      "utf7",
+      "utf-7",
+      "エンコード"
+    ]
+  },
+  "zh-cn": {
+    "$name": "UTF7编码",
+    "$description": "UTF7编码",
+    "$keywords": [
+      "utf7",
+      "utf-7",
+      "编码"
+    ]
+  },
+  "zh-tw": {
+    "$name": "UTF7編碼",
+    "$description": "UTF7編碼",
+    "$keywords": [
+      "utf7",
+      "utf-7",
+      "編碼"
+    ]
+  },
+  "fr": {
+    "$name": "Encodage UTF7",
+    "$description": "Encodage UTF7",
+    "$keywords": [
+      "utf7",
+      "utf-7",
+      "encoder"
+    ]
+  },
+  "pt": {
+    "$name": "Codificação UTF7",
+    "$description": "Codificação UTF7",
+    "$keywords": [
+      "utf7",
+      "utf-7",
+      "codificar"
+    ]
+  },
+  "de": {
+    "$name": "UTF7-Codierung",
+    "$description": "UTF7-Codierung",
+    "$keywords": [
+      "utf7",
+      "utf-7",
+      "kodieren"
+    ]
+  }
+}

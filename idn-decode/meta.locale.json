@@ -1,0 +1,112 @@
+{
+  "de": {
+    "$name": "IDN-Decodierung",
+    "$description": "IDN-Decodierung",
+    "$keywords": [
+      "idn",
+      "Punycode",
+      "dekodieren",
+      "Domain"
+    ]
+  },
+  "ko": {
+    "$name": "IDN 디코드",
+    "$description": "IDN 디코드",
+    "$keywords": [
+      "신분증",
+      "퓨니 코드",
+      "풀다",
+      "도메인"
+    ]
+  },
+  "zh-cn": {
+    "$name": "国际化域名解码",
+    "$description": "国际化域名解码",
+    "$keywords": [
+      "身份证号",
+      "密码",
+      "解码",
+      "领域"
+    ]
+  },
+  "en": {
+    "$name": "IDN Decode",
+    "$description": "IDN Decode",
+    "$keywords": [
+      "idn",
+      "punycode",
+      "decode",
+      "domain"
+    ]
+  },
+  "it": {
+    "$name": "Decodifica IDN",
+    "$description": "Decodifica IDN",
+    "$keywords": [
+      "id",
+      "punycode",
+      "decodificare",
+      "dominio"
+    ]
+  },
+  "fr": {
+    "$name": "Décodage IDN",
+    "$description": "Décodage IDN",
+    "$keywords": [
+      "idn",
+      "punycode",
+      "décoder",
+      "domaine"
+    ]
+  },
+  "ja": {
+    "$name": "IDN デコード",
+    "$description": "IDN デコード",
+    "$keywords": [
+      "idn",
+      "ピュニコード",
+      "デコード",
+      "ドメイン"
+    ]
+  },
+  "ru": {
+    "$name": "Декодирование ИДИ",
+    "$description": "Декодирование ИДИ",
+    "$keywords": [
+      "идн",
+      "пуникод",
+      "декодировать",
+      "домен"
+    ]
+  },
+  "zh-tw": {
+    "$name": "國際化域名解碼",
+    "$description": "國際化域名解碼",
+    "$keywords": [
+      "身份證號碼",
+      "密碼",
+      "解碼",
+      "領域"
+    ]
+  },
+  "es": {
+    "$name": "Decodificación de IDN",
+    "$description": "Decodificación de IDN",
+    "$keywords": [
+      "identificación",
+      "punycode",
+      "descodificar",
+      "dominio"
+    ]
+  },
+  "pt": {
+    "$name": "Decodificação de IDN",
+    "$description": "Decodificação de IDN",
+    "$keywords": [
+      "idn",
+      "punycode",
+      "decodificar",
+      "domínio"
+    ]
+  }
+}

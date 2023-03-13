@@ -1,0 +1,112 @@
+{
+  "en": {
+    "$name": "UTF8 Decode",
+    "$description": "UTF8 Decode",
+    "$keywords": [
+      "UTF",
+      "UTF8",
+      "UTF-8",
+      "Encode"
+    ]
+  },
+  "es": {
+    "$name": "Decodificación UTF8",
+    "$description": "Decodificación UTF8",
+    "$keywords": [
+      "UTF",
+      "UTF8",
+      "UTF-8",
+      "Codificar"
+    ]
+  },
+  "zh-cn": {
+    "$name": "UTF8解码",
+    "$description": "UTF8解码",
+    "$keywords": [
+      "编码器",
+      "UTF8编码",
+      "UTF-8编码",
+      "编码"
+    ]
+  },
+  "ru": {
+    "$name": "Декодирование UTF8",
+    "$description": "Декодирование UTF8",
+    "$keywords": [
+      "UTF",
+      "UTF8",
+      "UTF-8",
+      "Кодировать"
+    ]
+  },
+  "zh-tw": {
+    "$name": "UTF8解碼",
+    "$description": "UTF8解碼",
+    "$keywords": [
+      "編碼器",
+      "UTF8編碼",
+      "UTF-8編碼",
+      "編碼"
+    ]
+  },
+  "it": {
+    "$name": "Decodifica UTF8",
+    "$description": "Decodifica UTF8",
+    "$keywords": [
+      "UTF",
+      "UTF8",
+      "UTF-8",
+      "Codificare"
+    ]
+  },
+  "fr": {
+    "$name": "Décodage UTF8",
+    "$description": "Décodage UTF8",
+    "$keywords": [
+      "UTF",
+      "UTF8",
+      "UTF-8",
+      "Encoder"
+    ]
+  },
+  "pt": {
+    "$name": "Decodificação UTF8",
+    "$description": "Decodificação UTF8",
+    "$keywords": [
+      "UTF",
+      "UTF8",
+      "UTF-8",
+      "Codificar"
+    ]
+  },
+  "de": {
+    "$name": "UTF8-Decodierung",
+    "$description": "UTF8-Decodierung",
+    "$keywords": [
+      "UTF",
+      "UTF8",
+      "UTF-8",
+      "Kodieren"
+    ]
+  },
+  "ja": {
+    "$name": "UTF8 デコード",
+    "$description": "UTF8 デコード",
+    "$keywords": [
+      "UTF",
+      "UTF8",
+      "UTF-8",
+      "エンコード"
+    ]
+  },
+  "ko": {
+    "$name": "UTF8 디코드",
+    "$description": "UTF8 디코드",
+    "$keywords": [
+      "UTF",
+      "UTF8",
+      "UTF-8",
+      "인코딩"
+    ]
+  }
+}
