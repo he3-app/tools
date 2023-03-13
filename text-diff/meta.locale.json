@@ -1,0 +1,101 @@
+{
+  "en": {
+    "$name": "Text Diff",
+    "$description": "Diff two text",
+    "$keywords": [
+      "Diff",
+      "Text",
+      "compare"
+    ]
+  },
+  "de": {
+    "$name": "Textdiff",
+    "$description": "Diff zwei Text",
+    "$keywords": [
+      "Diff",
+      "Text",
+      "vergleichen"
+    ]
+  },
+  "zh-cn": {
+    "$name": "文本 对比",
+    "$description": "对比两个文本",
+    "$keywords": [
+      "差异",
+      "文本",
+      "比较"
+    ]
+  },
+  "ja": {
+    "$name": "テキスト差分",
+    "$description": "2 つのテキストの差分",
+    "$keywords": [
+      "差分",
+      "文章",
+      "比較"
+    ]
+  },
+  "zh-tw": {
+    "$name": "文本差異",
+    "$description": "區分兩個文本",
+    "$keywords": [
+      "差異",
+      "文本",
+      "比較"
+    ]
+  },
+  "pt": {
+    "$name": "Diferença de texto",
+    "$description": "Diferenciar dois textos",
+    "$keywords": [
+      "Diferença",
+      "Texto",
+      "comparar"
+    ]
+  },
+  "ko": {
+    "$name": "텍스트 차이",
+    "$description": "두 텍스트 비교",
+    "$keywords": [
+      "차이",
+      "텍스트",
+      "비교하다"
+    ]
+  },
+  "it": {
+    "$name": "Testo Diff",
+    "$description": "Diff due testo",
+    "$keywords": [
+      "Diff",
+      "Testo",
+      "confrontare"
+    ]
+  },
+  "fr": {
+    "$name": "Différence de texte",
+    "$description": "Diff deux texte",
+    "$keywords": [
+      "Différence",
+      "Texte",
+      "comparer"
+    ]
+  },
+  "es": {
+    "$name": "Diferencia de texto",
+    "$description": "Diferencia dos texto",
+    "$keywords": [
+      "diferencia",
+      "Texto",
+      "comparar"
+    ]
+  },
+  "ru": {
+    "$name": "Разница текста",
+    "$description": "Различать два текста",
+    "$keywords": [
+      "Диф",
+      "Текст",
+      "сравнивать"
+    ]
+  }
+}
