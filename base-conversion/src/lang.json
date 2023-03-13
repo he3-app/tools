@@ -1,0 +1,101 @@
+{
+  "zh": {
+    "2": "二进制",
+    "8": "八进制",
+    "10": "十进制",
+    "16": "十六进制",
+    "base": "进制",
+    "copy": "复制",
+    "copySuccess": "复制成功"
+  },
+  "en": {
+    "2": "Base 2",
+    "8": "Base 8",
+    "10": "Base 10",
+    "16": "Base 16",
+    "base": "Base",
+    "copy": "Copy",
+    "copySuccess": "Copy Success"
+  },
+  "de": {
+    "2": "Binär",
+    "8": "Oktal",
+    "10": "Dezimal",
+    "16": "Hexadisch",
+    "base": "Vorauszahlung",
+    "copy": "Kopieren",
+    "copySuccess": "Kopieren erfolgreich"
+  },
+  "es": {
+    "2": "Binario",
+    "8": "Octal",
+    "10": "Decimal",
+    "16": "Hexádico",
+    "base": "Avance",
+    "copy": "Copiar",
+    "copySuccess": "Copia exitosa"
+  },
+  "fr": {
+    "2": "Binaire",
+    "8": "Octal",
+    "10": "Décimal",
+    "16": "Hexadique",
+    "base": "Avance",
+    "copy": "Copier",
+    "copySuccess": "Copie réussie"
+  },
+  "it": {
+    "2": "Binario",
+    "8": "Ottale",
+    "10": "Decimale",
+    "16": "Esadico",
+    "base": "Avanzare",
+    "copy": "Copia",
+    "copySuccess": "Copia riuscita"
+  },
+  "ja": {
+    "2": "バイナリ",
+    "8": "オクタル",
+    "10": "小数",
+    "16": "ヘキサディック",
+    "base": "前進",
+    "copy": "コピー",
+    "copySuccess": "コピー成功"
+  },
+  "ko": {
+    "2": "이진",
+    "8": "10 월",
+    "10": "소수",
+    "16": "16 진",
+    "base": "전진",
+    "copy": "복사",
+    "copySuccess": "복사 성공"
+  },
+  "pt": {
+    "2": "Binário",
+    "8": "Octal",
+    "10": "Decimal",
+    "16": "Hexádico",
+    "base": "Avançar",
+    "copy": "Copiar",
+    "copySuccess": "Cópia bem sucedida"
+  },
+  "ru": {
+    "2": "Бинарный",
+    "8": "Восьми",
+    "10": "Десятичная дробь",
+    "16": "Гексадический",
+    "base": "Продвигать",
+    "copy": "Копировать",
+    "copySuccess": "Копирование успешно"
+  },
+  "zh-tw": {
+    "2": "二進制",
+    "8": "八進制",
+    "10": "十進制",
+    "16": "十六進制",
+    "base": "進制",
+    "copy": "複製",
+    "copySuccess": "複製成功"
+  }
+}

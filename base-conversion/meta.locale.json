@@ -1,0 +1,174 @@
+{
+  "en": {
+    "$name": "Number Base Converter",
+    "$description": "Calculate file permissions",
+    "$keywords": [
+      "hex",
+      "hexadecimal",
+      "oct",
+      "octal",
+      "dec",
+      "decimal",
+      "bin",
+      "binary",
+      "base",
+      "number"
+    ]
+  },
+  "zh-cn": {
+    "$name": "数字进制转换",
+    "$description": "数字进制转换",
+    "$keywords": [
+      "十六进制",
+      "十六进制",
+      "二进制",
+      "十进制",
+      "八进制",
+      "进制"
+    ]
+  },
+  "zh-tw": {
+    "$name": "數字進制轉換",
+    "$description": "數字進制轉換",
+    "$keywords": [
+      "十六進制",
+      "十六進制",
+      "八月",
+      "八進制",
+      "十二月",
+      "十進制",
+      "垃圾桶",
+      "二進制",
+      "根據",
+      "數字"
+    ]
+  },
+  "ko": {
+    "$name": "숫자 기본 변환기",
+    "$description": "파일 권한 계산",
+    "$keywords": [
+      "마녀",
+      "16진수",
+      "10월",
+      "팔진수",
+      "12월",
+      "소수",
+      "큰 상자",
+      "바이너리",
+      "베이스",
+      "숫자"
+    ]
+  },
+  "it": {
+    "$name": "Convertitore di basi numeriche",
+    "$description": "Calcola i permessi dei file",
+    "$keywords": [
+      "esadecimale",
+      "esadecimale",
+      "ott",
+      "ottale",
+      "dic",
+      "decimale",
+      "bidone",
+      "binario",
+      "base",
+      "numero"
+    ]
+  },
+  "es": {
+    "$name": "Convertidor de base numérica",
+    "$description": "Calcular permisos de archivos",
+    "$keywords": [
+      "maleficio",
+      "hexadecimal",
+      "oct",
+      "octales",
+      "dic",
+      "decimal",
+      "papelera",
+      "binario",
+      "base",
+      "número"
+    ]
+  },
+  "fr": {
+    "$name": "Convertisseur de base numérique",
+    "$description": "Calculer les autorisations de fichiers",
+    "$keywords": [
+      "hexagone",
+      "hexadécimal",
+      "oct",
+      "octal",
+      "déc",
+      "décimal",
+      "poubelle",
+      "binaire",
+      "base",
+      "nombre"
+    ]
+  },
+  "de": {
+    "$name": "Zahlenbasis-Konverter",
+    "$description": "Berechnen Sie Dateiberechtigungen",
+    "$keywords": [
+      "verhexen",
+      "hexadezimal",
+      "Okt",
+      "oktal",
+      "Dez",
+      "Dezimal",
+      "Behälter",
+      "binär",
+      "Base",
+      "Nummer"
+    ]
+  },
+  "pt": {
+    "$name": "Conversor de Base Numérica",
+    "$description": "Calcular permissões de arquivo",
+    "$keywords": [
+      "hexadecimal",
+      "hexadecimal",
+      "outubro",
+      "octal",
+      "dezembro",
+      "decimal",
+      "lixeira",
+      "binário",
+      "base",
+      "número"
+    ]
+  },
+  "ru": {
+    "$name": "Конвертер числовой базы",
+    "$description": "Рассчитать права доступа к файлам",
+    "$keywords": [
+      "шестигранник",
+      "шестнадцатеричный",
+      "октябрь",
+      "восьмеричный",
+      "декабрь",
+      "десятичная дробь",
+      "мусорное ведро",
+      "бинарный",
+      "база",
+      "число"
+    ]
+  },
+  "ja": {
+    "$name": "基数コンバーター",
+    "$description": "ファイルのアクセス許可を計算する",
+    "$keywords": [
+      "六角",
+      "16進数",
+      "10月",
+      "8進数",
+      "12月",
+      "小数",
+      "置き場",
+      "バイナリ",
+      "ベース",
+      "番号"
+    ]
+  }
+}
