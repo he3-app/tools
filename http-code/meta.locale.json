@@ -1,0 +1,130 @@
+{
+  "en": {
+    "$name": "Http Status Code Cheatsheet",
+    "$description": "Http Status Code References",
+    "$keywords": [
+      "status",
+      "Code",
+      "http",
+      "cheat",
+      "sheet",
+      "reference"
+    ]
+  },
+  "ja": {
+    "$name": "HTTP ステータス コードのチートシート",
+    "$description": "HTTP ステータス コードのリファレンス",
+    "$keywords": [
+      "スターテス",
+      "コード",
+      "http",
+      "浮気",
+      "シート",
+      "参照"
+    ]
+  },
+  "zh-tw": {
+    "$name": "Http 狀態代碼參考",
+    "$description": "Http 狀態代碼參考",
+    "$keywords": [
+      "http",
+      "狀態代碼",
+      "查詢",
+      "說明"
+    ]
+  },
+  "zh-cn": {
+    "$name": "Http 状态码参考",
+    "$description": "Http 状态代码参考",
+    "$keywords": [
+      "http",
+      "状态码",
+      "查询",
+      "说明"
+    ]
+  },
+  "ko": {
+    "$name": "Http 상태 코드 치트시트",
+    "$description": "Http 상태 코드 참조",
+    "$keywords": [
+      "상태",
+      "암호",
+      "http",
+      "속이다",
+      "시트",
+      "참조"
+    ]
+  },
+  "fr": {
+    "$name": "Feuille de triche du code d'état HTTP",
+    "$description": "Références de code d'état HTTP",
+    "$keywords": [
+      "statut",
+      "Code",
+      "http",
+      "tricher",
+      "feuille",
+      "référence"
+    ]
+  },
+  "ru": {
+    "$name": "Шпаргалка по коду состояния HTTP",
+    "$description": "Ссылки на код состояния HTTP",
+    "$keywords": [
+      "положение дел",
+      "Код",
+      "http",
+      "изменять",
+      "лист",
+      "ссылка"
+    ]
+  },
+  "it": {
+    "$name": "Cheatsheet del codice di stato Http",
+    "$description": "Riferimenti codice di stato Http",
+    "$keywords": [
+      "stato",
+      "Codice",
+      "http",
+      "imbroglione",
+      "foglio",
+      "riferimento"
+    ]
+  },
+  "de": {
+    "$name": "Http-Statuscode-Cheatsheet",
+    "$description": "Http-Statuscode-Referenzen",
+    "$keywords": [
+      "Status",
+      "Code",
+      "http",
+      "schummeln",
+      "Blatt",
+      "Referenz"
+    ]
+  },
+  "es": {
+    "$name": "Hoja de referencia del código de estado Http",
+    "$description": "Referencias de código de estado Http",
+    "$keywords": [
+      "estado",
+      "Código",
+      "http",
+      "engañar",
+      "hoja",
+      "referencia"
+    ]
+  },
+  "pt": {
+    "$name": "Folha de dicas do código de status Http",
+    "$description": "Referências de código de status Http",
+    "$keywords": [
+      "status",
+      "Código",
+      "http",
+      "trair",
+      "folha",
+      "referência"
+    ]
+  }
+}
