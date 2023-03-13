@@ -1,0 +1,90 @@
+{
+  "en": {
+    "$name": "Unicode Encode",
+    "$description": "Encodes text into unicode",
+    "$keywords": [
+      "unicode",
+      "encode"
+    ]
+  },
+  "pt": {
+    "$name": "Código Unicode",
+    "$description": "Codifica o texto em unicode",
+    "$keywords": [
+      "unicode",
+      "codificar"
+    ]
+  },
+  "ru": {
+    "$name": "Кодировка Юникод",
+    "$description": "Кодирует текст в юникод",
+    "$keywords": [
+      "юникод",
+      "кодировать"
+    ]
+  },
+  "ko": {
+    "$name": "유니코드 인코딩",
+    "$description": "텍스트를 유니코드로 인코딩",
+    "$keywords": [
+      "유니코드",
+      "인코딩"
+    ]
+  },
+  "zh-cn": {
+    "$name": "Unicode 编码",
+    "$description": "将文本编码为 un​​icode",
+    "$keywords": [
+      "统一码",
+      "编码"
+    ]
+  },
+  "zh-tw": {
+    "$name": "Unicode 編碼",
+    "$description": "將文本編碼為 unicode",
+    "$keywords": [
+      "統一碼",
+      "編碼"
+    ]
+  },
+  "es": {
+    "$name": "Codificación Unicode",
+    "$description": "Codifica texto en Unicode",
+    "$keywords": [
+      "unicode",
+      "codificar"
+    ]
+  },
+  "ja": {
+    "$name": "Unicode エンコード",
+    "$description": "テキストをユニコードにエンコードします",
+    "$keywords": [
+      "ユニコード",
+      "エンコード"
+    ]
+  },
+  "fr": {
+    "$name": "Encodage Unicode",
+    "$description": "Encode le texte en unicode",
+    "$keywords": [
+      "unicode",
+      "encoder"
+    ]
+  },
+  "it": {
+    "$name": "Codifica Unicode",
+    "$description": "Codifica il testo in unicode",
+    "$keywords": [
+      "unicode",
+      "codificare"
+    ]
+  },
+  "de": {
+    "$name": "Unicode-Codierung",
+    "$description": "Kodiert Text in Unicode",
+    "$keywords": [
+      "Unicode",
+      "kodieren"
+    ]
+  }
+}

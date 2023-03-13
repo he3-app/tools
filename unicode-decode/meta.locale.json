@@ -1,0 +1,90 @@
+{
+  "en": {
+    "$name": "Unicode Decode",
+    "$description": "Decodes unicode into text",
+    "$keywords": [
+      "unicode",
+      "decode"
+    ]
+  },
+  "ja": {
+    "$name": "ユニコードデコード",
+    "$description": "Unicode をテキストにデコードします",
+    "$keywords": [
+      "ユニコード",
+      "デコード"
+    ]
+  },
+  "zh-cn": {
+    "$name": "Unicode 解码",
+    "$description": "将 Unicode 解码为文本",
+    "$keywords": [
+      "统一码",
+      "解码"
+    ]
+  },
+  "zh-tw": {
+    "$name": "Unicode 解碼",
+    "$description": "將 Unicode 解碼為文本",
+    "$keywords": [
+      "統一碼",
+      "解碼"
+    ]
+  },
+  "ru": {
+    "$name": "Декодирование Юникода",
+    "$description": "Декодирует юникод в текст",
+    "$keywords": [
+      "юникод",
+      "декодировать"
+    ]
+  },
+  "it": {
+    "$name": "Decodifica Unicode",
+    "$description": "Decodifica Unicode in testo",
+    "$keywords": [
+      "unicode",
+      "decodificare"
+    ]
+  },
+  "es": {
+    "$name": "Decodificación Unicode",
+    "$description": "Decodifica Unicode en texto",
+    "$keywords": [
+      "unicode",
+      "descodificar"
+    ]
+  },
+  "pt": {
+    "$name": "Decodificação Unicode",
+    "$description": "Decodifica unicode em texto",
+    "$keywords": [
+      "unicode",
+      "decodificar"
+    ]
+  },
+  "de": {
+    "$name": "Unicode-Decodierung",
+    "$description": "Dekodiert Unicode in Text",
+    "$keywords": [
+      "Unicode",
+      "dekodieren"
+    ]
+  },
+  "ko": {
+    "$name": "유니코드 디코드",
+    "$description": "유니코드를 텍스트로 디코딩",
+    "$keywords": [
+      "유니코드",
+      "풀다"
+    ]
+  },
+  "fr": {
+    "$name": "Décodage Unicode",
+    "$description": "Décode l'unicode en texte",
+    "$keywords": [
+      "unicode",
+      "décoder"
+    ]
+  }
+}
