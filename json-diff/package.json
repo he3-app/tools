@@ -8,7 +8,7 @@
   "he3": {
     "name": "JSON Diff",
     "id": "json-diff",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "description": "Visualize JSON differences",
     "isPublic": true,
     "category": [

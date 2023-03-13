@@ -1,0 +1,112 @@
+{
+  "en": {
+    "$name": "YAML Diff",
+    "$description": "Visualize YAML differences",
+    "$keywords": [
+      "diff",
+      "yaml",
+      "yml",
+      "differences"
+    ]
+  },
+  "ko": {
+    "$name": "YAML 차이",
+    "$description": "YAML 차이점 시각화",
+    "$keywords": [
+      "차이",
+      "얌",
+      "yml",
+      "차이"
+    ]
+  },
+  "zh-cn": {
+    "$name": "YAML 对比",
+    "$description": "可视化对比 YAML 差异",
+    "$keywords": [
+      "差异",
+      "yaml",
+      "对比",
+      "不同"
+    ]
+  },
+  "zh-tw": {
+    "$name": "YAML差異",
+    "$description": "可視化 YAML 差異",
+    "$keywords": [
+      "差異",
+      "yaml",
+      "yml",
+      "差異"
+    ]
+  },
+  "fr": {
+    "$name": "Différences YAML",
+    "$description": "Visualisez les différences YAML",
+    "$keywords": [
+      "différence",
+      "yaml",
+      "yml",
+      "différences"
+    ]
+  },
+  "it": {
+    "$name": "YAML Diff",
+    "$description": "Visualizza le differenze YAML",
+    "$keywords": [
+      "diff",
+      "yaml",
+      "yml",
+      "differenze"
+    ]
+  },
+  "es": {
+    "$name": "Diferencia YAML",
+    "$description": "Visualice las diferencias de YAML",
+    "$keywords": [
+      "diferencia",
+      "Yaml",
+      "yml",
+      "diferencias"
+    ]
+  },
+  "ru": {
+    "$name": "Разница YAML",
+    "$description": "Визуализируйте различия YAML",
+    "$keywords": [
+      "разница",
+      "батат",
+      "yml",
+      "различия"
+    ]
+  },
+  "pt": {
+    "$name": "Diferença YAML",
+    "$description": "Visualize as diferenças do YAML",
+    "$keywords": [
+      "diferença",
+      "yaml",
+      "yml",
+      "diferenças"
+    ]
+  },
+  "de": {
+    "$name": "YAML-Diff",
+    "$description": "Visualisieren Sie YAML-Unterschiede",
+    "$keywords": [
+      "diff",
+      "Jaml",
+      "yml",
+      "Unterschiede"
+    ]
+  },
+  "ja": {
+    "$name": "YAML 差分",
+    "$description": "YAML の違いを視覚化する",
+    "$keywords": [
+      "差分",
+      "yaml",
+      "yml",
+      "違い"
+    ]
+  }
+}

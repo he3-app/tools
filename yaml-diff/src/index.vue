@@ -1,5 +1,5 @@
 <template>
-    <DiffConmponent type="json"/>
+    <DiffConmponent type="yaml"/>
 </template>
 
 <script setup lang="ts">

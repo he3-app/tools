@@ -54,7 +54,9 @@ const props = defineProps<{
 const editor = ref(null)
 
 
-function render(left, right) {
+let currentTheme = $he3.theme
+function render(left, right, theme) {
+  currentTheme = theme || currentTheme;
   try {
     editor.value.wrap.parentNode.removeChild(editor.value.wrap)
   } catch (e) {
@@ -70,7 +72,7 @@ function render(left, right) {
     connect: 'align',
     readOnly: false,
     allowEditingOriginals: true,
-    theme: ($he3.theme === 'dark') ? '3024-night' : '', // 定义了 class 的后缀，当前主题来自 'codemirror-v5/theme/3024-night.css'
+    theme: (currentTheme === 'dark') ? '3024-night' : '', // 定义了 class 的后缀，当前主题来自 'codemirror-v5/theme/3024-night.css'
   })
   editor.value = e
 }
