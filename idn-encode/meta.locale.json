@@ -80,30 +80,25 @@
     ]
   },
   "zh-cn": {
-    "$name": "IDN编码",
-    "$description": "IDN编码",
+    "$name": "IDN 编码",
+    "$description": "IDN 编码",
     "$keywords": [
-      "身份证号",
-      "密码",
       "编码",
-      "领域"
+      "域名"
     ]
   },
   "zh-tw": {
-    "$name": "IDN編碼",
-    "$description": "IDN編碼",
+    "$name": "IDN 編碼",
+    "$description": "IDN 編碼",
     "$keywords": [
-      "身份證號碼",
-      "密碼",
       "編碼",
-      "領域"
+      "域名"
     ]
   },
   "it": {
     "$name": "Codifica IDN",
     "$description": "Codifica IDN",
     "$keywords": [
-      "id",
       "punycode",
       "codificare",
       "dominio"

@@ -54,8 +54,8 @@
     ]
   },
   "zh-cn": {
-    "$name": "UTF7编码",
-    "$description": "UTF7编码",
+    "$name": "UTF7 编码",
+    "$description": "UTF7 编码",
     "$keywords": [
       "utf7",
       "utf-7",
@@ -63,8 +63,8 @@
     ]
   },
   "zh-tw": {
-    "$name": "UTF7編碼",
-    "$description": "UTF7編碼",
+    "$name": "UTF7 編碼",
+    "$description": "UTF7 編碼",
     "$keywords": [
       "utf7",
       "utf-7",

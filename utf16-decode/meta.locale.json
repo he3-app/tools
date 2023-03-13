@@ -9,8 +9,8 @@
     ]
   },
   "zh-cn": {
-    "$name": "UTF16解码",
-    "$description": "UTF16解码",
+    "$name": "UTF16 解码",
+    "$description": "UTF16 解码",
     "$keywords": [
       "UTF16",
       "UTF-16",
@@ -18,8 +18,8 @@
     ]
   },
   "zh-tw": {
-    "$name": "UTF16解碼",
-    "$description": "UTF16解碼",
+    "$name": "UTF16 解碼",
+    "$description": "UTF16 解碼",
     "$keywords": [
       "UTF16",
       "UTF-16",

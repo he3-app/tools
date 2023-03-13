@@ -20,12 +20,11 @@
     ]
   },
   "zh-cn": {
-    "$name": "UTF8解码",
-    "$description": "UTF8解码",
+    "$name": "UTF8 编码",
+    "$description": "UTF8 编码",
     "$keywords": [
-      "编码器",
-      "UTF8编码",
-      "UTF-8编码",
+      "UTF8",
+      "UTF-8",
       "编码"
     ]
   },
@@ -40,12 +39,11 @@
     ]
   },
   "zh-tw": {
-    "$name": "UTF8解碼",
-    "$description": "UTF8解碼",
+    "$name": "UTF8 編碼",
+    "$description": "UTF8 編碼",
     "$keywords": [
-      "編碼器",
-      "UTF8編碼",
-      "UTF-8編碼",
+      "UTF8",
+      "UTF-8",
       "編碼"
     ]
   },

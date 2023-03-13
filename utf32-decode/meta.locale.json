@@ -36,8 +36,8 @@
     ]
   },
   "zh-cn": {
-    "$name": "UTF32解码",
-    "$description": "UTF32解码",
+    "$name": "UTF32 解码",
+    "$description": "UTF32 解码",
     "$keywords": [
       "UTF32",
       "UTF-32",
@@ -45,8 +45,8 @@
     ]
   },
   "zh-tw": {
-    "$name": "UTF32解碼",
-    "$description": "UTF32解碼",
+    "$name": "UTF32 解碼",
+    "$description": "UTF32 解碼",
     "$keywords": [
       "UTF32",
       "UTF-32",
