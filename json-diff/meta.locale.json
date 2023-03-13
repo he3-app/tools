@@ -1,0 +1,112 @@
+{
+  "en": {
+    "$name": "JSON Diff",
+    "$description": "Visualize JSON differences",
+    "$keywords": [
+      "diff",
+      "json",
+      "compare",
+      "comparison"
+    ]
+  },
+  "es": {
+    "$name": "Diferencia JSON",
+    "$description": "Visualice las diferencias de JSON",
+    "$keywords": [
+      "diferencia",
+      "json",
+      "comparar",
+      "comparación"
+    ]
+  },
+  "zh-cn": {
+    "$name": "JSON 对比",
+    "$description": "可视化对比 JSON 差异",
+    "$keywords": [
+      "对比",
+      "差异",
+      "比较",
+      "不同"
+    ]
+  },
+  "zh-tw": {
+    "$name": "JSON 差異",
+    "$description": "可視化 JSON 差異",
+    "$keywords": [
+      "差異",
+      "JSON",
+      "比較",
+      "比較"
+    ]
+  },
+  "ko": {
+    "$name": "JSON 차이",
+    "$description": "JSON 차이점 시각화",
+    "$keywords": [
+      "차이",
+      "json",
+      "비교하다",
+      "비교"
+    ]
+  },
+  "pt": {
+    "$name": "Diferença JSON",
+    "$description": "Visualize diferenças de JSON",
+    "$keywords": [
+      "diferença",
+      "json",
+      "comparar",
+      "comparação"
+    ]
+  },
+  "it": {
+    "$name": "JSON Diff",
+    "$description": "Visualizza le differenze JSON",
+    "$keywords": [
+      "diff",
+      "json",
+      "confrontare",
+      "confronto"
+    ]
+  },
+  "fr": {
+    "$name": "Différence JSON",
+    "$description": "Visualisez les différences JSON",
+    "$keywords": [
+      "différence",
+      "json",
+      "comparer",
+      "comparaison"
+    ]
+  },
+  "ja": {
+    "$name": "JSON差分",
+    "$description": "JSON の違いを視覚化する",
+    "$keywords": [
+      "差分",
+      "json",
+      "比較",
+      "比較"
+    ]
+  },
+  "ru": {
+    "$name": "Разница JSON",
+    "$description": "Визуализируйте различия JSON",
+    "$keywords": [
+      "разница",
+      "json",
+      "сравнивать",
+      "сравнение"
+    ]
+  },
+  "de": {
+    "$name": "JSON-Diff",
+    "$description": "Visualisieren Sie JSON-Unterschiede",
+    "$keywords": [
+      "diff",
+      "json",
+      "vergleichen",
+      "Vergleich"
+    ]
+  }
+}
