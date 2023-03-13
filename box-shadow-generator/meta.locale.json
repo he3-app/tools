@@ -1,0 +1,123 @@
+{
+  "en": {
+    "$name": "CSS Box shadow generator",
+    "$description": "generate and preview box-shadow",
+    "$keywords": [
+      "shadow",
+      "box",
+      "css",
+      "preview",
+      "generate"
+    ]
+  },
+  "de": {
+    "$name": "CSS-Box-Schattengenerator",
+    "$description": "Box-Schatten erzeugen und in der Vorschau anzeigen",
+    "$keywords": [
+      "Schatten",
+      "Kasten",
+      "css",
+      "Vorschau",
+      "generieren"
+    ]
+  },
+  "zh-cn": {
+    "$name": "CSS Box shadow 生成器",
+    "$description": "生成并预览 box-shadow",
+    "$keywords": [
+      "阴影",
+      "盒子",
+      "样式",
+      "预览",
+      "生成"
+    ]
+  },
+  "es": {
+    "$name": "Generador de sombras CSS Box",
+    "$description": "generar y obtener una vista previa de la sombra del cuadro",
+    "$keywords": [
+      "sombra",
+      "caja",
+      "CSS",
+      "avance",
+      "generar"
+    ]
+  },
+  "zh-tw": {
+    "$name": "CSS 框陰影生成器",
+    "$description": "生成和預覽框陰影",
+    "$keywords": [
+      "陰影",
+      "盒子",
+      "CSS",
+      "預覽",
+      "產生"
+    ]
+  },
+  "it": {
+    "$name": "Generatore di ombre CSS Box",
+    "$description": "generare e visualizzare in anteprima box-shadow",
+    "$keywords": [
+      "ombra",
+      "scatola",
+      "css",
+      "anteprima",
+      "creare"
+    ]
+  },
+  "ru": {
+    "$name": "Генератор теней CSS Box",
+    "$description": "создание и предварительный просмотр box-shadow",
+    "$keywords": [
+      "тень",
+      "коробка",
+      "css",
+      "предварительный просмотр",
+      "генерировать"
+    ]
+  },
+  "pt": {
+    "$name": "Gerador de sombra de caixa CSS",
+    "$description": "gerar e visualizar box-shadow",
+    "$keywords": [
+      "sombra",
+      "caixa",
+      "CSS",
+      "visualizar",
+      "gerar"
+    ]
+  },
+  "fr": {
+    "$name": "Générateur d'ombre CSS Box",
+    "$description": "générer et prévisualiser box-shadow",
+    "$keywords": [
+      "ombre",
+      "boîte",
+      "CSS",
+      "Aperçu",
+      "générer"
+    ]
+  },
+  "ko": {
+    "$name": "CSS 상자 그림자 생성기",
+    "$description": "box-shadow 생성 및 미리보기",
+    "$keywords": [
+      "그림자",
+      "상자",
+      "CSS",
+      "시사",
+      "생성하다"
+    ]
+  },
+  "ja": {
+    "$name": "CSS ボックス シャドウ ジェネレーター",
+    "$description": "box-shadow の生成とプレビュー",
+    "$keywords": [
+      "影",
+      "箱",
+      "CSS",
+      "プレビュー",
+      "生成"
+    ]
+  }
+}
