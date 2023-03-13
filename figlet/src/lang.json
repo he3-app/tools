@@ -1,0 +1,46 @@
+{
+  "zh": {
+    "fontType": "字体类型",
+    "enterText": "输入文字"
+  },
+  "en": {
+    "fontType": "Font Type",
+    "enterText": "Enter Text"
+  },
+  "de": {
+    "fontType": "Typ",
+    "enterText": "Eingabetext"
+  },
+  "es": {
+    "fontType": "Tipo",
+    "enterText": "Texto de entrada"
+  },
+  "fr": {
+    "fontType": "Taper",
+    "enterText": "Texte de saisie"
+  },
+  "it": {
+    "fontType": "Tipo",
+    "enterText": "Testo di input"
+  },
+  "ja": {
+    "fontType": "タイプ",
+    "enterText": "入力テキスト"
+  },
+  "ko": {
+    "fontType": "유형",
+    "enterText": "입력 텍스트"
+  },
+  "pt": {
+    "fontType": "Tipo",
+    "enterText": "Entrada de texto"
+  },
+  "ru": {
+    "fontType": "Тип",
+    "enterText": "Входной текст"
+  },
+  "zh-tw": {
+    "fontType": "字體類型",
+    "enterText": "輸入文字"
+  }
+}

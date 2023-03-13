@@ -1,0 +1,113 @@
+{
+  "en": {
+    "$name": "Now",
+    "$description": "Get current time",
+    "$keywords": [
+      "time",
+      "timestamp",
+      "date",
+      "now"
+    ]
+  },
+  "pt": {
+    "$name": "Agora",
+    "$description": "Obter hora atual",
+    "$keywords": [
+      "tempo",
+      "carimbo de data/hora",
+      "data",
+      "agora"
+    ]
+  },
+  "zh-cn": {
+    "$name": "当前时间",
+    "$description": "获取当前时间",
+    "$keywords": [
+      "时间",
+      "当前",
+      "日期",
+      "现在",
+      "此刻"
+    ]
+  },
+  "zh-tw": {
+    "$name": "現在",
+    "$description": "獲取當前時間",
+    "$keywords": [
+      "時間",
+      "時間戳",
+      "日期",
+      "現在"
+    ]
+  },
+  "ja": {
+    "$name": "今",
+    "$description": "現在時刻を取得する",
+    "$keywords": [
+      "時間",
+      "タイムスタンプ",
+      "日にち",
+      "今"
+    ]
+  },
+  "it": {
+    "$name": "Ora",
+    "$description": "Ottieni l'ora corrente",
+    "$keywords": [
+      "tempo",
+      "timestamp",
+      "data",
+      "Ora"
+    ]
+  },
+  "ko": {
+    "$name": "지금",
+    "$description": "현재 시간 가져오기",
+    "$keywords": [
+      "시간",
+      "타임스탬프",
+      "날짜",
+      "지금"
+    ]
+  },
+  "ru": {
+    "$name": "Сейчас",
+    "$description": "Получить текущее время",
+    "$keywords": [
+      "время",
+      "отметка времени",
+      "дата",
+      "сейчас"
+    ]
+  },
+  "fr": {
+    "$name": "Maintenant",
+    "$description": "Obtenir l'heure actuelle",
+    "$keywords": [
+      "temps",
+      "horodatage",
+      "date",
+      "maintenant"
+    ]
+  },
+  "de": {
+    "$name": "Jetzt",
+    "$description": "Holen Sie sich die aktuelle Zeit",
+    "$keywords": [
+      "Zeit",
+      "Zeitstempel",
+      "Datum",
+      "Jetzt"
+    ]
+  },
+  "es": {
+    "$name": "Ahora",
+    "$description": "Obtener hora actual",
+    "$keywords": [
+      "tiempo",
+      "marca de tiempo",
+      "fecha",
+      "ahora"
+    ]
+  }
+}

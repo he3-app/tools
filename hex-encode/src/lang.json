@@ -1,0 +1,123 @@
+{
+  "zh": {
+    "input_tip": "请在这里输入内容：",
+    "result_tip": "在这里得到结果:",
+    "result_tip_no_colon": "在这里得到结果",
+    "delimiter_tip": "分隔符:",
+    "delimiter_empty": "无分隔符",
+    "delimiter_colon": "冒号",
+    "delimiter_comma": "逗号",
+    "delimiter_space": "空格",
+    "delimiter_hyphen": "中划线"
+  },
+  "en": {
+    "input_tip": "Please input your content here:",
+    "result_tip": "Get result here:",
+    "result_tip_no_colon": "Get result here",
+    "delimiter_tip": "Delimiter:",
+    "delimiter_empty": "empty",
+    "delimiter_colon": "Colon",
+    "delimiter_comma": "Comma",
+    "delimiter_space": "Space",
+    "delimiter_hyphen": "Hyphen"
+  },
+  "de": {
+    "input_tip": "Bitte geben Sie den Inhalt hier ein:",
+    "result_tip": "Holen Sie sich das Ergebnis hier:",
+    "result_tip_no_colon": "Holen Sie sich das Ergebnis hier",
+    "delimiter_tip": "Synthetisches Symbol:",
+    "delimiter_empty": "Keine geteilte Partition",
+    "delimiter_colon": "Doppelpunkt",
+    "delimiter_comma": "Komma",
+    "delimiter_space": "Raum",
+    "delimiter_hyphen": "Mittel"
+  },
+  "es": {
+    "input_tip": "Ingrese el contenido aquí:",
+    "result_tip": "Obtenga el resultado aquí:",
+    "result_tip_no_colon": "Obtenga el resultado aquí",
+    "delimiter_tip": "Símbolo sintético:",
+    "delimiter_empty": "Sin partición dividida",
+    "delimiter_colon": "colon",
+    "delimiter_comma": "coma",
+    "delimiter_space": "Espacio",
+    "delimiter_hyphen": "Medio"
+  },
+  "fr": {
+    "input_tip": "Veuillez saisir le contenu ici:",
+    "result_tip": "Obtenez le résultat ici:",
+    "result_tip_no_colon": "Obtenez le résultat ici",
+    "delimiter_tip": "Symbole synthétique:",
+    "delimiter_empty": "Pas de partition partagée",
+    "delimiter_colon": "côlon",
+    "delimiter_comma": "virgule",
+    "delimiter_space": "Espace",
+    "delimiter_hyphen": "Moyen"
+  },
+  "it": {
+    "input_tip": "Inserisci il contenuto qui:",
+    "result_tip": "Ottieni il risultato qui:",
+    "result_tip_no_colon": "Ottieni il risultato qui",
+    "delimiter_tip": "Simbolo sintetico:",
+    "delimiter_empty": "Nessuna partizione divisa",
+    "delimiter_colon": "colon",
+    "delimiter_comma": "virgola",
+    "delimiter_space": "Spazio",
+    "delimiter_hyphen": "medio"
+  },
+  "ja": {
+    "input_tip": "ここにコンテンツを入力してください：",
+    "result_tip": "ここで結果を取得します：",
+    "result_tip_no_colon": "ここで結果を入手してください",
+    "delimiter_tip": "合成シンボル：",
+    "delimiter_empty": "分割パーティションはありません",
+    "delimiter_colon": "結腸",
+    "delimiter_comma": "コンマ",
+    "delimiter_space": "空",
+    "delimiter_hyphen": "中くらい"
+  },
+  "ko": {
+    "input_tip": "여기에 내용을 입력하십시오.",
+    "result_tip": "여기에서 결과를 얻으십시오.",
+    "result_tip_no_colon": "여기에서 결과를 얻으십시오",
+    "delimiter_tip": "합성 기호 :",
+    "delimiter_empty": "분할 파티션이 없습니다",
+    "delimiter_colon": "콜론",
+    "delimiter_comma": "반점",
+    "delimiter_space": "공간",
+    "delimiter_hyphen": "중간"
+  },
+  "pt": {
+    "input_tip": "Por favor, insira o conteúdo aqui:",
+    "result_tip": "Obtenha o resultado aqui:",
+    "result_tip_no_colon": "Obtenha o resultado aqui",
+    "delimiter_tip": "Símbolo sintético:",
+    "delimiter_empty": "Sem partição dividida",
+    "delimiter_colon": "cólon",
+    "delimiter_comma": "vírgula",
+    "delimiter_space": "Espaço",
+    "delimiter_hyphen": "Médio"
+  },
+  "ru": {
+    "input_tip": "Пожалуйста, введите контент здесь:",
+    "result_tip": "Получите результат здесь:",
+    "result_tip_no_colon": "Получите результат здесь",
+    "delimiter_tip": "Синтетический символ:",
+    "delimiter_empty": "Нет разделения",
+    "delimiter_colon": "двоеточие",
+    "delimiter_comma": "запятая",
+    "delimiter_space": "Космос",
+    "delimiter_hyphen": "Середина"
+  },
+  "zh-tw": {
+    "input_tip": "請在這裡輸入內容：",
+    "result_tip": "在這裡得到結果:",
+    "result_tip_no_colon": "在這裡得到結果",
+    "delimiter_tip": "分隔符:",
+    "delimiter_empty": "無分隔符",
+    "delimiter_colon": "冒號",
+    "delimiter_comma": "逗號",
+    "delimiter_space": "空格",
+    "delimiter_hyphen": "中劃線"
+  }
+}

@@ -1,0 +1,255 @@
+{
+  "zh": {
+    "length": {
+      "label": "长度",
+      "toast": "密码长度"
+    },
+    "character-set": {
+      "label": "字符集",
+      "toast": "生成密码将使用的字符集",
+      "lower": "小写字母",
+      "upper": "大写字母",
+      "digits": "数字",
+      "consonants": "辅音字母",
+      "vowels": "元音字母",
+      "symbols": "符号",
+      "copyableSymbols": "可复制符号",
+      "fullSymbols": "所有符号"
+    },
+    "amount": {
+      "label": "数量"
+    },
+    "generateBtn": "生成",
+    "result": "结果"
+  },
+  "en": {
+    "length": {
+      "label": "Length",
+      "toast": "The length of the password"
+    },
+    "character-set": {
+      "label": "Character Set",
+      "toast": "The character set of the password",
+      "lower": "lower",
+      "upper": "upper",
+      "digits": "digits",
+      "consonants": "consonants",
+      "vowels": "vowels",
+      "symbols": "symbols",
+      "copyableSymbols": "copyableSymbols",
+      "fullSymbols": "fullSymbols"
+    },
+    "amount": {
+      "label": "Amount"
+    },
+    "generateBtn": "Generate",
+    "result": "result"
+  },
+  "de": {
+    "length": {
+      "label": "Länge",
+      "toast": "Passwortlänge"
+    },
+    "character-set": {
+      "label": "Zeichensatz",
+      "toast": "Der Zeichensatz wird verwendet, um ein Passwort zu generieren",
+      "lower": "Kleinbuchstaben",
+      "upper": "Großbuchstabe",
+      "digits": "Nummer",
+      "consonants": "Konsonanten",
+      "vowels": "Vokal",
+      "symbols": "Symbol",
+      "copyableSymbols": "Kopierensymbol",
+      "fullSymbols": "Alle Symbole"
+    },
+    "amount": {
+      "label": "Menge"
+    },
+    "generateBtn": "generieren",
+    "result": "Ergebnis"
+  },
+  "es": {
+    "length": {
+      "label": "longitud",
+      "toast": "Longitud de la contraseña"
+    },
+    "character-set": {
+      "label": "conjunto de caracteres",
+      "toast": "El conjunto de caracteres se utilizará para generar una contraseña",
+      "lower": "Letras minusculas",
+      "upper": "letra mayúscula",
+      "digits": "número",
+      "consonants": "Consonantes",
+      "vowels": "vocal",
+      "symbols": "símbolo",
+      "copyableSymbols": "Símbolo de copia",
+      "fullSymbols": "Todos los símbolos"
+    },
+    "amount": {
+      "label": "cantidad"
+    },
+    "generateBtn": "generar",
+    "result": "resultado"
+  },
+  "fr": {
+    "length": {
+      "label": "longueur",
+      "toast": "Longueur du mot de passe"
+    },
+    "character-set": {
+      "label": "jeu de caractères",
+      "toast": "Le jeu de caractères sera utilisé pour générer un mot de passe",
+      "lower": "Minuscules",
+      "upper": "lettre majuscule",
+      "digits": "nombre",
+      "consonants": "Les consonnes",
+      "vowels": "voyelle",
+      "symbols": "symbole",
+      "copyableSymbols": "Symbole de copie",
+      "fullSymbols": "Tous les symboles"
+    },
+    "amount": {
+      "label": "quantité"
+    },
+    "generateBtn": "générer",
+    "result": "résultat"
+  },
+  "it": {
+    "length": {
+      "label": "lunghezza",
+      "toast": "Lunghezza della password"
+    },
+    "character-set": {
+      "label": "set di caratteri",
+      "toast": "Il set di caratteri verrà utilizzato per generare una password",
+      "lower": "Lettere minuscole",
+      "upper": "lettera maiuscola",
+      "digits": "numero",
+      "consonants": "Consonanti",
+      "vowels": "vocale",
+      "symbols": "simbolo",
+      "copyableSymbols": "Copia simbolo",
+      "fullSymbols": "Tutti i simboli"
+    },
+    "amount": {
+      "label": "quantità"
+    },
+    "generateBtn": "creare",
+    "result": "risultato"
+  },
+  "ja": {
+    "length": {
+      "label": "長さ",
+      "toast": "パスワードの長さ"
+    },
+    "character-set": {
+      "label": "キャラクターセット",
+      "toast": "文字セットは、パスワードを生成するために使用されます",
+      "lower": "小文字",
+      "upper": "大文字",
+      "digits": "番号",
+      "consonants": "子音",
+      "vowels": "母音",
+      "symbols": "シンボル",
+      "copyableSymbols": "シンボルをコピーします",
+      "fullSymbols": "すべてのシンボル"
+    },
+    "amount": {
+      "label": "量"
+    },
+    "generateBtn": "生成",
+    "result": "結果"
+  },
+  "ko": {
+    "length": {
+      "label": "길이",
+      "toast": "비밀번호 길이"
+    },
+    "character-set": {
+      "label": "캐릭터 세트",
+      "toast": "문자 세트는 암호를 생성하는 데 사용됩니다.",
+      "lower": "소문자",
+      "upper": "대문자",
+      "digits": "숫자",
+      "consonants": "자음",
+      "vowels": "모음",
+      "symbols": "상징",
+      "copyableSymbols": "기호를 복사하십시오",
+      "fullSymbols": "모든 기호"
+    },
+    "amount": {
+      "label": "수량"
+    },
+    "generateBtn": "생성하다",
+    "result": "결과"
+  },
+  "pt": {
+    "length": {
+      "label": "comprimento",
+      "toast": "Comprimento da senha"
+    },
+    "character-set": {
+      "label": "conjunto de caracteres",
+      "toast": "O conjunto de personagens será usado para gerar uma senha",
+      "lower": "Letras minúsculas",
+      "upper": "Letra maiúscula",
+      "digits": "número",
+      "consonants": "Consoantes",
+      "vowels": "vogal",
+      "symbols": "símbolo",
+      "copyableSymbols": "Cópia do símbolo",
+      "fullSymbols": "Todos os símbolos"
+    },
+    "amount": {
+      "label": "quantidade"
+    },
+    "generateBtn": "gerar",
+    "result": "resultado"
+  },
+  "ru": {
+    "length": {
+      "label": "длина",
+      "toast": "Длина пароля"
+    },
+    "character-set": {
+      "label": "набор символов",
+      "toast": "Набор символов будет использоваться для создания пароля",
+      "lower": "Строчные буквы",
+      "upper": "прописная буква",
+      "digits": "число",
+      "consonants": "Согласные",
+      "vowels": "гласный",
+      "symbols": "символ",
+      "copyableSymbols": "Символ копирования",
+      "fullSymbols": "Все символы"
+    },
+    "amount": {
+      "label": "количество"
+    },
+    "generateBtn": "генерировать",
+    "result": "результат"
+  },
+  "zh-tw": {
+    "length": {
+      "label": "長度",
+      "toast": "密碼長度"
+    },
+    "character-set": {
+      "label": "字符集",
+      "toast": "生成密碼將使用的字符集",
+      "lower": "小寫字母",
+      "upper": "大寫字母",
+      "digits": "數字",
+      "consonants": "輔音字母",
+      "vowels": "元音字母",
+      "symbols": "符號",
+      "copyableSymbols": "可複制符號",
+      "fullSymbols": "所有符號"
+    },
+    "amount": {
+      "label": "數量"
+    },
+    "generateBtn": "生成",
+    "result": "結果"
+  }
+}

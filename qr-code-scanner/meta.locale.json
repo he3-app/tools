@@ -1,0 +1,110 @@
+{
+  "en": {
+    "$name": "QR Code Scanner",
+    "$description": "Scan a QR Code",
+    "$keywords": [
+      "qr",
+      "code",
+      "scan",
+      "scanner"
+    ]
+  },
+  "ja": {
+    "$name": "QRコードスキャナー",
+    "$description": "QR コードをスキャンする",
+    "$keywords": [
+      "qr",
+      "コード",
+      "スキャン",
+      "スキャナー"
+    ]
+  },
+  "de": {
+    "$name": "QR-Code-Scanner",
+    "$description": "Scannen Sie einen QR-Code",
+    "$keywords": [
+      "qr",
+      "Code",
+      "Scan",
+      "Scanner"
+    ]
+  },
+  "ko": {
+    "$name": "QR 코드 스캐너",
+    "$description": "QR 코드 스캔",
+    "$keywords": [
+      "qr",
+      "암호",
+      "주사",
+      "스캐너"
+    ]
+  },
+  "ru": {
+    "$name": "Сканер QR-кода",
+    "$description": "Сканировать QR-код",
+    "$keywords": [
+      "qr",
+      "код",
+      "сканирование",
+      "сканер"
+    ]
+  },
+  "it": {
+    "$name": "Scanner di codici QR",
+    "$description": "Scansiona un codice QR",
+    "$keywords": [
+      "qr",
+      "codice",
+      "scansione",
+      "scanner"
+    ]
+  },
+  "fr": {
+    "$name": "Lecteur de code QR",
+    "$description": "Scannez un code QR",
+    "$keywords": [
+      "QR",
+      "code",
+      "analyse",
+      "scanner"
+    ]
+  },
+  "zh-cn": {
+    "$name": "二维码扫描",
+    "$description": "扫描二维码",
+    "$keywords": [
+      "扫描",
+      "扫描器"
+    ]
+  },
+  "es": {
+    "$name": "Escáner de código QR",
+    "$description": "Escanear un código QR",
+    "$keywords": [
+      "qr",
+      "código",
+      "escanear",
+      "escáner"
+    ]
+  },
+  "pt": {
+    "$name": "Leitor de código QR",
+    "$description": "Digitalizar um código QR",
+    "$keywords": [
+      "qr",
+      "código",
+      "Varredura",
+      "scanner"
+    ]
+  },
+  "zh-tw": {
+    "$name": "二維碼掃描儀",
+    "$description": "掃描二維碼",
+    "$keywords": [
+      "qr",
+      "代碼",
+      "掃描",
+      "掃描器"
+    ]
+  }
+}

@@ -1,0 +1,99 @@
+{
+  "en": {
+    "$name": "Random String Generator",
+    "$description": "Generate random string",
+    "$keywords": [
+      "random",
+      "string",
+      "Generate"
+    ]
+  },
+  "pt": {
+    "$name": "Gerador de String Aleatório",
+    "$description": "Gerar string aleatória",
+    "$keywords": [
+      "aleatório",
+      "corda",
+      "Gerar"
+    ]
+  },
+  "ru": {
+    "$name": "Генератор случайных строк",
+    "$description": "Генерировать случайную строку",
+    "$keywords": [
+      "случайный",
+      "нить",
+      "Создать"
+    ]
+  },
+  "zh-cn": {
+    "$name": "随机字符串生成器",
+    "$description": "生成随机字符串",
+    "$keywords": [
+      "字符串" , "生成" , "随机"
+    ]
+  },
+  "ko": {
+    "$name": "임의 문자열 생성기",
+    "$description": "임의 문자열 생성",
+    "$keywords": [
+      "무작위의",
+      "끈",
+      "생성하다"
+    ]
+  },
+  "es": {
+    "$name": "Generador de cadenas aleatorias",
+    "$description": "Generar cadena aleatoria",
+    "$keywords": [
+      "aleatorio",
+      "cadena",
+      "Generar"
+    ]
+  },
+  "de": {
+    "$name": "Zufalls-String-Generator",
+    "$description": "Generieren Sie eine zufällige Zeichenfolge",
+    "$keywords": [
+      "willkürlich",
+      "Schnur",
+      "Generieren"
+    ]
+  },
+  "zh-tw": {
+    "$name": "隨機字符串生成器",
+    "$description": "生成隨機字符串",
+    "$keywords": [
+      "隨機的",
+      "細繩",
+      "產生"
+    ]
+  },
+  "ja": {
+    "$name": "ランダム文字列ジェネレーター",
+    "$description": "ランダムな文字列を生成",
+    "$keywords": [
+      "ランダム",
+      "弦",
+      "生成"
+    ]
+  },
+  "it": {
+    "$name": "Generatore di stringhe casuali",
+    "$description": "Genera una stringa casuale",
+    "$keywords": [
+      "casuale",
+      "corda",
+      "creare"
+    ]
+  },
+  "fr": {
+    "$name": "Générateur de chaîne aléatoire",
+    "$description": "Générer une chaîne aléatoire",
+    "$keywords": [
+      "aléatoire",
+      "chaîne",
+      "Générer"
+    ]
+  }
+}

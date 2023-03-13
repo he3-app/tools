@@ -1,0 +1,233 @@
+{
+  "zh": {
+    "input": {
+      "placeholder": "请输入任意字符串，包括普通文本、变量、函数名称等"
+    },
+    "output": {
+      "placeholder": "将字符串转换为不同的格式",
+      "CAMEL_CASE": "驼峰式",
+      "PASCAL_CASE": "帕斯卡式",
+      "SNAKE_CASE": "下划线式",
+      "UPPER_CASE": "大写",
+      "LOWER_CASE": "小写",
+      "KEBAB_CASE": "短横线式",
+      "DOT_CASE": "点式",
+      "PATH_CASE": "路径式",
+      "TEXT_CASE": "文本式",
+      "SENTENCE_CASE": "句式",
+      "HEADER_CASE": "标题式"
+    },
+    "sample": "示例",
+    "clear": "清空"
+  },
+  "en": {
+    "input": {
+      "placeholder": "Please input any text, including plain text, variables, function names, etc."
+    },
+    "output": {
+      "placeholder": "Convert string into different formats",
+      "CAMEL_CASE": "camelCase",
+      "PASCAL_CASE": "PascalCase",
+      "SNAKE_CASE": "snake_case",
+      "UPPER_CASE": "UPPERCASE",
+      "LOWER_CASE": "lowercase",
+      "KEBAB_CASE": "kebab-case",
+      "DOT_CASE": "dot.case",
+      "PATH_CASE": "path/case",
+      "TEXT_CASE": "text case",
+      "SENTENCE_CASE": "Sentence case",
+      "HEADER_CASE": "Header Case"
+    },
+    "sample": "Sample",
+    "clear": "Clear"
+  },
+  "de": {
+    "input": {
+      "placeholder": "Bitte geben Sie eine Zeichenfolge ein, einschließlich normaler Text, Variablen, Funktionsnamen usw."
+    },
+    "output": {
+      "placeholder": "Konvertieren Sie die Zeichenfolge in verschiedene Formate",
+      "CAMEL_CASE": "Buckel",
+      "PASCAL_CASE": "Pascal",
+      "SNAKE_CASE": "Unterstreichen",
+      "UPPER_CASE": "Hauptstadt",
+      "LOWER_CASE": "Kleinbuchstaben",
+      "KEBAB_CASE": "Horizontale Linie",
+      "DOT_CASE": "Punkt",
+      "PATH_CASE": "Weg",
+      "TEXT_CASE": "Text",
+      "SENTENCE_CASE": "Satz",
+      "HEADER_CASE": "Titel"
+    },
+    "sample": "Vorbildliches Beispiel",
+    "clear": "Leer"
+  },
+  "es": {
+    "input": {
+      "placeholder": "Ingrese cualquier cadena, que incluya texto ordinario, variables, nombres de funciones, etc."
+    },
+    "output": {
+      "placeholder": "Convertir la cadena en diferentes formatos",
+      "CAMEL_CASE": "Joroba",
+      "PASCAL_CASE": "Pascal",
+      "SNAKE_CASE": "Subrayar",
+      "UPPER_CASE": "capital",
+      "LOWER_CASE": "minúscula",
+      "KEBAB_CASE": "Linea horizontal",
+      "DOT_CASE": "Punto",
+      "PATH_CASE": "Camino",
+      "TEXT_CASE": "Texto",
+      "SENTENCE_CASE": "Oración",
+      "HEADER_CASE": "Título"
+    },
+    "sample": "Ejemplo ejemplar",
+    "clear": "Vacío"
+  },
+  "fr": {
+    "input": {
+      "placeholder": "Veuillez saisir n'importe quelle chaîne, y compris le texte ordinaire, les variables, les noms de fonction, etc."
+    },
+    "output": {
+      "placeholder": "Convertir la chaîne en différents formats",
+      "CAMEL_CASE": "Bosse",
+      "PASCAL_CASE": "Pascal",
+      "SNAKE_CASE": "Souligner",
+      "UPPER_CASE": "capital",
+      "LOWER_CASE": "inférieur inférieur",
+      "KEBAB_CASE": "Ligne horizontale",
+      "DOT_CASE": "Indiquer",
+      "PATH_CASE": "Chemin",
+      "TEXT_CASE": "Texte",
+      "SENTENCE_CASE": "Phrase",
+      "HEADER_CASE": "Titre"
+    },
+    "sample": "Exemple exemplaire",
+    "clear": "Vide"
+  },
+  "it": {
+    "input": {
+      "placeholder": "Immettere qualsiasi stringa, inclusi testo ordinario, variabili, nomi di funzioni, ecc."
+    },
+    "output": {
+      "placeholder": "Converti la stringa in diversi formati",
+      "CAMEL_CASE": "Gobba",
+      "PASCAL_CASE": "Pascal",
+      "SNAKE_CASE": "Sottolineare",
+      "UPPER_CASE": "capitale",
+      "LOWER_CASE": "minuscolo",
+      "KEBAB_CASE": "Linea orizzontale",
+      "DOT_CASE": "Punto",
+      "PATH_CASE": "Sentiero",
+      "TEXT_CASE": "Testo",
+      "SENTENCE_CASE": "Frase",
+      "HEADER_CASE": "Titolo"
+    },
+    "sample": "Esempio esemplare",
+    "clear": "Vuoto"
+  },
+  "ja": {
+    "input": {
+      "placeholder": "通常のテキスト、変数、機能名などを含む文字列を入力してください。"
+    },
+    "output": {
+      "placeholder": "文字列を異なる形式に変換します",
+      "CAMEL_CASE": "こぶ",
+      "PASCAL_CASE": "パスカル",
+      "SNAKE_CASE": "下線",
+      "UPPER_CASE": "資本",
+      "LOWER_CASE": "小文字",
+      "KEBAB_CASE": "水平線",
+      "DOT_CASE": "点",
+      "PATH_CASE": "道",
+      "TEXT_CASE": "文章",
+      "SENTENCE_CASE": "文",
+      "HEADER_CASE": "タイトル"
+    },
+    "sample": "模範的な例",
+    "clear": "空"
+  },
+  "ko": {
+    "input": {
+      "placeholder": "일반 텍스트, 변수, 기능 이름 등을 포함한 문자열을 입력하십시오."
+    },
+    "output": {
+      "placeholder": "문자열을 다른 형식으로 변환하십시오",
+      "CAMEL_CASE": "혹",
+      "PASCAL_CASE": "파스칼",
+      "SNAKE_CASE": "밑줄",
+      "UPPER_CASE": "수도",
+      "LOWER_CASE": "소문자",
+      "KEBAB_CASE": "수평선",
+      "DOT_CASE": "가리키다",
+      "PATH_CASE": "길",
+      "TEXT_CASE": "텍스트",
+      "SENTENCE_CASE": "문장",
+      "HEADER_CASE": "제목"
+    },
+    "sample": "모범적 인 예",
+    "clear": "비어 있는"
+  },
+  "pt": {
+    "input": {
+      "placeholder": "Por favor, insira qualquer string, incluindo texto comum, variáveis, nomes de funções etc."
+    },
+    "output": {
+      "placeholder": "Converter a string em diferentes formatos",
+      "CAMEL_CASE": "Corcunda",
+      "PASCAL_CASE": "Pascal",
+      "SNAKE_CASE": "Sublinhado",
+      "UPPER_CASE": "capital",
+      "LOWER_CASE": "minúscula",
+      "KEBAB_CASE": "Linha horizontal",
+      "DOT_CASE": "Apontar",
+      "PATH_CASE": "Caminho",
+      "TEXT_CASE": "Texto",
+      "SENTENCE_CASE": "Frase",
+      "HEADER_CASE": "Título"
+    },
+    "sample": "Exemplo exemplar",
+    "clear": "Vazio"
+  },
+  "ru": {
+    "input": {
+      "placeholder": "Пожалуйста, введите любую строку, включая обычный текст, переменные, имена функций и т. Д."
+    },
+    "output": {
+      "placeholder": "Преобразовать строку в разные форматы",
+      "CAMEL_CASE": "Горб",
+      "PASCAL_CASE": "Паскаль",
+      "SNAKE_CASE": "Подчеркнуть",
+      "UPPER_CASE": "капитал",
+      "LOWER_CASE": "нижний регистр",
+      "KEBAB_CASE": "Горизонтальная линия",
+      "DOT_CASE": "Точка",
+      "PATH_CASE": "Путь",
+      "TEXT_CASE": "Текст",
+      "SENTENCE_CASE": "Предложение",
+      "HEADER_CASE": "Заголовок"
+    },
+    "sample": "Примерный пример",
+    "clear": "Пустой"
+  },
+  "zh-tw": {
+    "input": {
+      "placeholder": "請輸入任意字符串，包括普通文本、變量、函數名稱等"
+    },
+    "output": {
+      "placeholder": "將字符串轉換為不同的格式",
+      "CAMEL_CASE": "駝峰式",
+      "PASCAL_CASE": "帕斯卡式",
+      "SNAKE_CASE": "下劃線式",
+      "UPPER_CASE": "大寫",
+      "LOWER_CASE": "小寫",
+      "KEBAB_CASE": "短橫線式",
+      "DOT_CASE": "點式",
+      "PATH_CASE": "路徑式",
+      "TEXT_CASE": "文本式",
+      "SENTENCE_CASE": "句式",
+      "HEADER_CASE": "標題式"
+    },
+    "sample": "示例",
+    "clear": "清空"
+  }
+}

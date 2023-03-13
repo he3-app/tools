@@ -1,0 +1,89 @@
+{
+  "en": {
+    "$name": "Hex Decode",
+    "$description": "Hex Decode",
+    "$keywords": [
+      "hex",
+      "decode"
+    ]
+  },
+  "es": {
+    "$name": "Decodificación hexadecimal",
+    "$description": "Decodificación hexadecimal",
+    "$keywords": [
+      "maleficio",
+      "descodificar"
+    ]
+  },
+  "fr": {
+    "$name": "Décodage hexadécimal",
+    "$description": "Décodage hexadécimal",
+    "$keywords": [
+      "hexagone",
+      "décoder"
+    ]
+  },
+  "ru": {
+    "$name": "Шестнадцатеричный код",
+    "$description": "Шестнадцатеричный код",
+    "$keywords": [
+      "шестигранник",
+      "декодировать"
+    ]
+  },
+  "it": {
+    "$name": "Decodifica esadecimale",
+    "$description": "Decodifica esadecimale",
+    "$keywords": [
+      "esadecimale",
+      "decodificare"
+    ]
+  },
+  "de": {
+    "$name": "Hex-Decodierung",
+    "$description": "Hex-Decodierung",
+    "$keywords": [
+      "verhexen",
+      "dekodieren"
+    ]
+  },
+  "pt": {
+    "$name": "Decodificação hexadecimal",
+    "$description": "Decodificação hexadecimal",
+    "$keywords": [
+      "hexadecimal",
+      "decodificar"
+    ]
+  },
+  "ko": {
+    "$name": "16진수 디코드",
+    "$description": "16진수 디코드",
+    "$keywords": [
+      "마녀",
+      "풀다"
+    ]
+  },
+  "zh-tw": {
+    "$name": "十六進制解碼",
+    "$description": "十六進制解碼",
+    "$keywords": [
+      "十六進制",
+      "解碼"
+    ]
+  },
+  "ja": {
+    "$name": "16 進デコード",
+    "$description": "16 進デコード",
+    "$keywords": [
+      "六角",
+      "デコード"
+    ]
+  },
+  "zh-cn": {
+    "$name": "Hex 解码",
+    "$description": "Hex 解码",
+    "$keywords": [
+      "解码"
+    ]
+  }
+}

@@ -1,0 +1,119 @@
+{
+  "de": {
+    "$name": "PGP-Zeichen",
+    "$description": "Textinhalt mit PGP signieren",
+    "$keywords": [
+      "GPG",
+      "PGP",
+      "Zeichen",
+      "Unterschrift",
+      "sich"
+    ]
+  },
+  "ru": {
+    "$name": "Знак PGP",
+    "$description": "Текстовое содержимое знака PGP",
+    "$keywords": [
+      "ООП",
+      "ПГП",
+      "знак",
+      "подпись",
+      "сами себя"
+    ]
+  },
+  "es": {
+    "$name": "Signo PGP",
+    "$description": "Contenido del texto del signo PGP",
+    "$keywords": [
+      "GPG",
+      "PGP",
+      "firmar",
+      "firma",
+      "ellos mismos"
+    ]
+  },
+  "en": {
+    "$name": "PGP Sign",
+    "$description": "PGP sign text contents",
+    "$keywords": [
+      "GPG",
+      "PGP",
+      "sign",
+      "signature",
+      "themselves"
+    ]
+  },
+  "zh-tw": {
+    "$name": "PGP 標誌",
+    "$description": "PGP 標誌文本內容",
+    "$keywords": [
+      "GPG",
+      "PGP",
+      "符號",
+      "簽名",
+      "他們自己"
+    ]
+  },
+  "pt": {
+    "$name": "Sinal PGP",
+    "$description": "Conteúdo do texto do sinal PGP",
+    "$keywords": [
+      "GPG",
+      "PGP",
+      "sinal",
+      "assinatura",
+      "eles mesmos"
+    ]
+  },
+  "zh-cn": {
+    "$name": "PGP 签名",
+    "$description": "PGP 签名文本",
+    "$keywords": [
+      "签名"
+    ]
+  },
+  "fr": {
+    "$name": "Signe PGP",
+    "$description": "Contenu du texte du signe PGP",
+    "$keywords": [
+      "GPG",
+      "PGP",
+      "signe",
+      "signature",
+      "eux-mêmes"
+    ]
+  },
+  "it": {
+    "$name": "Segno PGP",
+    "$description": "PGP firma i contenuti del testo",
+    "$keywords": [
+      "GPG",
+      "PGP",
+      "cartello",
+      "firma",
+      "loro stessi"
+    ]
+  },
+  "ja": {
+    "$name": "PGP サイン",
+    "$description": "PGP 署名テキストの内容",
+    "$keywords": [
+      "GPG",
+      "PGP",
+      "サイン",
+      "サイン",
+      "彼ら自身"
+    ]
+  },
+  "ko": {
+    "$name": "PGP 서명",
+    "$description": "PGP 서명 텍스트 내용",
+    "$keywords": [
+      "GPG",
+      "PGP",
+      "징후",
+      "서명",
+      "그들 자신"
+    ]
+  }
+}

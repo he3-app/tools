@@ -26,11 +26,12 @@
 
 <script setup lang="ts">
 import jwtDecode from 'jwt-decode'
-import {onMounted, ref} from "vue";
-import messages from './lang.json'
+
 
 import {isJWT} from "./util";
 
+import {onMounted, ref} from "vue";
+import messages from './lang.json'
 const $he3 = window.$he3
 import { useI18n } from 'vue-i18n'
 const { t } = useI18n({

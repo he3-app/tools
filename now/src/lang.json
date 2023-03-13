@@ -1,0 +1,277 @@
+{
+  "zh": {
+    "UserInput": "输入",
+    "Example": [
+      "8/17/1990 3:35 pm PST",
+      "七月四号",
+      "下周一"
+    ],
+    "Suggests": [
+      "试一下： ",
+      " 或任意时间戳(毫秒)"
+    ],
+    "CustomFormat": "自定义日期格式",
+    "DataSources": [
+      "本地时间",
+      "UTC",
+      "ISO 8601",
+      "Unix 时间戳",
+      "Unix 时间戳(毫秒)",
+      "周数",
+      "RFC 2822",
+      "RFC 3339",
+      "儒略日",
+      "自定义格式"
+    ]
+  },
+  "en": {
+    "UserInput": "Input",
+    "Example": [
+      "8/17/1990 3:35 pm PST",
+      "Fourth of July",
+      "Next Monday"
+    ],
+    "Suggests": [
+      "Try: ",
+      " or any timestamp(ms)."
+    ],
+    "CustomFormat": "Custom Format",
+    "DataSources": [
+      "Date In Local Time",
+      "Date In UTC",
+      "ISO 8601",
+      "Unix Timestamp",
+      "Unix Timestamp (Milliseconds)",
+      "Week Number",
+      "RFC 2822",
+      "RFC 3339",
+      "Julian Day",
+      "CustomFormat"
+    ]
+  },
+  "de": {
+    "UserInput": "eingeben",
+    "Example": [
+      "17.02.1990 15:35 PST",
+      "4. Juli",
+      "Nächstes Mon"
+    ],
+    "Suggests": [
+      "Versuch es:",
+      "Oder ein Zeitstempel (Millisekunden)"
+    ],
+    "CustomFormat": "Benutzerdefiniertes Datumsformat",
+    "DataSources": [
+      "Ortszeit",
+      "koordinierte Weltzeit",
+      "ISO 8601",
+      "Unix Timestamp",
+      "Unix Timestamp (Millisekunden)",
+      "Wöchentliche Nummer",
+      "RFC 2822",
+      "RFC 3339",
+      "Konfuzianischer Tag",
+      "Benutzerdefiniertes Format"
+    ]
+  },
+  "es": {
+    "UserInput": "ingresar",
+    "Example": [
+      "8/17/1990 3:35 PM PST",
+      "4 de julio",
+      "Siguiente Mon"
+    ],
+    "Suggests": [
+      "intentalo:",
+      "O cualquier marca de tiempo (milisegundo)"
+    ],
+    "CustomFormat": "Formato de fecha personalizada",
+    "DataSources": [
+      "hora local",
+      "UTC",
+      "ISO 8601",
+      "Marca de tiempo de unix",
+      "UNIX TimeStamp (milisegundo)",
+      "Número semanal",
+      "RFC 2822",
+      "RFC 3339",
+      "Día confuciano",
+      "Formato personalizado"
+    ]
+  },
+  "fr": {
+    "UserInput": "entrer",
+    "Example": [
+      "8/17/1990 3:35 PS PST",
+      "le 4 juillet",
+      "Next lun"
+    ],
+    "Suggests": [
+      "Essayez-le:",
+      "Ou tout horodat (milliseconde)"
+    ],
+    "CustomFormat": "Format de date personnalisé",
+    "DataSources": [
+      "heure locale",
+      "UTC",
+      "ISO 8601",
+      "Timestamp Unix",
+      "Timestamp Unix (millisecondes)",
+      "Numéro hebdomadaire",
+      "RFC 2822",
+      "RFC 3339",
+      "Jour de confucé",
+      "Format personnalisé"
+    ]
+  },
+  "it": {
+    "UserInput": "accedere",
+    "Example": [
+      "17/08/1990 15:35 PST",
+      "4 luglio",
+      "Next Mon"
+    ],
+    "Suggests": [
+      "Provalo:",
+      "O qualsiasi timestamp (millisecond)"
+    ],
+    "CustomFormat": "Formato della data personalizzata",
+    "DataSources": [
+      "ora locale",
+      "UTC",
+      "ISO 8601",
+      "Timestamp unix",
+      "UNIX Timestamp (millisecond)",
+      "Numero settimanale",
+      "RFC 2822",
+      "RFC 3339",
+      "Giornata confuciana",
+      "Formato personalizzato"
+    ]
+  },
+  "ja": {
+    "UserInput": "入力",
+    "Example": [
+      "8/17/1990 3:35 PM PST",
+      "7月4日",
+      "次の月"
+    ],
+    "Suggests": [
+      "それを試してみてください：",
+      "または任意のタイムスタンプ（ミリ秒）"
+    ],
+    "CustomFormat": "カスタム日付形式",
+    "DataSources": [
+      "現地時間",
+      "UTC",
+      "ISO 8601",
+      "Unixタイムスタンプ",
+      "Unixタイムスタンプ（ミリ秒）",
+      "毎週",
+      "RFC 2822",
+      "RFC 3339",
+      "Conf教日",
+      "カスタム形式"
+    ]
+  },
+  "ko": {
+    "UserInput": "입력하다",
+    "Example": [
+      "1990 년 8 월 17 일 오후 3시 35 분 PST",
+      "7 월 4 일",
+      "다음 몬"
+    ],
+    "Suggests": [
+      "시도 해봐:",
+      "또는 모든 타임 스탬프 (밀리 초)"
+    ],
+    "CustomFormat": "맞춤 날짜 형식",
+    "DataSources": [
+      "현지 시각",
+      "UTC",
+      "ISO 8601",
+      "유닉스 타임 스탬프",
+      "유닉스 타임 스탬프 (밀리 초)",
+      "주간 번호",
+      "RFC 2822",
+      "RFC 3339",
+      "유교의 날",
+      "맞춤형 형식"
+    ]
+  },
+  "pt": {
+    "UserInput": "digitar",
+    "Example": [
+      "17/08/1990 15:35 PST",
+      "4 de julho",
+      "Próximo seg"
+    ],
+    "Suggests": [
+      "tente:",
+      "Ou qualquer registro de data e hora (milissegundos)"
+    ],
+    "CustomFormat": "Formato de data personalizado",
+    "DataSources": [
+      "horário local",
+      "UTC",
+      "ISO 8601",
+      "UNIX Timestamp",
+      "Timestamp Unix (milissegundos)",
+      "Número semanal",
+      "RFC 2822",
+      "RFC 3339",
+      "Dia confucionista",
+      "Formato personalizado"
+    ]
+  },
+  "ru": {
+    "UserInput": "входить",
+    "Example": [
+      "17.08.1990 15:35 PST",
+      "4 июля",
+      "Следующий пн"
+    ],
+    "Suggests": [
+      "попробуй это:",
+      "Или любая метка времени (миллисекунд)"
+    ],
+    "CustomFormat": "Пользовательский формат даты",
+    "DataSources": [
+      "местное время",
+      "универсальное глобальное время",
+      "ISO 8601",
+      "Unix TimeStamp",
+      "Unix TimeStamp (миллисекунд)",
+      "Еженедельный номер",
+      "RFC 2822",
+      "RFC 3339",
+      "Конфуцианский день",
+      "Пользовательский формат"
+    ]
+  },
+  "zh-tw": {
+    "UserInput": "輸入",
+    "Example": [
+      "8/17/1990 3:35 pm PST",
+      "七月四號",
+      "下週一"
+    ],
+    "Suggests": [
+      "試一下：",
+      "或任意時間戳(毫秒)"
+    ],
+    "CustomFormat": "自定義日期格式",
+    "DataSources": [
+      "本地時間",
+      "UTC",
+      "ISO 8601",
+      "Unix 時間戳",
+      "Unix 時間戳(毫秒)",
+      "週數",
+      "RFC 2822",
+      "RFC 3339",
+      "儒略日",
+      "自定義格式"
+    ]
+  }
+}

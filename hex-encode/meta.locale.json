@@ -1,0 +1,89 @@
+{
+  "en": {
+    "$name": "Hex Encode",
+    "$description": "Hex Encode",
+    "$keywords": [
+      "hex",
+      "encode"
+    ]
+  },
+  "zh-cn": {
+    "$name": "Hex 编码",
+    "$description": "Hex 编码",
+    "$keywords": [
+      "编码"
+    ]
+  },
+  "zh-tw": {
+    "$name": "十六進制編碼",
+    "$description": "十六進制編碼",
+    "$keywords": [
+      "十六進制",
+      "編碼"
+    ]
+  },
+  "ko": {
+    "$name": "16진수 인코딩",
+    "$description": "16진수 인코딩",
+    "$keywords": [
+      "마녀",
+      "인코딩"
+    ]
+  },
+  "fr": {
+    "$name": "Encodage hexadécimal",
+    "$description": "Encodage hexadécimal",
+    "$keywords": [
+      "hexagone",
+      "encoder"
+    ]
+  },
+  "es": {
+    "$name": "Codificación hexadecimal",
+    "$description": "Codificación hexadecimal",
+    "$keywords": [
+      "maleficio",
+      "codificar"
+    ]
+  },
+  "pt": {
+    "$name": "Código hexadecimal",
+    "$description": "Código hexadecimal",
+    "$keywords": [
+      "hexadecimal",
+      "codificar"
+    ]
+  },
+  "it": {
+    "$name": "Codifica esadecimale",
+    "$description": "Codifica esadecimale",
+    "$keywords": [
+      "esadecimale",
+      "codificare"
+    ]
+  },
+  "ja": {
+    "$name": "16 進エンコード",
+    "$description": "16 進エンコード",
+    "$keywords": [
+      "六角",
+      "エンコード"
+    ]
+  },
+  "de": {
+    "$name": "Hex-Codierung",
+    "$description": "Hex-Codierung",
+    "$keywords": [
+      "verhexen",
+      "kodieren"
+    ]
+  },
+  "ru": {
+    "$name": "Шестнадцатеричный код",
+    "$description": "Шестнадцатеричный код",
+    "$keywords": [
+      "шестигранник",
+      "кодировать"
+    ]
+  }
+}

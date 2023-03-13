@@ -1,0 +1,134 @@
+{
+  "zh": {
+    "rangeStart": "开始时间",
+    "rangeEnd": "结束时间",
+    "dateTimeFormat": "日期时间格式",
+    "resultDesc": "生成结果",
+    "convertButton": {
+      "name": "转换"
+    },
+    "generateButton": {
+      "name": "生成"
+    }
+  },
+  "en": {
+    "rangeStart": "Range Start",
+    "rangeEnd": "Range End",
+    "en": {
+      "convertButton": {
+        "name": "Convert"
+      },
+      "generateButton": {
+        "name": "Generate"
+      }
+    }
+  },
+  "de": {
+    "rangeStart": "Anfangszeit",
+    "rangeEnd": "Endzeit",
+    "dateTimeFormat": "Datumszeitformat",
+    "resultDesc": "Generationsergebnis",
+    "convertButton": {
+      "name": "Konvertieren"
+    },
+    "generateButton": {
+      "name": "generieren"
+    }
+  },
+  "es": {
+    "rangeStart": "Tiempo de empezar",
+    "rangeEnd": "Hora de finalización",
+    "dateTimeFormat": "Formato de hora de fecha",
+    "resultDesc": "Resultado de la generación",
+    "convertButton": {
+      "name": "Convertir"
+    },
+    "generateButton": {
+      "name": "generar"
+    }
+  },
+  "fr": {
+    "rangeStart": "Heure de départ",
+    "rangeEnd": "Heure de fin",
+    "dateTimeFormat": "Format de date",
+    "resultDesc": "Résultat de la génération",
+    "convertButton": {
+      "name": "Convertir"
+    },
+    "generateButton": {
+      "name": "générer"
+    }
+  },
+  "it": {
+    "rangeStart": "Tempo di partenza",
+    "rangeEnd": "Tempo scaduto",
+    "dateTimeFormat": "Formato orario della data",
+    "resultDesc": "Risultato di generazione",
+    "convertButton": {
+      "name": "Convertire"
+    },
+    "generateButton": {
+      "name": "creare"
+    }
+  },
+  "ja": {
+    "rangeStart": "開始時間",
+    "rangeEnd": "終了時間",
+    "dateTimeFormat": "日付時刻形式",
+    "resultDesc": "生成結果",
+    "convertButton": {
+      "name": "変換"
+    },
+    "generateButton": {
+      "name": "生成"
+    }
+  },
+  "ko": {
+    "rangeStart": "시작 시간",
+    "rangeEnd": "종료 시간",
+    "dateTimeFormat": "날짜 시간 형식",
+    "resultDesc": "생성 결과",
+    "convertButton": {
+      "name": "전환하다"
+    },
+    "generateButton": {
+      "name": "생성하다"
+    }
+  },
+  "pt": {
+    "rangeStart": "Hora de início",
+    "rangeEnd": "Fim do tempo",
+    "dateTimeFormat": "Formato de hora de data",
+    "resultDesc": "Resultado de geração",
+    "convertButton": {
+      "name": "Converter"
+    },
+    "generateButton": {
+      "name": "gerar"
+    }
+  },
+  "ru": {
+    "rangeStart": "Время начала",
+    "rangeEnd": "Время окончания",
+    "dateTimeFormat": "Дата формат времени",
+    "resultDesc": "Результат поколения",
+    "convertButton": {
+      "name": "Конвертировать"
+    },
+    "generateButton": {
+      "name": "генерировать"
+    }
+  },
+  "zh-tw": {
+    "rangeStart": "開始時間",
+    "rangeEnd": "結束時間",
+    "dateTimeFormat": "日期時間格式",
+    "resultDesc": "生成結果",
+    "convertButton": {
+      "name": "轉換"
+    },
+    "generateButton": {
+      "name": "生成"
+    }
+  }
+}

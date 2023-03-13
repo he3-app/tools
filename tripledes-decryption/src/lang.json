@@ -1,0 +1,79 @@
+{
+  "zh": {
+    "input": "请在此处输入:",
+    "output": "输出:",
+    "key": "密钥:",
+    "mode": "模式:",
+    "padding": "填充:"
+  },
+  "en": {
+    "input": "Please input your content here:",
+    "output": "Result:",
+    "key": "Passphrase:",
+    "mode": "Mode:",
+    "padding": "Padding:"
+  },
+  "de": {
+    "input": "Bitte geben Sie hier ein:",
+    "output": "Ausgang:",
+    "key": "Taste:",
+    "mode": "Modell:",
+    "padding": "Füllung:"
+  },
+  "es": {
+    "input": "Por favor ingrese aquí:",
+    "output": "Producción:",
+    "key": "Llave:",
+    "mode": "modelo:",
+    "padding": "relleno:"
+  },
+  "fr": {
+    "input": "Veuillez entrer ici:",
+    "output": "Sortir:",
+    "key": "Clé:",
+    "mode": "modèle:",
+    "padding": "remplissage:"
+  },
+  "it": {
+    "input": "Inserisci qui:",
+    "output": "Produzione:",
+    "key": "Chiave:",
+    "mode": "modello:",
+    "padding": "Riempimento:"
+  },
+  "ja": {
+    "input": "ここに入力してください：",
+    "output": "出力：",
+    "key": "鍵：",
+    "mode": "モデル：",
+    "padding": "充填："
+  },
+  "ko": {
+    "input": "여기에 입력하십시오 :",
+    "output": "산출:",
+    "key": "열쇠:",
+    "mode": "모델:",
+    "padding": "충전재:"
+  },
+  "pt": {
+    "input": "Por favor, digite aqui:",
+    "output": "Saída:",
+    "key": "Chave:",
+    "mode": "modelo:",
+    "padding": "enchimento:"
+  },
+  "ru": {
+    "input": "Пожалуйста, введите здесь:",
+    "output": "Выход:",
+    "key": "Ключ:",
+    "mode": "модель:",
+    "padding": "начинка:"
+  },
+  "zh-tw": {
+    "input": "請在此處輸入:",
+    "output": "輸出:",
+    "key": "密鑰:",
+    "mode": "模式:",
+    "padding": "填充:"
+  }
+}

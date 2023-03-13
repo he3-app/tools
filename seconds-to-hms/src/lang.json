@@ -1,0 +1,123 @@
+{
+  "zh": {
+    "Duration": "耗时",
+    "ResultDesc": "秒",
+    "FormatError": "格式错误，正确格式为：HH:mm:ss",
+    "convertButton": {
+      "name": "转换"
+    },
+    "generateButton": {
+      "name": "生成"
+    }
+  },
+  "en": {
+    "Duration": "Duration",
+    "ResultDesc": "Seconds",
+    "FormatError": "Format error, correct format: HH:mm:ss",
+    "convertButton": {
+      "name": "Convert"
+    },
+    "generateButton": {
+      "name": "Generate"
+    }
+  },
+  "de": {
+    "Duration": "zeitaufwendig",
+    "ResultDesc": "Zweite",
+    "FormatError": "Formatfehler, das richtige Format ist: HH: MM: SS",
+    "convertButton": {
+      "name": "Konvertieren"
+    },
+    "generateButton": {
+      "name": "generieren"
+    }
+  },
+  "es": {
+    "Duration": "pérdida de tiempo",
+    "ResultDesc": "Segundo",
+    "FormatError": "Error de formato, el formato correcto es: HH: MM: SS",
+    "convertButton": {
+      "name": "Convertir"
+    },
+    "generateButton": {
+      "name": "generar"
+    }
+  },
+  "fr": {
+    "Duration": "long",
+    "ResultDesc": "Deuxième",
+    "FormatError": "Erreur de format, le format correct est: HH: MM: SS",
+    "convertButton": {
+      "name": "Convertir"
+    },
+    "generateButton": {
+      "name": "générer"
+    }
+  },
+  "it": {
+    "Duration": "richiede tempo",
+    "ResultDesc": "Secondo",
+    "FormatError": "Errore del formato, il formato corretto è: HH: MM: SS",
+    "convertButton": {
+      "name": "Convertire"
+    },
+    "generateButton": {
+      "name": "creare"
+    }
+  },
+  "ja": {
+    "Duration": "時間がかかる",
+    "ResultDesc": "2番",
+    "FormatError": "フォーマットエラー、正しい形式は次のとおりです。HH：MM：SS",
+    "convertButton": {
+      "name": "変換"
+    },
+    "generateButton": {
+      "name": "生成"
+    }
+  },
+  "ko": {
+    "Duration": "시간이 많이 걸립니다",
+    "ResultDesc": "두번째",
+    "FormatError": "형식 오류, 올바른 형식은 다음과 같습니다. HH : MM : SS",
+    "convertButton": {
+      "name": "전환하다"
+    },
+    "generateButton": {
+      "name": "생성하다"
+    }
+  },
+  "pt": {
+    "Duration": "demorado",
+    "ResultDesc": "Segundo",
+    "FormatError": "Erro de formato, o formato correto é: hh: mm: ss",
+    "convertButton": {
+      "name": "Converter"
+    },
+    "generateButton": {
+      "name": "gerar"
+    }
+  },
+  "ru": {
+    "Duration": "кропотливый",
+    "ResultDesc": "Второй",
+    "FormatError": "Ошибка формата, правильный формат: HH: MM: SS",
+    "convertButton": {
+      "name": "Конвертировать"
+    },
+    "generateButton": {
+      "name": "генерировать"
+    }
+  },
+  "zh-tw": {
+    "Duration": "耗時",
+    "ResultDesc": "秒",
+    "FormatError": "格式錯誤，正確格式為：HH:mm:ss",
+    "convertButton": {
+      "name": "轉換"
+    },
+    "generateButton": {
+      "name": "生成"
+    }
+  }
+}

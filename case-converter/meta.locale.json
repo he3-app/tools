@@ -1,0 +1,199 @@
+{
+  "en": {
+    "$name": "Case Converter",
+    "$description": "Convert text to: camelCase, PascalCase, snake_case, UPPERCASE, lowercase, kebab-case, dot.case, path/case, text case, Sentence case, Header Case",
+    "$keywords": [
+      "Upper",
+      "Lower",
+      "camelCase",
+      "PascalCase",
+      "snake_case",
+      "UPPERCASE",
+      "lowercase",
+      "kebab-case",
+      "dot.case",
+      "path/case",
+      "text case",
+      "Sentence case",
+      "Header Case"
+    ]
+  },
+  "ko": {
+    "$name": "케이스 변환기",
+    "$description": "텍스트를 다음으로 변환: camelCase, PascalCase, snake_case, UPPERCASE, lowercase, kebab-case, dot.case, path/case, text case, Sentence case, Header Case",
+    "$keywords": [
+      "높은",
+      "낮추다",
+      "낙타 케이스",
+      "파스칼케이스",
+      "snake_case",
+      "대문자",
+      "소문자",
+      "케밥 케이스",
+      "점.케이스",
+      "경로/케이스",
+      "텍스트 케이스",
+      "문장 케이스",
+      "헤더 케이스"
+    ]
+  },
+  "fr": {
+    "$name": "Convertisseur de cas",
+    "$description": "Convertir le texte en : camelCase, PascalCase, snake_case, UPPERCASE, minuscule, kebab-case, dot.case, path/case, text case, Phrase case, Header Case",
+    "$keywords": [
+      "Supérieur",
+      "Inférieur",
+      "affaire de chameau",
+      "PascalCase",
+      "serpent_case",
+      "MAJUSCULE",
+      "minuscule",
+      "étui à kebab",
+      "point.case",
+      "chemin/cas",
+      "cas de texte",
+      "Cas de peine",
+      "Cas d'en-tête"
+    ]
+  },
+  "zh-tw": {
+    "$name": "案例轉換器",
+    "$description": "將文本轉換為：camelCase、PascalCase、snake_case、UPPERCASE、lowercase、kebab-case、dot.case、path/case、text case、Sentence case、Header Case",
+    "$keywords": [
+      "上",
+      "降低",
+      "駱駝香煙盒",
+      "帕斯卡案例",
+      "蛇箱",
+      "大寫字母",
+      "小寫",
+      "烤肉串盒",
+      "點.case",
+      "路徑/案例",
+      "文本大小寫",
+      "判例",
+      "標題案例"
+    ]
+  },
+  "de": {
+    "$name": "Fallkonverter",
+    "$description": "Konvertieren Sie Text in: camelCase, PascalCase, snake_case, UPPERCASE, Kleinbuchstaben, kebab-case, dot.case, path/case, text case, Sentence case, Header Case",
+    "$keywords": [
+      "Oberer, höher",
+      "Untere",
+      "camelCase",
+      "PascalFall",
+      "Schlangenfall",
+      "GROSSBUCHSTABEN",
+      "Kleinbuchstaben",
+      "Kebab-Fall",
+      "Punkt.Fall",
+      "Weg/Fall",
+      "Textfall",
+      "Satzfall",
+      "Header-Fall"
+    ]
+  },
+  "it": {
+    "$name": "Convertitore di casi",
+    "$description": "Converti testo in: camelCase, PascalCase, snake_case, MAIUSCOLO, minuscolo, kebab-case, dot.case, path/case, text case, Frase case, Header Case",
+    "$keywords": [
+      "Superiore",
+      "Inferiore",
+      "camelCase",
+      "PascalCase",
+      "snake_case",
+      "MAIUSCOLO",
+      "minuscolo",
+      "custodia per kebab",
+      "dot.case",
+      "percorso/caso",
+      "caso di testo",
+      "Caso di sentenza",
+      "Caso di intestazione"
+    ]
+  },
+  "ja": {
+    "$name": "ケースコンバーター",
+    "$description": "テキストの変換: camelCase、PascalCase、snake_case、UPPERCASE、lowercase、kebab-case、dot.case、path/case、text case、Sentence case、Header Case",
+    "$keywords": [
+      "アッパー",
+      "低い",
+      "キャメルケース",
+      "パスカルケース",
+      "スネークケース",
+      "大文字",
+      "小文字",
+      "ケバブケース",
+      "ドットケース",
+      "パス/ケース",
+      "テキストケース",
+      "センテンスケース",
+      "ヘッダーケース"
+    ]
+  },
+  "ru": {
+    "$name": "Конвертер случаев",
+    "$description": "Преобразование текста в: camelCase, PascalCase, snap_case, UPPERCASE, нижний регистр, kebab-case, dot.case, path/case, text case, Sentence case, Header Case",
+    "$keywords": [
+      "Верхний",
+      "Ниже",
+      "верблюдЧехол",
+      "PascalCase",
+      "змея_кейс",
+      "ВЕРХНИЙ РЕГИСТР",
+      "нижний регистр",
+      "шашлычная",
+      "точка.регистр",
+      "путь/кейс",
+      "текстовый регистр",
+      "Случай с приговором",
+      "Заголовок"
+    ]
+  },
+  "pt": {
+    "$name": "Conversor de maiúsculas e minúsculas",
+    "$description": "Converter texto para: camelCase, PascalCase, snake_case, UPPERCASE, minúscula, kebab-case, dot.case, path/case, text case, Sentence case, Header Case",
+    "$keywords": [
+      "Superior",
+      "Mais baixo",
+      "CamelCase",
+      "PascalCaseName",
+      "snake_case",
+      "MAIÚSCULAS",
+      "minúsculas",
+      "kebab-case",
+      "dot.case",
+      "caminho/caso",
+      "caixa de texto",
+      "Caso de sentença",
+      "Cabeçalho"
+    ]
+  },
+  "zh-cn": {
+    "$name": "变量命名转换",
+    "$description": "将字符串转换为不同的格式：驼峰式, 帕斯卡式, 下划线式, 大写, 小写, 短横线式, 点式, 路径式, 文本式, 句式, 标题式",
+    "$keywords": [
+     "驼峰式" , "帕斯卡式" , "下划线式" , "大写" , "小写" , "短横线式" , "点式" , "路径式" ,"文本式" , "句式" , "标题式"
+    ]
+  },
+  "es": {
+    "$name": "Convertidor de casos",
+    "$description": "Convertir texto a: camelCase, PascalCase, serpiente_case, MAYÚSCULAS, minúsculas, kebab-case, dot.case, path/case, text case, Sentence case, Header Case",
+    "$keywords": [
+      "Superior",
+      "Más bajo",
+      "el caso de Carmel",
+      "PascalCase",
+      "serpiente_caso",
+      "MAYÚSCULAS",
+      "minúsculas",
+      "caja de kebab",
+      "dot.caso",
+      "camino/caso",
+      "caso de texto",
+      "Caso de sentencia",
+      "Caso de encabezado"
+    ]
+  }
+}
