@@ -1,0 +1,112 @@
+{
+  "en": {
+    "$name": "CIDR Calculator",
+    "$description": "CIDR Calculator",
+    "$keywords": [
+      "cidr",
+      "calculator",
+      "network",
+      "subnet"
+    ]
+  },
+  "zh-cn": {
+    "$name": "CIDR 计算器",
+    "$description": "CIDR 计算器",
+    "$keywords": [
+      "无类别域间路由",
+      "计算",
+      "网络",
+      "子网"
+    ]
+  },
+  "ru": {
+    "$name": "Калькулятор CIDR",
+    "$description": "Калькулятор CIDR",
+    "$keywords": [
+      "сидр",
+      "калькулятор",
+      "сеть",
+      "подсеть"
+    ]
+  },
+  "ja": {
+    "$name": "CIDR 計算機",
+    "$description": "CIDR 計算機",
+    "$keywords": [
+      "サイダー",
+      "電卓",
+      "通信網",
+      "サブネット"
+    ]
+  },
+  "es": {
+    "$name": "Calculadora CIDR",
+    "$description": "Calculadora CIDR",
+    "$keywords": [
+      "cidr",
+      "calculadora",
+      "red",
+      "subred"
+    ]
+  },
+  "ko": {
+    "$name": "CIDR 계산기",
+    "$description": "CIDR 계산기",
+    "$keywords": [
+      "cidr",
+      "계산자",
+      "회로망",
+      "서브넷"
+    ]
+  },
+  "pt": {
+    "$name": "Calculadora CIDR",
+    "$description": "Calculadora CIDR",
+    "$keywords": [
+      "sidra",
+      "calculadora",
+      "rede",
+      "sub-rede"
+    ]
+  },
+  "fr": {
+    "$name": "Calculateur CIDR",
+    "$description": "Calculateur CIDR",
+    "$keywords": [
+      "cidr",
+      "calculatrice",
+      "réseau",
+      "sous-réseau"
+    ]
+  },
+  "it": {
+    "$name": "Calcolatrice CIDR",
+    "$description": "Calcolatrice CIDR",
+    "$keywords": [
+      "cidr",
+      "calcolatrice",
+      "rete",
+      "sottorete"
+    ]
+  },
+  "de": {
+    "$name": "CIDR-Rechner",
+    "$description": "CIDR-Rechner",
+    "$keywords": [
+      "cidr",
+      "Taschenrechner",
+      "Netzwerk",
+      "Subnetz"
+    ]
+  },
+  "zh-tw": {
+    "$name": "CIDR 計算器",
+    "$description": "CIDR 計算器",
+    "$keywords": [
+      "蘋果酒",
+      "計算器",
+      "網絡",
+      "子網"
+    ]
+  }
+}
