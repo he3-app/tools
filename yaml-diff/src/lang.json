@@ -1,0 +1,46 @@
+{
+  "en": {
+    "jsonParseError": "JSON parse error",
+    "formatAndDiff": "Format & Diff"
+  },
+  "zh": {
+    "jsonParseError": "JSON解析错误",
+    "formatAndDiff": "格式化 & 比较"
+  },
+  "zh-tw": {
+    "jsonParseError": "JSON解析錯誤",
+    "formatAndDiff": "格式化 & 比較"
+  },
+  "es": {
+    "jsonParseError": "Error de análisis JSON",
+    "formatAndDiff": "Formato & Diferencias"
+  },
+  "ja": {
+    "jsonParseError": "JSON解析エラー",
+    "formatAndDiff": "フォーマット & 差分"
+  },
+  "ko": {
+    "jsonParseError": "JSON 분석 오류",
+    "formatAndDiff": "형식 & 차이"
+  },
+  "ru": {
+    "jsonParseError": "Ошибка разбора JSON",
+    "formatAndDiff": "Форматирование & Сравнение"
+  },
+  "de": {
+    "jsonParseError": "JSON-Parserfehler",
+    "formatAndDiff": "Formatieren & Vergleichen"
+  },
+  "fr": {
+    "jsonParseError": "Erreur d'analyse JSON",
+    "formatAndDiff": "Format & Différence"
+  },
+  "it": {
+    "jsonParseError": "Errore di analisi JSON",
+    "formatAndDiff": "Formatta & Differenze"
+  },
+  "pt": {
+    "jsonParseError": "Erro de análise JSON",
+    "formatAndDiff": "Formatar & Diferenças"
+  }
+}
