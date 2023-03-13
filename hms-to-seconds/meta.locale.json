@@ -1,0 +1,133 @@
+{
+  "en": {
+    "$name": "H:M:S to Seconds",
+    "$description": "Convert seconds to H:M:S",
+    "$keywords": [
+      "time",
+      "date",
+      "seconds",
+      "convert",
+      "hms",
+      "duration"
+    ]
+  },
+  "zh-cn": {
+    "$name": "时分秒转换",
+    "$description": "耗时转换为天时分秒",
+    "$keywords": [
+      "时间",
+      "日期",
+      "耗时",
+      "转换",
+      "时分秒"
+    ]
+  },
+  "fr": {
+    "$name": "H:M:S en Secondes",
+    "$description": "Convertir les secondes en H:M:S",
+    "$keywords": [
+      "temps",
+      "date",
+      "secondes",
+      "convertir",
+      "hms",
+      "durée"
+    ]
+  },
+  "ru": {
+    "$name": "Ч:М:С в Секунды",
+    "$description": "Преобразование секунд в Ч:М:С",
+    "$keywords": [
+      "время",
+      "дата",
+      "секунды",
+      "конвертировать",
+      "хм",
+      "продолжительность"
+    ]
+  },
+  "pt": {
+    "$name": "H:M:S para Segundos",
+    "$description": "Converter segundos para H:M:S",
+    "$keywords": [
+      "tempo",
+      "data",
+      "segundos",
+      "converter",
+      "hum",
+      "duração"
+    ]
+  },
+  "ko": {
+    "$name": "H:M:S 에 초",
+    "$description": "초를 H:M:S로 변환",
+    "$keywords": [
+      "시간",
+      "날짜",
+      "초",
+      "전환하다",
+      "hms",
+      "지속"
+    ]
+  },
+  "it": {
+    "$name": "H:M:S a Secondi",
+    "$description": "Converti i secondi in H:M:S",
+    "$keywords": [
+      "tempo",
+      "data",
+      "secondi",
+      "convertire",
+      "hmm",
+      "durata"
+    ]
+  },
+  "de": {
+    "$name": "H:M:S zu Sekunden",
+    "$description": "Konvertieren Sie Sekunden in H:M:S",
+    "$keywords": [
+      "Zeit",
+      "Datum",
+      "Sekunden",
+      "Konvertieren",
+      "hm",
+      "Dauer"
+    ]
+  },
+  "es": {
+    "$name": "H:M:S a Segundos",
+    "$description": "Convertir segundos a H:M:S",
+    "$keywords": [
+      "tiempo",
+      "fecha",
+      "segundos",
+      "convertir",
+      "mmm",
+      "duración"
+    ]
+  },
+  "zh-tw": {
+    "$name": "H:M:S 自 秒",
+    "$description": "將秒數轉換為 H:M:S",
+    "$keywords": [
+      "時間",
+      "日期",
+      "秒",
+      "轉變",
+      "哈姆斯",
+      "期間"
+    ]
+  },
+  "ja": {
+    "$name": "H:M:S から 秒",
+    "$description": "秒を H:M:S に変換する",
+    "$keywords": [
+      "時間",
+      "日にち",
+      "秒",
+      "変換",
+      "hms",
+      "間隔"
+    ]
+  }
+}

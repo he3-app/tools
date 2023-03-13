@@ -1,0 +1,134 @@
+{
+  "en": {
+    "$name": "Generate Random Time",
+    "$description": "Random Time Generator",
+    "$keywords": [
+      "datetime",
+      "time",
+      "random",
+      "generate",
+      "generator",
+      "RFC2822"
+    ]
+  },
+  "zh-cn": {
+    "$name": "生成随机时间",
+    "$description": "随机时间发生器",
+    "$keywords": [
+      "约会时间",
+      "时间",
+      "随机的",
+      "产生",
+      "发电机",
+      "RFC2822"
+    ]
+  },
+  "zh-tw": {
+    "$name": "生成隨機時間",
+    "$description": "隨機時間發生器",
+    "$keywords": [
+      "約會時間",
+      "時間",
+      "隨機的",
+      "產生",
+      "發電機",
+      "RFC2822"
+    ]
+  },
+  "it": {
+    "$name": "Genera tempo casuale",
+    "$description": "Generatore di tempo casuale",
+    "$keywords": [
+      "appuntamento",
+      "tempo",
+      "casuale",
+      "creare",
+      "Generatore",
+      "RFC2822"
+    ]
+  },
+  "pt": {
+    "$name": "Gerar Tempo Aleatório",
+    "$description": "Gerador de Tempo Aleatório",
+    "$keywords": [
+      "data hora",
+      "tempo",
+      "aleatório",
+      "gerar",
+      "gerador",
+      "RFC2822"
+    ]
+  },
+  "de": {
+    "$name": "Zufallszeit generieren",
+    "$description": "Zufallsgenerator",
+    "$keywords": [
+      "Terminzeit",
+      "Zeit",
+      "willkürlich",
+      "generieren",
+      "Generator",
+      "RFC2822"
+    ]
+  },
+  "ja": {
+    "$name": "ランダム時間を生成",
+    "$description": "ランダム時間ジェネレーター",
+    "$keywords": [
+      "日付時刻",
+      "時間",
+      "ランダム",
+      "生成",
+      "発生器",
+      "RFC2822"
+    ]
+  },
+  "ru": {
+    "$name": "Генерация случайного времени",
+    "$description": "Генератор случайного времени",
+    "$keywords": [
+      "дата и время",
+      "время",
+      "случайный",
+      "генерировать",
+      "генератор",
+      "RFC2822"
+    ]
+  },
+  "es": {
+    "$name": "Generar tiempo aleatorio",
+    "$description": "Generador de tiempo aleatorio",
+    "$keywords": [
+      "fecha y hora",
+      "tiempo",
+      "aleatorio",
+      "generar",
+      "generador",
+      "RFC2822"
+    ]
+  },
+  "ko": {
+    "$name": "임의의 시간 생성",
+    "$description": "임의 시간 생성기",
+    "$keywords": [
+      "날짜 시간",
+      "시간",
+      "무작위의",
+      "생성하다",
+      "발전기",
+      "RFC2822"
+    ]
+  },
+  "fr": {
+    "$name": "Générer un temps aléatoire",
+    "$description": "Générateur de temps aléatoire",
+    "$keywords": [
+      "date-heure",
+      "temps",
+      "aléatoire",
+      "générer",
+      "Générateur",
+      "RFC2822"
+    ]
+  }
+}

@@ -1,0 +1,89 @@
+{
+  "en": {
+    "$name": "Slug Generator",
+    "$description": "Slug Generator",
+    "$keywords": [
+      "slug",
+      "generator"
+    ]
+  },
+  "fr": {
+    "$name": "Générateur de limaces",
+    "$description": "Générateur de limaces",
+    "$keywords": [
+      "limace",
+      "Générateur"
+    ]
+  },
+  "zh-cn": {
+    "$name": "Slug 生成器",
+    "$description": "Slug 生成器",
+    "$keywords": [
+      "生成器"
+    ]
+  },
+  "de": {
+    "$name": "Slug-Generator",
+    "$description": "Slug-Generator",
+    "$keywords": [
+      "Schnecke",
+      "Generator"
+    ]
+  },
+  "ko": {
+    "$name": "슬러그 생성기",
+    "$description": "슬러그 생성기",
+    "$keywords": [
+      "강타",
+      "발전기"
+    ]
+  },
+  "ru": {
+    "$name": "Генератор пробок",
+    "$description": "Генератор пробок",
+    "$keywords": [
+      "слизняк",
+      "генератор"
+    ]
+  },
+  "ja": {
+    "$name": "スラグジェネレーター",
+    "$description": "スラグジェネレーター",
+    "$keywords": [
+      "ナメクジ",
+      "発生器"
+    ]
+  },
+  "zh-tw": {
+    "$name": "彈頭髮生器",
+    "$description": "彈頭髮生器",
+    "$keywords": [
+      "鼻涕蟲",
+      "發電機"
+    ]
+  },
+  "pt": {
+    "$name": "Gerador de Lesmas",
+    "$description": "Gerador de Lesmas",
+    "$keywords": [
+      "lesma",
+      "gerador"
+    ]
+  },
+  "es": {
+    "$name": "Generador de babosas",
+    "$description": "Generador de babosas",
+    "$keywords": [
+      "babosa",
+      "generador"
+    ]
+  },
+  "it": {
+    "$name": "Generatore di lumache",
+    "$description": "Generatore di lumache",
+    "$keywords": [
+      "lumaca",
+      "Generatore"
+    ]
+  }
+}

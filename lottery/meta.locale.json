@@ -1,0 +1,79 @@
+{
+  "zh-cn": {
+    "$name": "抽奖",
+    "$description": "抽奖",
+    "$keywords": [
+      "抽奖"
+    ]
+  },
+  "en": {
+    "$name": "Lottery",
+    "$description": "Lottery",
+    "$keywords": [
+      "lottery"
+    ]
+  },
+  "ja": {
+    "$name": "宝くじ",
+    "$description": "宝くじ",
+    "$keywords": [
+      "宝くじ"
+    ]
+  },
+  "zh-tw": {
+    "$name": "抽奖",
+    "$description": "抽奖",
+    "$keywords": [
+      "抽奖"
+    ]
+  },
+  "de": {
+    "$name": "Lotterie",
+    "$description": "Lotterie",
+    "$keywords": [
+      "Lotterie"
+    ]
+  },
+  "ko": {
+    "$name": "운",
+    "$description": "운",
+    "$keywords": [
+      "운"
+    ]
+  },
+  "ru": {
+    "$name": "Лотерея",
+    "$description": "Лотерея",
+    "$keywords": [
+      "лотерея"
+    ]
+  },
+  "es": {
+    "$name": "Lotería",
+    "$description": "Lotería",
+    "$keywords": [
+      "lotería"
+    ]
+  },
+  "it": {
+    "$name": "Lotteria",
+    "$description": "Lotteria",
+    "$keywords": [
+      "lotteria"
+    ]
+  },
+  "pt": {
+    "$name": "Loteria",
+    "$description": "Loteria",
+    "$keywords": [
+      "loteria"
+    ]
+  },
+  "fr": {
+    "$name": "Loterie",
+    "$description": "Loterie",
+    "$keywords": [
+      "loterie"
+    ]
+  }
+}

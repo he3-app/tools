@@ -1,0 +1,112 @@
+{
+  "ko": {
+    "$name": "ASCII 테이블",
+    "$description": "ASCII 문자 코드 가져오기",
+    "$keywords": [
+      "ASCII",
+      "암호",
+      "성격",
+      "테이블"
+    ]
+  },
+  "zh-cn": {
+    "$name": "ASCII 表",
+    "$description": "获取 ASCII 字符码",
+    "$keywords": [
+      "ASCII码",
+      "代码",
+      "特点",
+      "桌子"
+    ]
+  },
+  "es": {
+    "$name": "Tabla ASCII",
+    "$description": "Obtener código de carácter ASCII",
+    "$keywords": [
+      "ASCII",
+      "código",
+      "personaje",
+      "mesa"
+    ]
+  },
+  "it": {
+    "$name": "Tabella ASCII",
+    "$description": "Ottieni il codice carattere ASCII",
+    "$keywords": [
+      "ASCI",
+      "codice",
+      "carattere",
+      "tavolo"
+    ]
+  },
+  "de": {
+    "$name": "ASCII-Tabelle",
+    "$description": "ASCII-Zeichencode erhalten",
+    "$keywords": [
+      "ASCII",
+      "Code",
+      "Charakter",
+      "Tisch"
+    ]
+  },
+  "en": {
+    "$name": "ASCII Table",
+    "$description": "Get ASCII character code",
+    "$keywords": [
+      "ASCII",
+      "code",
+      "character",
+      "table"
+    ]
+  },
+  "fr": {
+    "$name": "Tableau ASCII",
+    "$description": "Obtenir le code de caractère ASCII",
+    "$keywords": [
+      "ASCII",
+      "code",
+      "personnage",
+      "tableau"
+    ]
+  },
+  "zh-tw": {
+    "$name": "ASCII 表",
+    "$description": "獲取 ASCII 字符碼",
+    "$keywords": [
+      "ASCII碼",
+      "代碼",
+      "特點",
+      "桌子"
+    ]
+  },
+  "ru": {
+    "$name": "Таблица ASCII",
+    "$description": "Получить код символа ASCII",
+    "$keywords": [
+      "ASCII",
+      "код",
+      "характер",
+      "стол"
+    ]
+  },
+  "ja": {
+    "$name": "アスキーテーブル",
+    "$description": "ASCII 文字コードを取得する",
+    "$keywords": [
+      "アスキー",
+      "コード",
+      "キャラクター",
+      "テーブル"
+    ]
+  },
+  "pt": {
+    "$name": "Tabela ASCII",
+    "$description": "Obter código de caracteres ASCII",
+    "$keywords": [
+      "ASCII",
+      "código",
+      "personagem",
+      "mesa"
+    ]
+  }
+}

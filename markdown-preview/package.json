@@ -1,0 +1,40 @@
+{
+  "type": "module",
+  "scripts": {
+    "dev": "he3 dev",
+    "i18n": "he3 i18n",
+    "publish": "he3 publish"
+  },
+  "he3": {
+    "name": "Markdown Previewer",
+    "id": "markdown-preview",
+    "version": "0.0.1",
+    "description": "Markdown to HTML with live preview",
+    "isPublic": true,
+    "category": [
+      "text"
+    ],
+    "keywords": [
+      "markdown",
+      "md",
+      "html",
+      "pdf",
+      "image",
+      "convert"
+    ]
+  },
+  "dependencies": {
+    "@types/marked": "^4.0.8",
+    "export-dom2pdf": "^1.0.12",
+    "html-to-image": "^1.11.11",
+    "marked": "^4.2.12",
+    "vue": "^3.2.45",
+    "vue-i18n": "^9.2.2"
+  },
+  "devDependencies": {
+    "@he3-kit/cli": "latest",
+    "@vitejs/plugin-vue": "^4.0.0",
+    "less": "^4.1.3",
+    "vite": "^4.0.0"
+  }
+}

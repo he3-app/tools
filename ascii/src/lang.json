@@ -1,0 +1,57 @@
+{
+  "zh": {
+    "prompt": "按任意键查询",
+    "character": "字符",
+    "value": "ASCII 数字"
+  },
+  "en": {
+    "prompt": "Press Any key to Query",
+    "character": "Character",
+    "value": "ASCII Value"
+  },
+  "de": {
+    "prompt": "Drücke irgendeine Taste",
+    "character": "Charakter",
+    "value": "ASCII -Nummer"
+  },
+  "es": {
+    "prompt": "presiona cualquier tecla",
+    "character": "personaje",
+    "value": "Número ascii"
+  },
+  "fr": {
+    "prompt": "appuyez sur une touche",
+    "character": "personnage",
+    "value": "Numéro ASCII"
+  },
+  "it": {
+    "prompt": "premere un tasto qualsiasi",
+    "character": "carattere",
+    "value": "Numero ASCII"
+  },
+  "ja": {
+    "prompt": "どれかキーを押してください",
+    "character": "キャラクター",
+    "value": "ASCII番号"
+  },
+  "ko": {
+    "prompt": "아무 키나 누르시오",
+    "character": "성격",
+    "value": "ASCII 번호"
+  },
+  "pt": {
+    "prompt": "pressione qualquer tecla",
+    "character": "personagem",
+    "value": "Número ASCII"
+  },
+  "ru": {
+    "prompt": "Нажмите любую кнопку",
+    "character": "характер",
+    "value": "Номер ASCII"
+  },
+  "zh-tw": {
+    "prompt": "按任意鍵查詢",
+    "character": "字符",
+    "value": "ASCII 數字"
+  }
+}

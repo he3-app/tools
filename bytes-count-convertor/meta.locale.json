@@ -1,0 +1,120 @@
+{
+  "en": {
+    "$name": "Bytes Count Unit Convertor",
+    "$description": "Convert any bytes units to any bytes units",
+    "$keywords": [
+      "bytes",
+      "MB",
+      "MiB",
+      "GB",
+      "Gib"
+    ]
+  },
+  "ko": {
+    "$name": "바이트 수 단위 변환기",
+    "$description": "모든 바이트 단위를 모든 바이트 단위로 변환",
+    "$keywords": [
+      "바이트",
+      "MB",
+      "MiB",
+      "GB",
+      "수코양이"
+    ]
+  },
+  "es": {
+    "$name": "Convertidor de unidades de conteo de bytes",
+    "$description": "Convierta cualquier unidad de bytes a cualquier unidad de bytes",
+    "$keywords": [
+      "bytes",
+      "MEGABYTE",
+      "MIB",
+      "ES",
+      "Gibraltar"
+    ]
+  },
+  "it": {
+    "$name": "Convertitore di unità conteggio byte",
+    "$description": "Converti qualsiasi unità di byte in qualsiasi unità di byte",
+    "$keywords": [
+      "byte",
+      "MB",
+      "MiB",
+      "GB",
+      "Gib"
+    ]
+  },
+  "ru": {
+    "$name": "Конвертер единиц подсчета байтов",
+    "$description": "Преобразование любых единиц байтов в любые единицы байтов",
+    "$keywords": [
+      "байты",
+      "МБ",
+      "МиБ",
+      "ГБ",
+      "Гиб"
+    ]
+  },
+  "pt": {
+    "$name": "Conversor de unidades de contagem de bytes",
+    "$description": "Converta quaisquer unidades de bytes em quaisquer unidades de bytes",
+    "$keywords": [
+      "bytes",
+      "MB",
+      "MiB",
+      "GB",
+      "Gib"
+    ]
+  },
+  "zh-cn": {
+    "$name": "字节计数单位转换器",
+    "$description": "将任何字节单位转换为任何字节单位",
+    "$keywords": [
+      "转换",
+      "转化"
+    ]
+  },
+  "zh-tw": {
+    "$name": "字節計數單位轉換器",
+    "$description": "將任何字節單位轉換為任何字節單位",
+    "$keywords": [
+      "字節",
+      "MB",
+      "軍訓局",
+      "國標",
+      "吉布"
+    ]
+  },
+  "ja": {
+    "$name": "バイトカウント単位コンバーター",
+    "$description": "任意のバイト単位を任意のバイト単位に変換します",
+    "$keywords": [
+      "バイト",
+      "MB",
+      "MiB",
+      "GB",
+      "ギブ"
+    ]
+  },
+  "de": {
+    "$name": "Einheitenumrechner für Bytes-Anzahl",
+    "$description": "Konvertieren Sie beliebige Byte-Einheiten in beliebige Byte-Einheiten",
+    "$keywords": [
+      "Bytes",
+      "MB",
+      "MiB",
+      "GB",
+      "Gib"
+    ]
+  },
+  "fr": {
+    "$name": "Convertisseur d'unités de nombre d'octets",
+    "$description": "Convertir n'importe quelles unités d'octets en n'importe quelles unités d'octets",
+    "$keywords": [
+      "octets",
+      "Mo",
+      "Mio",
+      "Go",
+      "Gib"
+    ]
+  }
+}

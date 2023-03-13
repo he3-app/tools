@@ -1,0 +1,453 @@
+{
+  "zh": {
+    "seed": {
+      "label": "随机种子",
+      "buttonTips": "刷新"
+    },
+    "amount": {
+      "label": "数量"
+    },
+    "uppercased": {
+      "label": "大写字符"
+    },
+    "lowercased": {
+      "label": "小写字符"
+    },
+    "symbols": {
+      "label": "符号"
+    },
+    "digits": {
+      "label": "数字"
+    },
+    "words": {
+      "label": "单词"
+    },
+    "separating": {
+      "symbol": "分隔符",
+      "label": "分隔符频率",
+      "character-set": {
+        "none": "无",
+        "space": "空格",
+        "slash": "斜杠",
+        "spot": "点",
+        "comma": "逗号",
+        "horizontal": "横线"
+      }
+    },
+    "custom": {
+      "label": "自定义字符",
+      "placeholder": "请输入自定义字符"
+    },
+    "result": "结果"
+  },
+  "en": {
+    "seed": {
+      "label": "Seed",
+      "buttonTips": "refresh"
+    },
+    "amount": {
+      "label": "Amount"
+    },
+    "uppercased": {
+      "label": "Uppercased Characters"
+    },
+    "lowercased": {
+      "label": "Lowercased Characters"
+    },
+    "symbols": {
+      "label": "Symbols"
+    },
+    "digits": {
+      "label": "Digits"
+    },
+    "words": {
+      "label": "Words"
+    },
+    "separating": {
+      "label": "Separating Group Size",
+      "symbol": "Separator Type",
+      "character-set": {
+        "none": "None",
+        "space": "Space",
+        "slash": "Slash",
+        "spot": "Spot",
+        "comma": "Comma",
+        "horizontal": "Hyphen"
+      }
+    },
+    "custom": {
+      "label": "Custom Character Set",
+      "placeholder": "Please enter custom characters"
+    },
+    "result": "result"
+  },
+  "de": {
+    "seed": {
+      "label": "Zufallssamen",
+      "buttonTips": "Aktualisierung"
+    },
+    "amount": {
+      "label": "Menge"
+    },
+    "uppercased": {
+      "label": "Großbuchstabe"
+    },
+    "lowercased": {
+      "label": "Kleinbuchstabe"
+    },
+    "symbols": {
+      "label": "Symbol"
+    },
+    "digits": {
+      "label": "Nummer"
+    },
+    "words": {
+      "label": "Wort"
+    },
+    "separating": {
+      "symbol": "Separatist",
+      "label": "Trennungsfrequenz",
+      "character-set": {
+        "none": "keiner",
+        "space": "Raum",
+        "slash": "Geneigt",
+        "spot": "Punkt",
+        "comma": "Komma",
+        "horizontal": "Horizontale Linie"
+      }
+    },
+    "custom": {
+      "label": "Benutzerdefinierter Charakter",
+      "placeholder": "Bitte geben Sie benutzerdefinierte Zeichen ein"
+    },
+    "result": "Ergebnis"
+  },
+  "es": {
+    "seed": {
+      "label": "Semilla aleatoria",
+      "buttonTips": "Actualizar"
+    },
+    "amount": {
+      "label": "cantidad"
+    },
+    "uppercased": {
+      "label": "Personaje en mayúsculas"
+    },
+    "lowercased": {
+      "label": "Minúscula"
+    },
+    "symbols": {
+      "label": "símbolo"
+    },
+    "digits": {
+      "label": "número"
+    },
+    "words": {
+      "label": "palabra"
+    },
+    "separating": {
+      "symbol": "Separatista",
+      "label": "Frecuencia de partición",
+      "character-set": {
+        "none": "ninguno",
+        "space": "Espacio",
+        "slash": "Inclinado",
+        "spot": "punto",
+        "comma": "coma",
+        "horizontal": "Linea horizontal"
+      }
+    },
+    "custom": {
+      "label": "Personaje personalizado",
+      "placeholder": "Ingrese los caracteres personalizados"
+    },
+    "result": "resultado"
+  },
+  "fr": {
+    "seed": {
+      "label": "Semences aléatoires",
+      "buttonTips": "Rafraîchir"
+    },
+    "amount": {
+      "label": "quantité"
+    },
+    "uppercased": {
+      "label": "Personnage majuscule"
+    },
+    "lowercased": {
+      "label": "Caractère minuscule"
+    },
+    "symbols": {
+      "label": "symbole"
+    },
+    "digits": {
+      "label": "nombre"
+    },
+    "words": {
+      "label": "mot"
+    },
+    "separating": {
+      "symbol": "Séparatiste",
+      "label": "Fréquence de partition",
+      "character-set": {
+        "none": "aucun",
+        "space": "Espace",
+        "slash": "Incliné",
+        "spot": "indiquer",
+        "comma": "virgule",
+        "horizontal": "Ligne horizontale"
+      }
+    },
+    "custom": {
+      "label": "Caractère personnalisé",
+      "placeholder": "Veuillez saisir des caractères personnalisés"
+    },
+    "result": "résultat"
+  },
+  "it": {
+    "seed": {
+      "label": "Seme casuale",
+      "buttonTips": "ricaricare"
+    },
+    "amount": {
+      "label": "quantità"
+    },
+    "uppercased": {
+      "label": "Carattere maiuscolo"
+    },
+    "lowercased": {
+      "label": "Carattere minuscolo"
+    },
+    "symbols": {
+      "label": "simbolo"
+    },
+    "digits": {
+      "label": "numero"
+    },
+    "words": {
+      "label": "parola"
+    },
+    "separating": {
+      "symbol": "Separatista",
+      "label": "Frequenza di partizione",
+      "character-set": {
+        "none": "nessuno",
+        "space": "Spazio",
+        "slash": "Inclinato",
+        "spot": "punto",
+        "comma": "virgola",
+        "horizontal": "Linea orizzontale"
+      }
+    },
+    "custom": {
+      "label": "Carattere personalizzato",
+      "placeholder": "Inserisci i caratteri personalizzati"
+    },
+    "result": "risultato"
+  },
+  "ja": {
+    "seed": {
+      "label": "ランダムシード",
+      "buttonTips": "リフレッシュします"
+    },
+    "amount": {
+      "label": "量"
+    },
+    "uppercased": {
+      "label": "大文字"
+    },
+    "lowercased": {
+      "label": "小文字の文字"
+    },
+    "symbols": {
+      "label": "シンボル"
+    },
+    "digits": {
+      "label": "番号"
+    },
+    "words": {
+      "label": "言葉"
+    },
+    "separating": {
+      "symbol": "分離主義者",
+      "label": "パーティション周波数",
+      "character-set": {
+        "none": "なし",
+        "space": "空",
+        "slash": "傾斜",
+        "spot": "点",
+        "comma": "コンマ",
+        "horizontal": "水平線"
+      }
+    },
+    "custom": {
+      "label": "カスタム文字",
+      "placeholder": "カスタム文字を入力してください"
+    },
+    "result": "結果"
+  },
+  "ko": {
+    "seed": {
+      "label": "임의의 씨앗",
+      "buttonTips": "새로 고치다"
+    },
+    "amount": {
+      "label": "수량"
+    },
+    "uppercased": {
+      "label": "대문자"
+    },
+    "lowercased": {
+      "label": "소문자 문자"
+    },
+    "symbols": {
+      "label": "상징"
+    },
+    "digits": {
+      "label": "숫자"
+    },
+    "words": {
+      "label": "단어"
+    },
+    "separating": {
+      "symbol": "분리파",
+      "label": "분할 주파수",
+      "character-set": {
+        "none": "없음",
+        "space": "공간",
+        "slash": "경사",
+        "spot": "가리키다",
+        "comma": "반점",
+        "horizontal": "수평선"
+      }
+    },
+    "custom": {
+      "label": "커스텀 캐릭터",
+      "placeholder": "사용자 정의 문자를 입력하십시오"
+    },
+    "result": "결과"
+  },
+  "pt": {
+    "seed": {
+      "label": "Semente aleatória",
+      "buttonTips": "Atualizar"
+    },
+    "amount": {
+      "label": "quantidade"
+    },
+    "uppercased": {
+      "label": "Caractere maiúsculo"
+    },
+    "lowercased": {
+      "label": "Caracter em minúsculas"
+    },
+    "symbols": {
+      "label": "símbolo"
+    },
+    "digits": {
+      "label": "número"
+    },
+    "words": {
+      "label": "palavra"
+    },
+    "separating": {
+      "symbol": "Separatista",
+      "label": "Frequência de partição",
+      "character-set": {
+        "none": "nenhum",
+        "space": "Espaço",
+        "slash": "Inclinado",
+        "spot": "apontar",
+        "comma": "vírgula",
+        "horizontal": "Linha horizontal"
+      }
+    },
+    "custom": {
+      "label": "Caráter personalizado",
+      "placeholder": "Por favor, insira caracteres personalizados"
+    },
+    "result": "resultado"
+  },
+  "ru": {
+    "seed": {
+      "label": "Случайное зерно",
+      "buttonTips": "Обновлять"
+    },
+    "amount": {
+      "label": "количество"
+    },
+    "uppercased": {
+      "label": "Прописная буква"
+    },
+    "lowercased": {
+      "label": "Нижевой персонаж"
+    },
+    "symbols": {
+      "label": "символ"
+    },
+    "digits": {
+      "label": "число"
+    },
+    "words": {
+      "label": "слово"
+    },
+    "separating": {
+      "symbol": "Сепаратист",
+      "label": "Частота раздела",
+      "character-set": {
+        "none": "никто",
+        "space": "Космос",
+        "slash": "Наклонен",
+        "spot": "точка",
+        "comma": "запятая",
+        "horizontal": "Горизонтальная линия"
+      }
+    },
+    "custom": {
+      "label": "Пользовательский персонаж",
+      "placeholder": "Пожалуйста, введите пользовательские символы"
+    },
+    "result": "результат"
+  },
+  "zh-tw": {
+    "seed": {
+      "label": "隨機種子",
+      "buttonTips": "刷新"
+    },
+    "amount": {
+      "label": "數量"
+    },
+    "uppercased": {
+      "label": "大寫字符"
+    },
+    "lowercased": {
+      "label": "小寫字符"
+    },
+    "symbols": {
+      "label": "符號"
+    },
+    "digits": {
+      "label": "數字"
+    },
+    "words": {
+      "label": "單詞"
+    },
+    "separating": {
+      "symbol": "分隔符",
+      "label": "分隔符頻率",
+      "character-set": {
+        "none": "無",
+        "space": "空格",
+        "slash": "斜杠",
+        "spot": "點",
+        "comma": "逗號",
+        "horizontal": "橫線"
+      }
+    },
+    "custom": {
+      "label": "自定義字符",
+      "placeholder": "請輸入自定義字符"
+    },
+    "result": "結果"
+  }
+}

@@ -1,0 +1,122 @@
+{
+  "pt": {
+    "$name": "Gerador de senhas",
+    "$description": "Gerar senha",
+    "$keywords": [
+      "Senha",
+      "senha",
+      "frase secreta",
+      "símbolo",
+      "Gerar"
+    ]
+  },
+  "de": {
+    "$name": "Passwortgenerator",
+    "$description": "Generiere Passwort",
+    "$keywords": [
+      "Passwort",
+      "Passwort",
+      "Passphrase",
+      "Zeichen",
+      "Generieren"
+    ]
+  },
+  "fr": {
+    "$name": "Générateur de mot de passe",
+    "$description": "Créer un mot de passe",
+    "$keywords": [
+      "Mot de passe",
+      "mot de passe",
+      "phrase de passe",
+      "jeton",
+      "Générer"
+    ]
+  },
+  "ru": {
+    "$name": "Генератор паролей",
+    "$description": "Сгенерировать пароль",
+    "$keywords": [
+      "Пароль",
+      "пароль",
+      "парольная фраза",
+      "жетон",
+      "Создать"
+    ]
+  },
+  "zh-cn": {
+    "$name": "密码生成器",
+    "$description": "生成密码",
+    "$keywords": [
+      "密码",
+      "生成",
+      "口令",
+      "随机"
+    ]
+  },
+  "ja": {
+    "$name": "パスワードジェネレーター",
+    "$description": "パスワードを生成する",
+    "$keywords": [
+      "パスワード",
+      "パスコード",
+      "パスフレーズ",
+      "トークン",
+      "生成"
+    ]
+  },
+  "en": {
+    "$name": "Password Generator",
+    "$description": "Generate password",
+    "$keywords": [
+      "Password",
+      "passcode",
+      "passphrase",
+      "token",
+      "Generate"
+    ]
+  },
+  "it": {
+    "$name": "Generatore di password",
+    "$description": "Genera password",
+    "$keywords": [
+      "Parola d'ordine",
+      "codice di accesso",
+      "frase d'accesso",
+      "gettone",
+      "creare"
+    ]
+  },
+  "zh-tw": {
+    "$name": "密碼生成器",
+    "$description": "生成密碼",
+    "$keywords": [
+      "密碼",
+      "密碼",
+      "密碼",
+      "令牌",
+      "產生"
+    ]
+  },
+  "es": {
+    "$name": "Generador de contraseñas",
+    "$description": "Generar contraseña",
+    "$keywords": [
+      "Contraseña",
+      "contraseña",
+      "frase de contraseña",
+      "simbólico",
+      "Generar"
+    ]
+  },
+  "ko": {
+    "$name": "비밀번호 생성기",
+    "$description": "비밀번호 생성",
+    "$keywords": [
+      "비밀번호",
+      "비밀번호",
+      "암호",
+      "토큰",
+      "생성하다"
+    ]
+  }
+}

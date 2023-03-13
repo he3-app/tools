@@ -1,0 +1,101 @@
+{
+  "en": {
+    "$name": "Base64 to Hex",
+    "$description": "Base64 to Hex",
+    "$keywords": [
+      "base64",
+      "hex",
+      "convert"
+    ]
+  },
+  "ru": {
+    "$name": "Base64 в шестнадцатеричный",
+    "$description": "Base64 в шестнадцатеричный",
+    "$keywords": [
+      "base64",
+      "шестигранник",
+      "конвертировать"
+    ]
+  },
+  "ja": {
+    "$name": "Base64 から Hex へ",
+    "$description": "Base64 から Hex へ",
+    "$keywords": [
+      "base64",
+      "六角",
+      "変換"
+    ]
+  },
+  "zh-cn": {
+    "$name": "Base64 转 Hex",
+    "$description": "Base64 转 Hex",
+    "$keywords": [
+      "base64",
+      "hex",
+      "convert"
+    ]
+  },
+  "zh-tw": {
+    "$name": "Base64轉十六進制",
+    "$description": "Base64轉十六進制",
+    "$keywords": [
+      "base64",
+      "十六進制",
+      "轉變"
+    ]
+  },
+  "es": {
+    "$name": "Base64 a hexadecimal",
+    "$description": "Base64 a hexadecimal",
+    "$keywords": [
+      "base64",
+      "maleficio",
+      "convertir"
+    ]
+  },
+  "it": {
+    "$name": "Da base64 a esadecimale",
+    "$description": "Da base64 a esadecimale",
+    "$keywords": [
+      "fondo64",
+      "esadecimale",
+      "convertire"
+    ]
+  },
+  "fr": {
+    "$name": "Base64 à Hex",
+    "$description": "Base64 à Hex",
+    "$keywords": [
+      "base64",
+      "hexagone",
+      "convertir"
+    ]
+  },
+  "ko": {
+    "$name": "Base64를 16진수로",
+    "$description": "Base64를 16진수로",
+    "$keywords": [
+      "base64",
+      "마녀",
+      "전환하다"
+    ]
+  },
+  "pt": {
+    "$name": "Base64 para Hex",
+    "$description": "Base64 para Hex",
+    "$keywords": [
+      "base64",
+      "hexadecimal",
+      "converter"
+    ]
+  },
+  "de": {
+    "$name": "Base64 zu Hex",
+    "$description": "Base64 zu Hex",
+    "$keywords": [
+      "base64",
+      "verhexen",
+      "Konvertieren"
+    ]
+  }
+}

@@ -1,0 +1,154 @@
+{
+  "it": {
+    "$name": "Figletto",
+    "$description": "Genera un'arte ASCII da una data parola o testo",
+    "$keywords": [
+      "Figletto",
+      "arte",
+      "font",
+      "asci",
+      "consolare",
+      "conchiglia",
+      "testo",
+      "Bellissimo"
+    ]
+  },
+  "es": {
+    "$name": "Figlet",
+    "$description": "Generar un arte ASCII a partir de una palabra o texto dado",
+    "$keywords": [
+      "Figlet",
+      "arte",
+      "fuente",
+      "ascii",
+      "consola",
+      "caparazón",
+      "texto",
+      "hermoso"
+    ]
+  },
+  "ko": {
+    "$name": "피글렛",
+    "$description": "주어진 단어 또는 텍스트에서 ASCII 아트 생성",
+    "$keywords": [
+      "피글렛",
+      "미술",
+      "폰트",
+      "ASCII",
+      "콘솔",
+      "껍데기",
+      "텍스트",
+      "아름다운"
+    ]
+  },
+  "zh-cn": {
+    "$name": "Figlet",
+    "$description": "生成 ASCII 图像字符",
+    "$keywords": [
+      "艺术字",
+      "文本",
+      "字体",
+      "字体",
+      "命令行",
+      "控制台"
+    ]
+  },
+  "ja": {
+    "$name": "フィグレット",
+    "$description": "指定された単語またはテキストから ASCII アートを生成する",
+    "$keywords": [
+      "フィグレット",
+      "美術",
+      "フォント",
+      "アスキー",
+      "コンソール",
+      "シェル",
+      "文章",
+      "美しい"
+    ]
+  },
+  "de": {
+    "$name": "Figlet",
+    "$description": "Generieren Sie eine ASCII-Grafik aus einem bestimmten Wort oder Text",
+    "$keywords": [
+      "Figlet",
+      "Kunst",
+      "Schriftart",
+      "ASCII",
+      "Konsole",
+      "Hülse",
+      "Text",
+      "Schön"
+    ]
+  },
+  "pt": {
+    "$name": "Figo",
+    "$description": "Gere uma arte ASCII a partir de uma determinada palavra ou texto",
+    "$keywords": [
+      "Figo",
+      "arte",
+      "Fonte",
+      "ascii",
+      "console",
+      "concha",
+      "texto",
+      "lindo"
+    ]
+  },
+  "en": {
+    "$name": "Figlet",
+    "$description": "Generate an ASCII art from a given word or text",
+    "$keywords": [
+      "Figlet",
+      "art",
+      "font",
+      "ascii",
+      "console",
+      "shell",
+      "text",
+      "beautiful"
+    ]
+  },
+  "ru": {
+    "$name": "Фиглет",
+    "$description": "Создание ASCII-арта из заданного слова или текста",
+    "$keywords": [
+      "Фиглет",
+      "искусство",
+      "шрифт",
+      "ascii",
+      "консоль",
+      "оболочка",
+      "текст",
+      "красивый"
+    ]
+  },
+  "fr": {
+    "$name": "Figuette",
+    "$description": "Générer un art ASCII à partir d'un mot ou d'un texte donné",
+    "$keywords": [
+      "Figuette",
+      "art",
+      "Police de caractère",
+      "ascii",
+      "console",
+      "coquille",
+      "texte",
+      "beau"
+    ]
+  },
+  "zh-tw": {
+    "$name": "菲力特",
+    "$description": "從給定的單詞或文本生成 ASCII 藝術",
+    "$keywords": [
+      "菲力特",
+      "藝術",
+      "字體",
+      "ascii碼",
+      "安慰",
+      "殼",
+      "文本",
+      "美麗的"
+    ]
+  }
+}

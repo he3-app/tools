@@ -1,0 +1,68 @@
+{
+  "zh": {
+    "copy": "复制 HTML",
+    "imageExport": "保存为图片",
+    "pdfExport": "保存为PDF",
+    "nothing": "请输入文字"
+  },
+  "en": {
+    "copy": "Copy as HTML",
+    "imageExport": "Save as Image",
+    "pdfExport": "Save as PDF",
+    "nothing": "Please input your code first"
+  },
+  "de": {
+    "copy": "Kopieren Sie HTML",
+    "imageExport": "Speichern Sie als Bild",
+    "pdfExport": "Speichern Sie als PDF",
+    "nothing": "Bitte geben Sie Text ein"
+  },
+  "es": {
+    "copy": "Copiar html",
+    "imageExport": "Guardar como una imagen",
+    "pdfExport": "Guardar como pdf",
+    "nothing": "Por favor ingrese texto"
+  },
+  "fr": {
+    "copy": "Copier HTML",
+    "imageExport": "Enregistrer sous forme d'image",
+    "pdfExport": "Enregistrer en tant que PDF",
+    "nothing": "Veuillez saisir le texte"
+  },
+  "it": {
+    "copy": "Copia HTML",
+    "imageExport": "Salva come immagine",
+    "pdfExport": "Salva come PDF",
+    "nothing": "Inserisci il testo"
+  },
+  "ja": {
+    "copy": "HTMLをコピーします",
+    "imageExport": "写真として保存します",
+    "pdfExport": "PDFとして保存します",
+    "nothing": "テキストを入力してください"
+  },
+  "ko": {
+    "copy": "HTML을 복사하십시오",
+    "imageExport": "사진으로 저장하십시오",
+    "pdfExport": "PDF로 저장하십시오",
+    "nothing": "텍스트를 입력하십시오"
+  },
+  "pt": {
+    "copy": "Copie HTML",
+    "imageExport": "Salvar como uma foto",
+    "pdfExport": "Salve como pdf",
+    "nothing": "Por favor, insira o texto"
+  },
+  "ru": {
+    "copy": "Скопируйте HTML",
+    "imageExport": "Сохранить как изображение",
+    "pdfExport": "Сохранить как PDF",
+    "nothing": "Пожалуйста, введите текст"
+  },
+  "zh-tw": {
+    "copy": "複製 HTML",
+    "imageExport": "保存為圖片",
+    "pdfExport": "保存為PDF",
+    "nothing": "請輸入文字"
+  }
+}

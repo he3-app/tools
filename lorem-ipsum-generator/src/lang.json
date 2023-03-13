@@ -1,0 +1,112 @@
+{
+  "zh": {
+    "generate": "生成",
+    "refresh": "刷新",
+    "title": "文本",
+    "options": {
+      "word": "词",
+      "sentence": "句",
+      "paragraph": "段"
+    }
+  },
+  "en": {
+    "generate": "Generate",
+    "refresh": "Refresh",
+    "title": "Text",
+    "options": {
+      "word": "word(s)",
+      "sentence": "sentence(s)",
+      "paragraph": "paragraph(s)"
+    }
+  },
+  "de": {
+    "generate": "generieren",
+    "refresh": "Aktualisierung",
+    "title": "Text",
+    "options": {
+      "word": "Wort",
+      "sentence": "Satz",
+      "paragraph": "Teil"
+    }
+  },
+  "es": {
+    "generate": "generar",
+    "refresh": "Actualizar",
+    "title": "texto",
+    "options": {
+      "word": "palabra",
+      "sentence": "oración",
+      "paragraph": "parte"
+    }
+  },
+  "fr": {
+    "generate": "générer",
+    "refresh": "Rafraîchir",
+    "title": "texte",
+    "options": {
+      "word": "mot",
+      "sentence": "phrase",
+      "paragraph": "partie"
+    }
+  },
+  "it": {
+    "generate": "creare",
+    "refresh": "ricaricare",
+    "title": "testo",
+    "options": {
+      "word": "parola",
+      "sentence": "frase",
+      "paragraph": "parte"
+    }
+  },
+  "ja": {
+    "generate": "生成",
+    "refresh": "リフレッシュします",
+    "title": "文章",
+    "options": {
+      "word": "言葉",
+      "sentence": "文",
+      "paragraph": "部"
+    }
+  },
+  "ko": {
+    "generate": "생성하다",
+    "refresh": "새로 고치다",
+    "title": "텍스트",
+    "options": {
+      "word": "단어",
+      "sentence": "문장",
+      "paragraph": "부분"
+    }
+  },
+  "pt": {
+    "generate": "gerar",
+    "refresh": "Atualizar",
+    "title": "texto",
+    "options": {
+      "word": "palavra",
+      "sentence": "frase",
+      "paragraph": "papel"
+    }
+  },
+  "ru": {
+    "generate": "генерировать",
+    "refresh": "Обновлять",
+    "title": "текст",
+    "options": {
+      "word": "слово",
+      "sentence": "предложение",
+      "paragraph": "часть"
+    }
+  },
+  "zh-tw": {
+    "generate": "生成",
+    "refresh": "刷新",
+    "title": "文本",
+    "options": {
+      "word": "詞",
+      "sentence": "句",
+      "paragraph": "段"
+    }
+  }
+}

@@ -1,0 +1,145 @@
+{
+  "en": {
+    "$name": "Lorem Ipsum Generator",
+    "$description": "Lorem Ipsum Generator",
+    "$keywords": [
+      "random",
+      "text",
+      "article",
+      "content",
+      "lorem",
+      "ipsum",
+      "placeholder",
+      "generator"
+    ]
+  },
+  "zh-tw": {
+    "$name": "随机假文生成器",
+    "$description": "随机假文生成器",
+    "$keywords": [
+      "随机" , "假文" , "文章" , "生成器"
+    ]
+  },
+  "ko": {
+    "$name": "아주 좋은 발전기",
+    "$description": "아주 좋은 발전기",
+    "$keywords": [
+      "무작위의",
+      "텍스트",
+      "기사",
+      "콘텐츠",
+      "인터넷",
+      "매우",
+      "자리 표시자",
+      "발전기"
+    ]
+  },
+  "zh-cn": {
+    "$name": "随机假文生成器",
+    "$description": "随机假文生成器",
+    "$keywords": [
+      "随机",
+      "文章",
+      "假文",
+      "生成器"
+    ]
+  },
+  "fr": {
+    "$name": "Très bon générateur",
+    "$description": "Très bon générateur",
+    "$keywords": [
+      "aléatoire",
+      "texte",
+      "article",
+      "contenu",
+      "l'Internet",
+      "très",
+      "espace réservé",
+      "Générateur"
+    ]
+  },
+  "it": {
+    "$name": "Generatore molto buono",
+    "$description": "Generatore molto buono",
+    "$keywords": [
+      "casuale",
+      "testo",
+      "articolo",
+      "contenuto",
+      "Internet",
+      "molto",
+      "segnaposto",
+      "Generatore"
+    ]
+  },
+  "ja": {
+    "$name": "とても良い発電機",
+    "$description": "とても良い発電機",
+    "$keywords": [
+      "ランダム",
+      "文章",
+      "記事",
+      "コンテンツ",
+      "インターネット",
+      "とても",
+      "プレースホルダー",
+      "発生器"
+    ]
+  },
+  "ru": {
+    "$name": "Очень хороший генератор",
+    "$description": "Очень хороший генератор",
+    "$keywords": [
+      "случайный",
+      "текст",
+      "статья",
+      "содержание",
+      "Интернет",
+      "очень",
+      "заполнитель",
+      "генератор"
+    ]
+  },
+  "es": {
+    "$name": "Muy buen generador",
+    "$description": "Muy buen generador",
+    "$keywords": [
+      "aleatorio",
+      "texto",
+      "artículo",
+      "contenido",
+      "Internet",
+      "muy",
+      "marcador de posición",
+      "generador"
+    ]
+  },
+  "de": {
+    "$name": "Sehr guter Generator",
+    "$description": "Sehr guter Generator",
+    "$keywords": [
+      "willkürlich",
+      "Text",
+      "Artikel",
+      "Inhalt",
+      "Internet",
+      "sehr",
+      "Platzhalter",
+      "Generator"
+    ]
+  },
+  "pt": {
+    "$name": "Gerador muito bom",
+    "$description": "Gerador muito bom",
+    "$keywords": [
+      "aleatório",
+      "texto",
+      "artigo",
+      "contente",
+      "Internet",
+      "muito",
+      "espaço reservado",
+      "gerador"
+    ]
+  }
+}

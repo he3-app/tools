@@ -1,0 +1,126 @@
+{
+  "zh-tw": {
+    "$name": "降價預覽器",
+    "$description": "帶實時預覽的 HTML 降價",
+    "$keywords": [
+      "降價",
+      "醫學博士",
+      "網頁格式",
+      "PDF格式",
+      "圖像",
+      "轉變"
+    ]
+  },
+  "pt": {
+    "$name": "Pré-visualizador de descontos",
+    "$description": "Markdown para HTML com visualização ao vivo",
+    "$keywords": [
+      "remarcação",
+      "md",
+      "html",
+      "pdf",
+      "imagem",
+      "converter"
+    ]
+  },
+  "it": {
+    "$name": "Markdown Previewer",
+    "$description": "Markdown to HTML with live preview",
+    "$keywords": [
+      "markdown" , "md" , "html" , "pdf" , "image" , "convert"
+    ]
+  },
+  "ko": {
+    "$name": "마크다운 프리뷰어",
+    "$description": "실시간 미리보기를 사용하여 HTML로 마크다운",
+    "$keywords": [
+      "가격 인하",
+      "메릴랜드",
+      "HTML",
+      "pdf",
+      "영상",
+      "전환하다"
+    ]
+  },
+  "ru": {
+    "$name": "Предварительный просмотр уценки",
+    "$description": "Уценка в HTML с предварительным просмотром в реальном времени",
+    "$keywords": [
+      "уценка",
+      "Мэриленд",
+      "HTML",
+      "пдф",
+      "изображение",
+      "конвертировать"
+    ]
+  },
+  "zh-cn": {
+    "$name": "Markdown 预览",
+    "$description": "Markdown文本预览",
+    "$keywords": [
+      "预览",
+      "图片",
+      "文档"
+    ]
+  },
+  "ja": {
+    "$name": "Markdown プレビューア",
+    "$description": "ライブプレビューによる HTML へのマークダウン",
+    "$keywords": [
+      "マークダウン",
+      "md",
+      "html",
+      "pdf",
+      "画像",
+      "変換"
+    ]
+  },
+  "de": {
+    "$name": "Markdown-Vorschau",
+    "$description": "Markdown zu HTML mit Live-Vorschau",
+    "$keywords": [
+      "Abschlag",
+      "md",
+      "html",
+      "pdf",
+      "Bild",
+      "Konvertieren"
+    ]
+  },
+  "en": {
+    "$name": "Markdown Previewer",
+    "$description": "Markdown to HTML with live preview",
+    "$keywords": [
+      "markdown",
+      "md",
+      "html",
+      "pdf",
+      "image",
+      "convert"
+    ]
+  },
+  "es": {
+    "$name": "Previsor de rebajas",
+    "$description": "Markdown a HTML con vista previa en vivo",
+    "$keywords": [
+      "reducción",
+      "Maryland",
+      "html",
+      "pdf",
+      "imagen",
+      "convertir"
+    ]
+  },
+  "fr": {
+    "$name": "Aperçu Markdown",
+    "$description": "Markdown en HTML avec aperçu en direct",
+    "$keywords": [
+      "réduction",
+      "Maryland",
+      "html",
+      "pdf",
+      "image",
+      "convertir"
+    ]
+  }
+}

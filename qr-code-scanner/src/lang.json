@@ -1,0 +1,46 @@
+{
+  "zh": {
+    "uploadQRCode": "点击上传二维码",
+    "result": "结果"
+  },
+  "en": {
+    "uploadQRCode": "Click to Upload QR Code",
+    "result": "Result"
+  },
+  "de": {
+    "uploadQRCode": "Klicken Sie hier, um den QR -Code hochzuladen",
+    "result": "Ergebnis"
+  },
+  "es": {
+    "uploadQRCode": "Haga clic para cargar el código QR",
+    "result": "resultado"
+  },
+  "fr": {
+    "uploadQRCode": "Cliquez pour télécharger le code QR",
+    "result": "résultat"
+  },
+  "it": {
+    "uploadQRCode": "Fare clic per caricare il codice QR",
+    "result": "risultato"
+  },
+  "ja": {
+    "uploadQRCode": "クリックしてQRコードをアップロードします",
+    "result": "結果"
+  },
+  "ko": {
+    "uploadQRCode": "QR 코드를 업로드하려면 클릭하십시오",
+    "result": "결과"
+  },
+  "pt": {
+    "uploadQRCode": "Clique para fazer upload do código QR",
+    "result": "resultado"
+  },
+  "ru": {
+    "uploadQRCode": "Нажмите, чтобы загрузить QR -код",
+    "result": "результат"
+  },
+  "zh-tw": {
+    "uploadQRCode": "點擊上傳二維碼",
+    "result": "結果"
+  }
+}

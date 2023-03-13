@@ -1,0 +1,79 @@
+{
+  "zh": {
+    "input": "请在此处输入:",
+    "output": "输出:",
+    "delimiter": "分隔符:",
+    "removeNumber": "移除数字",
+    "removeWord": "移除停用词"
+  },
+  "en": {
+    "input": "Please input your content here:",
+    "output": "Result:",
+    "delimiter": "Delimiter:",
+    "removeNumber": "Remove numbers",
+    "removeWord": "Remove stop words"
+  },
+  "de": {
+    "input": "Bitte geben Sie hier ein:",
+    "output": "Ausgang:",
+    "delimiter": "Synthetisches Symbol:",
+    "removeNumber": "Zahlen entfernen",
+    "removeWord": "Entfernungswort"
+  },
+  "es": {
+    "input": "Por favor ingrese aquí:",
+    "output": "Producción:",
+    "delimiter": "Símbolo sintético:",
+    "removeNumber": "Eliminar números",
+    "removeWord": "Palabra de eliminación"
+  },
+  "fr": {
+    "input": "Veuillez entrer ici:",
+    "output": "Sortir:",
+    "delimiter": "Symbole synthétique:",
+    "removeNumber": "Supprimer les nombres",
+    "removeWord": "Mot de suppression"
+  },
+  "it": {
+    "input": "Inserisci qui:",
+    "output": "Produzione:",
+    "delimiter": "Simbolo sintetico:",
+    "removeNumber": "Rimuovere i numeri",
+    "removeWord": "Parola di rimozione"
+  },
+  "ja": {
+    "input": "ここに入力してください：",
+    "output": "出力：",
+    "delimiter": "合成シンボル：",
+    "removeNumber": "番号を削除します",
+    "removeWord": "削除ワード"
+  },
+  "ko": {
+    "input": "여기에 입력하십시오 :",
+    "output": "산출:",
+    "delimiter": "합성 기호 :",
+    "removeNumber": "숫자를 제거하십시오",
+    "removeWord": "제거 단어"
+  },
+  "pt": {
+    "input": "Por favor, digite aqui:",
+    "output": "Saída:",
+    "delimiter": "Símbolo sintético:",
+    "removeNumber": "Remova os números",
+    "removeWord": "Palavra de remoção"
+  },
+  "ru": {
+    "input": "Пожалуйста, введите здесь:",
+    "output": "Выход:",
+    "delimiter": "Синтетический символ:",
+    "removeNumber": "Удалить числа",
+    "removeWord": "Слово удаления"
+  },
+  "zh-tw": {
+    "input": "請在此處輸入:",
+    "output": "輸出:",
+    "delimiter": "分隔符:",
+    "removeNumber": "移除數字",
+    "removeWord": "移除停用詞"
+  }
+}

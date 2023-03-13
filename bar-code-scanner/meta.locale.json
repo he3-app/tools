@@ -1,0 +1,119 @@
+{
+  "fr": {
+    "$name": "Scanner de code à barres",
+    "$description": "Scanner de code à barres",
+    "$keywords": [
+      "bar",
+      "code",
+      "analyse",
+      "scanner",
+      "reconnaître"
+    ]
+  },
+  "ja": {
+    "$name": "バーコードスキャナ",
+    "$description": "バーコードスキャナ",
+    "$keywords": [
+      "バー",
+      "コード",
+      "スキャン",
+      "スキャナ",
+      "認識"
+    ]
+  },
+  "de": {
+    "$name": "Barcodelesegerät",
+    "$description": "Barcodelesegerät",
+    "$keywords": [
+      "Bar",
+      "Code",
+      "Scan",
+      "Scanner",
+      "erkenne"
+    ]
+  },
+  "en": {
+    "$name": "Bar Code Scanner",
+    "$description": "Bar Code Scanner",
+    "$keywords": [
+      "bar",
+      "code",
+      "scan",
+      "scanner",
+      "recognize"
+    ]
+  },
+  "es": {
+    "$name": "Escáner de código de barras",
+    "$description": "Escáner de código de barras",
+    "$keywords": [
+      "bar",
+      "código",
+      "escanear",
+      "escáner",
+      "reconocer"
+    ]
+  },
+  "it": {
+    "$name": "Scanner di codici a barre",
+    "$description": "Scanner di codici a barre",
+    "$keywords": [
+      "sbarra",
+      "codice",
+      "scansione",
+      "scanner",
+      "riconoscere"
+    ]
+  },
+  "zh-cn": {
+    "$name": "条形码扫描",
+    "$description": "扫描条形码",
+    "$keywords": [
+      "条形码" , "条码" , "扫描" , "扫描器" , "识别"
+    ]
+  },
+  "ko": {
+    "$name": "바코드 스캐너",
+    "$description": "바코드 스캐너",
+    "$keywords": [
+      "술집",
+      "암호",
+      "주사",
+      "스캐너",
+      "인정하다"
+    ]
+  },
+  "zh-tw": {
+    "$name": "掃碼機",
+    "$description": "掃碼機",
+    "$keywords": [
+      "酒吧",
+      "代碼",
+      "掃描",
+      "掃描器",
+      "認出"
+    ]
+  },
+  "ru": {
+    "$name": "Сканер штрих-кода",
+    "$description": "Сканер штрих-кода",
+    "$keywords": [
+      "бар",
+      "код",
+      "сканирование",
+      "сканер",
+      "распознавать"
+    ]
+  },
+  "pt": {
+    "$name": "Leitor de códigos de barra",
+    "$description": "Leitor de códigos de barra",
+    "$keywords": [
+      "bar",
+      "código",
+      "Varredura",
+      "scanner",
+      "reconhecer"
+    ]
+  }
+}
